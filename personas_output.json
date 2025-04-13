@@ -1,0 +1,68 @@
+{
+  "timestamp": "04-13-2025 05:01 AM",
+  "personas": [
+    {
+      "id": "persona-01",
+      "label": "\ud83d\udcda Cozy Fantasy + Tea Aesthetic",
+      "traits": [
+        "enjoys slow-burn romance",
+        "loves cozy fantasy books",
+        "subscribes to book box services",
+        "posts herbal tea reviews"
+      ],
+      "hashtags": [
+        "#CozyReads",
+        "#TeaAndBooks",
+        "#SlowBurnFantasy"
+      ],
+      "trope_signals": [
+        "slow burn",
+        "found family",
+        "magical cottagecore"
+      ],
+      "promo_tip": "Use calm, earthy visuals and soft tagline language. Frame your book as a comfort + escape."
+    },
+    {
+      "id": "persona-02",
+      "label": "\ud83d\udc8b Spicy Romance + Skincare Babe",
+      "traits": [
+        "reads alpha male romance on Kindle Unlimited",
+        "regularly reviews beauty boxes",
+        "follows #BookTok influencers",
+        "posts self-care content"
+      ],
+      "hashtags": [
+        "#AlphaMale",
+        "#RomanceReader",
+        "#SkincareAddict"
+      ],
+      "trope_signals": [
+        "possessive hero",
+        "fated mates",
+        "enemies to lovers"
+      ],
+      "promo_tip": "Use glam visuals and bold copy. Lead with desire + danger. Mention luxury or indulgent themes."
+    },
+    {
+      "id": "persona-03",
+      "label": "\ud83c\udfcb\ud83c\udffe\u200d\u2640\ufe0f Fit & Fierce Dark Romance Fan",
+      "traits": [
+        "reads during treadmill workouts",
+        "shares gym selfies & steamy books",
+        "follows MMA fighters & mafia romance authors",
+        "comments on dark FMC arcs"
+      ],
+      "hashtags": [
+        "#DarkRomance",
+        "#MafiaBooks",
+        "#FitGirlsRead"
+      ],
+      "trope_signals": [
+        "morally grey hero",
+        "forced proximity",
+        "redemption arc"
+      ],
+      "promo_tip": "Target energetic, dramatic hooks. Use dark/light contrast in your visuals. Lead with 'intensity meets intimacy'."
+    }
+  ]
+}
