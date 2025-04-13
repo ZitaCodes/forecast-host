@@ -6,3 +6,4 @@ gunicorn
 flask-cors
 requests
 beautifulsoup4
+flask
