@@ -1,2 +1,2 @@
 # forecast-host
- for imdb scraper
+ for imdb scraper trends
