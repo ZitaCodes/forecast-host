@@ -1,0 +1,858 @@
+{
+  "forecasts": [
+    {
+      "source": "IMDb",
+      "title": "Neil Young: Coastal (2025)",
+      "release_date": "Apr 17, 2025",
+      "aligning_tropes": [], 
+      "debug": true
+
+    },
+    {
+      "source": "IMDb",
+      "title": "Michael B. Jordan in Sinners (2025)",
+      "release_date": "Apr 18, 2025",
+      "aligning_tropes": []
+    },
+    {
+      "source": "IMDb",
+      "title": "Carey Mulligan, Tom Basden, and Tim Key in The Ballad of Wallis Island (2025)",
+      "release_date": "Apr 18, 2025",
+      "aligning_tropes": []
+    },
+    {
+      "source": "IMDb",
+      "title": "Sneaks (2025)",
+      "release_date": "Apr 18, 2025",
+      "aligning_tropes": []
+    },
+    {
+      "source": "IMDb",
+      "title": "Kelly Marie Tran in The Wedding Banquet (2025)",
+      "release_date": "Apr 18, 2025",
+      "aligning_tropes": []
+    },
+    {
+      "source": "IMDb",
+      "title": "Ben Affleck and Jon Bernthal in The Accountant 2 (2025)",
+      "release_date": "Apr 25, 2025",
+      "aligning_tropes": []
+    },
+    {
+      "source": "IMDb",
+      "title": "Until Dawn (2025)",
+      "release_date": "Apr 25, 2025",
+      "aligning_tropes": []
+    },
+    {
+      "source": "IMDb",
+      "title": "The Legend of Ochi (2025)",
+      "release_date": "Apr 25, 2025",
+      "aligning_tropes": []
+    },
+    {
+      "source": "IMDb",
+      "title": "Vincent Cassel and Diane Kruger in The Shrouds (2024)",
+      "release_date": "Apr 25, 2025",
+      "aligning_tropes": []
+    },
+    {
+      "source": "IMDb",
+      "title": "Skill House (2025)",
+      "release_date": "Apr 25, 2025",
+      "aligning_tropes": []
+    },
+    {
+      "source": "IMDb",
+      "title": "Tommy Chong and Cheech Marin in Cheech and Chong's Last Movie (2024)",
+      "release_date": "Apr 25, 2025",
+      "aligning_tropes": []
+    },
+    {
+      "source": "IMDb",
+      "title": "Pierce Brosnan, Helena Bonham Carter, and Gabriel Byrne in Four Letters of Love (2024)",
+      "release_date": "Apr 25, 2025",
+      "aligning_tropes": []
+    },
+    {
+      "source": "IMDb",
+      "title": "Bears on a Ship (2025)",
+      "release_date": "Apr 25, 2025",
+      "aligning_tropes": []
+    },
+    {
+      "source": "IMDb",
+      "title": "Carlo Acutis: Roadmap to Reality (2025)",
+      "release_date": "Apr 27, 2025",
+      "aligning_tropes": []
+    },  
+    {
+      "source": "IMDb",
+      "title": "Kerry David, Francis K. Sullivan, Emer Kinsella, Felipe Vargas, and Jenna Boss in Open Secret (2025)",
+      "release_date": "Apr 30, 2025",
+      "aligning_tropes": []
+    },
+    {
+      "source": "IMDb",
+      "title": "Wyatt Russell, David Harbour, Olga Kurylenko, Sebastian Stan, Hannah John-Kamen, and Florence Pugh in Thunderbolts* (2025)",
+      "release_date": "May 02, 2025",
+      "aligning_tropes": []
+    },
+    {
+      "source": "IMDb",
+      "title": "Alec Baldwin and Travis Fimmel in Rust (2024)",
+      "release_date": "May 02, 2025",
+      "aligning_tropes": []
+    },
+    {
+      "source": "IMDb",
+      "title": "Nicolas Cage in The Surfer (2024)",
+      "release_date": "May 02, 2025",
+      "aligning_tropes": []
+    },
+    {
+      "source": "IMDb",
+      "title": "Daryl Wein, Jack Farthing, Abigail Cowen, and Maria Bakalova in Electra (2024)",
+      "release_date": "May 02, 2025",
+      "aligning_tropes": []
+    },
+    {
+      "source": "IMDb",
+      "title": "Lew Temple, Tracee Cocco, Lexi Marie Hawks, Garrett K. Jones, Ray Rumsey, Brady Jacquin, Gurpreet Kaso Singh, Rynn Pevy, Jessica Zinkowsky, Sasikumar B., and Joe Cahill in The Last Battleship (2025)",
+      "release_date": "May 02, 2025",
+      "aligning_tropes": []
+    },
+    {
+      "source": "IMDb",
+      "title": "Kerry Washington and Omar Sy in Shadow Force (2025)",
+      "release_date": "May 02, 2025",
+      "aligning_tropes": []
+    },
+    {
+      "source": "IMDb",
+      "title": "Ciar\u00e1n Hinds, Jason Isaacs, and Maxine Peake in Words of War (2025)",
+      "release_date": "May 02, 2025",
+      "aligning_tropes": []
+    },
+    {
+      "source": "IMDb",
+      "title": "Swamp Dogg Gets His Pool Painted (2024)",
+      "release_date": "May 02, 2025",
+      "aligning_tropes": []
+    },
+    {
+      "source": "IMDb",
+      "title": "Lily McInerny in Bonjour Tristesse (2024)",
+      "release_date": "May 02, 2025",
+      "aligning_tropes": []
+    },
+    {
+      "source": "IMDb",
+      "title": "Josh Hartnett in Fight or Flight (2024)",
+      "release_date": "May 09, 2025",
+      "aligning_tropes": []
+    },
+    {
+      "source": "IMDb",
+      "title": "Clown in a Cornfield (2025)",
+      "release_date": "May 09, 2025",
+      "aligning_tropes": []
+    },
+    {
+      "source": "IMDb",
+      "title": "Paul Rudd and Tim Robinson in Friendship (2024)",
+      "release_date": "May 09, 2025",
+      "aligning_tropes": []
+    },
+    {
+      "source": "IMDb",
+      "title": "Juliet & Romeo (2025)",
+      "release_date": "May 09, 2025",
+      "aligning_tropes": []
+    },
+    {
+      "source": "IMDb",
+      "title": "Patricia Clarkson in Lilly (2024)",
+      "release_date": "May 09, 2025",
+      "aligning_tropes": []
+    },
+    {
+      "source": "IMDb",
+      "title": "The Lightning Code (2025)",
+      "release_date": "May 09, 2025",
+      "aligning_tropes": []
+    },
+    {
+      "source": "IMDb",
+      "title": "P31 (2025)",
+      "release_date": "May 09, 2025",
+      "aligning_tropes": []
+    },
+    {
+      "source": "IMDb",
+      "title": "Tom Dustin in Tom Dustin: Portrait of a Comedian (2024)",
+      "release_date": "May 09, 2025",
+      "aligning_tropes": []
+    },
+    {
+      "source": "IMDb",
+      "title": "Sew Torn (2024)",
+      "release_date": "May 09, 2025",
+      "aligning_tropes": []
+    },
+    {
+      "source": "IMDb",
+      "title": "Irma Lake, Luka Peros, Cillian O'Sullivan, Brice Bexter, Kacey Mottet Klein, Michael Patrick Lane, Melodie Casta, Julian Mileta, and Soraya Azzabi in The Lost Princess (2025)",
+      "release_date": "May 15, 2025",
+      "aligning_tropes": []
+    },
+    {
+      "source": "IMDb",
+      "title": "A Guardian's Heart (2025)",
+      "release_date": "May 15, 2025",
+      "aligning_tropes": []
+    },
+    {
+      "source": "IMDb",
+      "title": "The Lost Locket (2025)",
+      "release_date": "May 15, 2025",
+      "aligning_tropes": []
+    },
+    {
+      "source": "IMDb",
+      "title": "Christian Sebaldt, Mark Brandon, Toby Emmerich, Yvette Ferguson, Sheila Hanahan Taylor, Rya Kihlstedt, Zach Lipovsky, Rachel O'Toole, Panou, Craig Perry, Jeffrey Reddick, Gabrielle Rose, April Telek, Tony Todd, Tim Wynn, Alex Zahara, Janelle Beadall, Lori Evans Taylor, Jon Watts, Matty Finochio, Sophia Chapdelaine, Noah Bromley, Adam B. Stein, Jeanie Cloutier, Max Lloyd-Jones, Tinpo Lee, Richard Harmon, Guy Busick, Sabrina Pitre, Dianne McGunigle, Travis Turner, Teo Briones, Anna Lore, Brec Bassinger, Owen Patrick Joyner, Brenna Llewellyn, and Kaitlyn Santa Juana in Final Destination: Bloodlines (2025)",
+      "release_date": "May 16, 2025",
+      "aligning_tropes": []
+    },
+    {
+      "source": "IMDb",
+      "title": "The Weeknd, Barry Keoghan, and Jenna Ortega in Hurry Up Tomorrow (2025)",
+      "release_date": "May 16, 2025",
+      "aligning_tropes": []
+    },
+    {
+      "source": "IMDb",
+      "title": "Magic Farm (2025)",
+      "release_date": "May 16, 2025",
+      "aligning_tropes": []
+    },
+    {
+      "source": "IMDb",
+      "title": "The Loot (2025)",
+      "release_date": "May 16, 2025",
+      "aligning_tropes": []
+    },
+    {
+      "source": "IMDb",
+      "title": "The Crypto: Beyond (2025)",
+      "release_date": "May 16, 2025",
+      "aligning_tropes": []
+    },
+    {
+      "source": "IMDb",
+      "title": "Jason Scott Lee, Courtney B. Vance, Phillip J. Bartell, Nigel Bluck, Todd Cherniawsky, Dean DeBlois, Zach Galifianakis, Amy Hill, Don Nahaku, Chris Sanders, Dane Drewis, Darny Chau, Kaipo Dudoit, May Mirabel, Hualalai Chung, Dan Lin, Maia Kealoha, Diana Seppelfrick, Raymond John Ramiro, Hannah Waddingham, Faith Fay, Dan Romer, Billy Magnussen, Jonathan Eirich, Dean Fleischer Camp, Celia Kenney, Blake La Benz, Skyler Bible, Alex Denney, Christian Yeung, Sydney Agudong, Stacey Rabut, Chris Kekaniokalani Bright, David Hekili Kenui Bell, Matt Duffy, and Mike Van Waes in Lilo & Stitch (2025)",
+      "release_date": "May 23, 2025",
+      "aligning_tropes": []
+    },
+    {
+      "source": "IMDb",
+      "title": "Tom Cruise in Mission: Impossible - The Final Reckoning (2025)",
+      "release_date": "May 23, 2025",
+      "aligning_tropes": []
+    },
+    {
+      "source": "IMDb",
+      "title": "Neal McDonough in The Last Rodeo (2025)",
+      "release_date": "May 23, 2025",
+      "aligning_tropes": []
+    },
+    {
+      "source": "IMDb",
+      "title": "Jeff Fahey, Graham Greene, Jeremy Sumpter, Rumer Willis, Gbenga Akinnagbe, Eric Nelsen, and James Landry H\u00e9bert in Trail of Vengeance (2025)",
+      "release_date": "May 23, 2025",
+      "aligning_tropes": []
+    },
+    {
+      "source": "IMDb",
+      "title": "Jackie Chan, Ralph Macchio, Ming-Na Wen, Joshua Jackson, Jon Billington, Dana E. Glauberman, Robert Mark Kamen, Ben Wang, Rob Lieber, Katrina Batur, Emile Pazzano, Karen Rosenfelt, Aramis Knight, Maya Sigel, Justin Brown, Jonathan Entwistle, Dominic Lewis, Wyatt Oleff, Jennifer-Lynn Christie, Shaunette Ren\u00e9e Wilson, Sadie Stanley, and Caleb Baker in Karate Kid: Legends (2025)",
+      "release_date": "May 30, 2025",
+      "aligning_tropes": []
+    },
+    {
+      "source": "IMDb",
+      "title": "Bring Her Back (2025)",
+      "release_date": "May 30, 2025",
+      "aligning_tropes": []
+    },
+    {
+      "source": "IMDb",
+      "title": "Jane Austen Wrecked My Life (2024)",
+      "release_date": "May 30, 2025",
+      "aligning_tropes": []
+    },
+    {
+      "source": "IMDb",
+      "title": "Ana de Armas in Ballerina (2025)",
+      "release_date": "Jun 06, 2025",
+      "aligning_tropes": []
+    },
+    {
+      "source": "IMDb",
+      "title": "Tom Hiddleston in The Life of Chuck (2024)",
+      "release_date": "Jun 06, 2025",
+      "aligning_tropes": []
+    },
+    {
+      "source": "IMDb",
+      "title": "Benicio Del Toro in The Phoenician Scheme (2025)",
+      "release_date": "Jun 06, 2025",
+      "aligning_tropes": []
+    },
+    {
+      "source": "IMDb",
+      "title": "Hassie Harrison in Dangerous Animals (2025)",
+      "release_date": "Jun 06, 2025",
+      "aligning_tropes": []
+    },
+    {
+      "source": "IMDb",
+      "title": "The Ritual (2025)",
+      "release_date": "Jun 06, 2025",
+      "aligning_tropes": []
+    },
+    {
+      "source": "IMDb",
+      "title": "Andrew Rannells and Nick Kroll in I Don't Understand You (2024)",
+      "release_date": "Jun 06, 2025",
+      "aligning_tropes": []
+    },
+    {
+      "source": "IMDb",
+      "title": "Anniette Sharai Calderon, Luis de Lima, and Daniela Villamizar in Crawlers (2025)",
+      "release_date": "Jun 10, 2025",
+      "aligning_tropes": []
+    },
+    {
+      "source": "IMDb",
+      "title": "Nico Parker and Mason Thames in How to Train Your Dragon (2025)",
+      "release_date": "Jun 13, 2025",
+      "aligning_tropes": []
+    },
+    {
+      "source": "IMDb",
+      "title": "Pedro Pascal, Chris Evans, and Dakota Johnson in Materialists (2025)",
+      "release_date": "Jun 13, 2025",
+      "aligning_tropes": []
+    },
+    {
+      "source": "IMDb",
+      "title": "Ralph Fiennes, Danny Boyle, Bernard Bellew, Anthony Dod Mantle, Christopher Fulford, Alex Garland, Andrew Macdonald, Peter Rice, Mark Tildesley, Emma Laird, Maura Bird, Aaron Taylor-Johnson, Sam Locke, Jon Harris, Alfie Williams, Gordon Alexander, Robert Rhodes, Nathan Hall, Ghazi Al Ruffai, Carson McColl, Jack O'Connell, Geoffrey Austin Newland, Jodie Comer, Sandy Batchelor, Edvin Ryding, Chi Lewis-Parry, Gareth Pugh, Kim Allan, Kat Kitchener, Erin Kellyman, Celi Crossland, Joe Blakemore, and Angus Neill in 28 Years Later (2025)",
+      "release_date": "Jun 20, 2025",
+      "aligning_tropes": []
+    },
+    {
+      "source": "IMDb",
+      "title": "Steve Bloom, Brad Garrett, Elio, Shirley Henderson, Harley Jessup, Zoe Salda\u00f1a, Anna Wolitzky, Yonas Kibreab, Remy Edgerly, Mary Alice Drumm, Rob Simonsen, August Linn, Adrian Molina, Jameela Jamil, Madeline Sharafian, and Domee Shi in Elio (2025)",
+      "release_date": "Jun 20, 2025",
+      "aligning_tropes": []
+    },
+    {
+      "source": "IMDb",
+      "title": "Harley Flanagan: Wired for Chaos (2024)",
+      "release_date": "Jun 20, 2025",
+      "aligning_tropes": []
+    },
+    {
+      "source": "IMDb",
+      "title": "Lost Weekend (2025)",
+      "release_date": "Jun 25, 2025",
+      "aligning_tropes": []
+    },
+    {
+      "source": "IMDb",
+      "title": "Amie Donald and Jenna Davis at an event for M3GAN 2.0 (2025)",
+      "release_date": "Jun 27, 2025",
+      "aligning_tropes": []
+    },
+    {
+      "source": "IMDb",
+      "title": "Brad Pitt in F1 (2025)",
+      "release_date": "Jun 27, 2025",
+      "aligning_tropes": []
+    },
+    {
+      "source": "IMDb",
+      "title": "River Gallo in Ponyboi (2024)",
+      "release_date": "Jun 27, 2025",
+      "aligning_tropes": []
+    },
+    {
+      "source": "IMDb",
+      "title": "Naya Legend of the Golden Dolphin (2025)",
+      "release_date": "Jun 28, 2025",
+      "aligning_tropes": []
+    },
+    {
+      "source": "IMDb",
+      "title": "SKG: Death Row Records - Thru My Eyez (Documentary) (2025)",
+      "release_date": "Jun 28, 2025",
+      "aligning_tropes": []
+    },
+    {
+      "source": "IMDb",
+      "title": "Jurassic World: Rebirth (2025)",
+      "release_date": "Jul 02, 2025",
+      "aligning_tropes": []
+    },
+    {
+      "source": "IMDb",
+      "title": "Divine Soldiers (2025)",
+      "release_date": "Jul 04, 2025",
+      "aligning_tropes": []
+    },
+    {
+      "source": "IMDb",
+      "title": "Touch (2025)",
+      "release_date": "Jul 04, 2025",
+      "aligning_tropes": []
+    },
+    {
+      "source": "IMDb",
+      "title": "Danielle Deadwyler in 40 Acres (2024)",
+      "release_date": "Jul 04, 2025",
+      "aligning_tropes": []
+    },
+    {
+      "source": "IMDb",
+      "title": "To Give or Not to Give: Reparations for Slavery (2025)",
+      "release_date": "Jul 04, 2025",
+      "aligning_tropes": []
+    },
+    {
+      "source": "IMDb",
+      "title": "David Corenswet in Superman (2025)",
+      "release_date": "Jul 11, 2025",
+      "aligning_tropes": []
+    },
+    {
+      "source": "IMDb",
+      "title": "I Know What You Did Last Summer (2025)",
+      "release_date": "Jul 18, 2025",
+      "aligning_tropes": []
+    },
+    {
+      "source": "IMDb",
+      "title": "Smurfs (2025)",
+      "release_date": "Jul 18, 2025",
+      "aligning_tropes": []
+    },
+    {
+      "source": "IMDb",
+      "title": "Pedro Pascal, Ebon Moss-Bachrach, Vanessa Kirby, and Joseph Quinn in The Fantastic Four: First Steps (2025)",
+      "release_date": "Jul 25, 2025",
+      "aligning_tropes": []
+    },
+    {
+      "source": "IMDb",
+      "title": "Liam Neeson in The Naked Gun (2025)",
+      "release_date": "Aug 01, 2025",
+      "aligning_tropes": []
+    },
+    {
+      "source": "IMDb",
+      "title": "Together (2025)",
+      "release_date": "Aug 01, 2025",
+      "aligning_tropes": []
+    },
+    {
+      "source": "IMDb",
+      "title": "Sam Rockwell in The Bad Guys 2 (2025)",
+      "release_date": "Aug 01, 2025",
+      "aligning_tropes": []
+    },
+    {
+      "source": "IMDb",
+      "title": "Experiment 77 (2025)",
+      "release_date": "Aug 01, 2025",
+      "aligning_tropes": []
+    },
+    {
+      "source": "IMDb",
+      "title": "Jamie Lee Curtis and Lindsay Lohan in Freakier Friday (2025)",
+      "release_date": "Aug 08, 2025",
+      "aligning_tropes": []
+    },
+    {
+      "source": "IMDb",
+      "title": "Nobody 2 (2025)",
+      "release_date": "Aug 15, 2025",
+      "aligning_tropes": []
+    },
+    {
+      "source": "IMDb",
+      "title": "Sydney Sweeney in Americana (2023)",
+      "release_date": "Aug 22, 2025",
+      "aligning_tropes": []
+    },
+    {
+      "source": "IMDb",
+      "title": "Clika (2025)",
+      "release_date": "Aug 25, 2025",
+      "aligning_tropes": []
+    },
+    {
+      "source": "IMDb",
+      "title": "Luisa Guerreiro in The Toxic Avenger (2023)",
+      "release_date": "Aug 29, 2025",
+      "aligning_tropes": []
+    },
+    {
+      "source": "IMDb",
+      "title": "Yuri Kolokolnikov, Austin Butler, and Bad Bunny in Caught Stealing (2025)",
+      "release_date": "Aug 29, 2025",
+      "aligning_tropes": []
+    },
+    {
+      "source": "IMDb",
+      "title": "American Summer (2025)",
+      "release_date": "Aug 29, 2025",
+      "aligning_tropes": []
+    },
+    {
+      "source": "IMDb",
+      "title": "Another in the Fire (2025)",
+      "release_date": "Sep 01, 2025",
+      "aligning_tropes": []
+    },
+    {
+      "source": "IMDb",
+      "title": "Jessica Frost (2025)",
+      "release_date": "Sep 04, 2025",
+      "aligning_tropes": []
+    },
+    {
+      "source": "IMDb",
+      "title": "Vera Farmiga, David Leslie Johnson-McGoldrick, Peter Safran, Patrick Wilson, James Wan, Taissa Farmiga, and Victoria Paige Watkins in The Conjuring: Last Rites (2025)",
+      "release_date": "Sep 05, 2025",
+      "aligning_tropes": []
+    },
+    {
+      "source": "IMDb",
+      "title": "Light of the World (2025)",
+      "release_date": "Sep 05, 2025",
+      "aligning_tropes": []
+    },
+    {
+      "source": "IMDb",
+      "title": "Michelle Dockery in Downton Abbey: The Grand Finale (2025)",
+      "release_date": "Sep 12, 2025",
+      "aligning_tropes": []
+    },
+    {
+      "source": "IMDb",
+      "title": "The Long Walk (2025)",
+      "release_date": "Sep 12, 2025",
+      "aligning_tropes": []
+    },
+    {
+      "source": "IMDb",
+      "title": "Spinal Tap II (2025)",
+      "release_date": "Sep 12, 2025",
+      "aligning_tropes": []
+    },
+    {
+      "source": "IMDb",
+      "title": "Him (2025)",
+      "release_date": "Sep 19, 2025",
+      "aligning_tropes": []
+    },
+    {
+      "source": "IMDb",
+      "title": "A Big Bold Beautiful Journey (2025)",
+      "release_date": "Sep 19, 2025",
+      "aligning_tropes": []
+    },
+    {
+      "source": "IMDb",
+      "title": "One Battle After Another (2025)",
+      "release_date": "Sep 26, 2025",
+      "aligning_tropes": []
+    },
+    {
+      "source": "IMDb",
+      "title": "The Strangers: Chapter 2 (2025)",
+      "release_date": "Sep 26, 2025",
+      "aligning_tropes": []
+    },
+    {
+      "source": "IMDb",
+      "title": "Gabby's Dollhouse: The Movie (2025)",
+      "release_date": "Sep 26, 2025",
+      "aligning_tropes": []
+    },
+    {
+      "source": "IMDb",
+      "title": "Emile Hirsch and Inbar Lavi in Bau: Artist at War (2024)",
+      "release_date": "Sep 26, 2025",
+      "aligning_tropes": []
+    },
+    {
+      "source": "IMDb",
+      "title": "Jaafar Jackson in Michael (2025)",
+      "release_date": "Oct 03, 2025",
+      "aligning_tropes": []
+    },
+    {
+      "source": "IMDb",
+      "title": "Dwayne Johnson, Bas Rutten, and Emily Blunt in The Smashing Machine (2025)",
+      "release_date": "Oct 03, 2025",
+      "aligning_tropes": []
+    },
+    {
+      "source": "IMDb",
+      "title": "Drew Dusterhoff in We Harvest (2025)",
+      "release_date": "Oct 03, 2025",
+      "aligning_tropes": []
+    },
+    {
+      "source": "IMDb",
+      "title": "The Legend of Johnny Jones (2025)",
+      "release_date": "Oct 03, 2025",
+      "aligning_tropes": []
+    },
+    {
+      "source": "IMDb",
+      "title": "Jared Leto in Tron: Ares (2025)",
+      "release_date": "Oct 10, 2025",
+      "aligning_tropes": []
+    },
+    {
+      "source": "IMDb",
+      "title": "Kiss of the Spider Woman (2025)",
+      "release_date": "Oct 10, 2025",
+      "aligning_tropes": []
+    },
+    {
+      "source": "IMDb",
+      "title": "Dr. A. P. J. Abdul Kalam (2025)",
+      "release_date": "Oct 15, 2025",
+      "aligning_tropes": []
+    },
+    {
+      "source": "IMDb",
+      "title": "Black Phone 2 (2025)",
+      "release_date": "Oct 17, 2025",
+      "aligning_tropes": []
+    },
+    {
+      "source": "IMDb",
+      "title": "Marino Lupo, Isaias Rene, Alex R Tomblin, Emi Lulley, Shelby Hunstad, and Kathryn Taylor in The Watchers (2025)",
+      "release_date": "Oct 24, 2025",
+      "aligning_tropes": []
+    },
+    {
+      "source": "IMDb",
+      "title": "Detour 95 (2025)",
+      "release_date": "Oct 24, 2025",
+      "aligning_tropes": []
+    },
+    {
+      "source": "IMDb",
+      "title": "Chainsaw Man - The Movie: Reze Arc (2025)",
+      "release_date": "Oct 29, 2025",
+      "aligning_tropes": []
+    },
+    {
+      "source": "IMDb",
+      "title": "The Third Parent (2025)",
+      "release_date": "Oct 31, 2025",
+      "aligning_tropes": []
+    },
+    {
+      "source": "IMDb",
+      "title": "The Running Man (2025)",
+      "release_date": "Nov 07, 2025",
+      "aligning_tropes": []
+    },
+    {
+      "source": "IMDb",
+      "title": "Predator: Badlands (2025)",
+      "release_date": "Nov 07, 2025",
+      "aligning_tropes": []
+    },
+    {
+      "source": "IMDb",
+      "title": "The Cincinnati Spin (2025)",
+      "release_date": "Nov 10, 2025",
+      "aligning_tropes": []
+    },
+    {
+      "source": "IMDb",
+      "title": "Indecipherable (2025)",
+      "release_date": "Nov 15, 2025",
+      "aligning_tropes": []
+    },
+    {
+      "source": "IMDb",
+      "title": "A Figgly Christmas (2025)",
+      "release_date": "Nov 20, 2025",
+      "aligning_tropes": []
+    },
+    {
+      "source": "IMDb",
+      "title": "Wicked: For Good (2025)",
+      "release_date": "Nov 21, 2025",
+      "aligning_tropes": []
+    },
+    {
+      "source": "IMDb",
+      "title": "David (2025)",
+      "release_date": "Nov 21, 2025",
+      "aligning_tropes": []
+    },
+    {
+      "source": "IMDb",
+      "title": "STZ (2025)",
+      "release_date": "Nov 21, 2025",
+      "aligning_tropes": []
+    },
+    {
+      "source": "IMDb",
+      "title": "Zootopia 2 (2025)",
+      "release_date": "Nov 26, 2025",
+      "aligning_tropes": []
+    },
+    {
+      "source": "IMDb",
+      "title": "The Accident (2025)",
+      "release_date": "Dec 01, 2025",
+      "aligning_tropes": []
+    },
+    {
+      "source": "IMDb",
+      "title": "Five Nights at Freddy's 2 (2025)",
+      "release_date": "Dec 05, 2025",
+      "aligning_tropes": []
+    },
+    {
+      "source": "IMDb",
+      "title": "Avatar: Fire and Ash (2025)",
+      "release_date": "Dec 19, 2025",
+      "aligning_tropes": []
+    },
+    {
+      "source": "IMDb",
+      "title": "The SpongeBob Movie: Search for Squarepants (2025)",
+      "release_date": "Dec 19, 2025",
+      "aligning_tropes": []
+    },
+    {
+      "source": "IMDb",
+      "title": "Jim Caviezel, Gael Garc\u00eda Bernal, Ben Mendelsohn, Sam Worthington, and Deva Cassel in Zero A.D. (2025)",
+      "release_date": "Dec 19, 2025",
+      "aligning_tropes": []
+    },
+    {
+      "source": "IMDb",
+      "title": "The Street Avenger (2025)",
+      "release_date": "Dec 24, 2025",
+      "aligning_tropes": []
+    },
+    {
+      "source": "IMDb",
+      "title": "Return of the Living Dead (2025)",
+      "release_date": "Dec 25, 2025",
+      "aligning_tropes": []
+    },
+    {
+      "source": "IMDb",
+      "title": "Planet Gliese (2025)",
+      "release_date": "Dec 25, 2025",
+      "aligning_tropes": []
+    },
+    {
+      "source": "IMDb",
+      "title": "Alien Wars: Judgement Day (2025)",
+      "release_date": "Dec 29, 2025",
+      "aligning_tropes": []
+    },
+    {
+      "source": "IMDb",
+      "title": "Killer Clown Girls (2025)",
+      "release_date": "Dec 30, 2025",
+      "aligning_tropes": []
+    },
+    {
+      "source": "IMDb",
+      "title": "The King, The Swordsman, and the Sorceress (2025)",
+      "release_date": "Dec 30, 2025",
+      "aligning_tropes": []
+    },
+    {
+      "source": "IMDb",
+      "title": "Apophis 2029 (2025)",
+      "release_date": "Dec 30, 2025",
+      "aligning_tropes": []
+    },
+    {
+      "source": "IMDb",
+      "title": "Nightmare (2025)",
+      "release_date": "Dec 30, 2025",
+      "aligning_tropes": []
+    },
+    {
+      "source": "IMDb",
+      "title": "Crystal (2025)",
+      "release_date": "Dec 30, 2025",
+      "aligning_tropes": []
+    },
+    {
+      "source": "IMDb",
+      "title": "Wuthering Heights (2026)",
+      "release_date": "Feb 13, 2026",
+      "aligning_tropes": []
+    },
+    {
+      "source": "IMDb",
+      "title": "GOAT (2026)",
+      "release_date": "Feb 13, 2026",
+      "aligning_tropes": []
+    },
+    {
+      "source": "IMDb",
+      "title": "What About Love (2013)",
+      "release_date": "Feb 14, 2026",
+      "aligning_tropes": []
+    },
+    {
+      "source": "IMDb",
+      "title": "Scream 7 (2026)",
+      "release_date": "Feb 27, 2026",
+      "aligning_tropes": []
+    },
+    {
+      "source": "IMDb",
+      "title": "Bill Hader, Zoe Buchansky, and Xochitl Gomez in The Cat in the Hat (2026)",
+      "release_date": "Feb 27, 2026",
+      "aligning_tropes": []
+    },
+    {
+      "source": "IMDb",
+      "title": "Hoppers (2026)",
+      "release_date": "Mar 06, 2026",
+      "aligning_tropes": []
+    },
+    {
+      "source": "IMDb",
+      "title": "Flowervale Street (2026)",
+      "release_date": "Mar 14, 2026",
+      "aligning_tropes": []
+    },
+    {
+      "source": "IMDb",
+      "title": "The Singing Priest (2026)",
+      "release_date": "Apr 02, 2026",
+      "aligning_tropes": []
+    }
+  ]
+}
