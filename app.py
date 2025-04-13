@@ -5,7 +5,7 @@ from datetime import datetime
 
 app = Flask(__name__)
 
-@app.route("/reddit-forecast")
+@app.route("/reddit-media")
 def reddit_forecast():
     data = {
         "last_updated": datetime.now().strftime("%m-%d-%Y"),
