@@ -1,0 +1,8 @@
+praw
+pandas
+python-dotenv
+flask
+gunicorn
+flask-cors
+requests
+beautifulsoup4
