@@ -93,6 +93,14 @@ def check_subscription():
     except Exception as e:
         return jsonify({ "access": False, "error": str(e) }), 500
 
+@app.route("/subscribers.json")
+def get_subscribers_file():
+    try:
+        with open("subscribers.json", "r") as f:
+            data = json.load(f)
+        return jsonify(data)
+    except Exception as e:
+        return jsonify({"error": str(e)}), 500
 
 
 
