@@ -1,10 +1,5 @@
 {
-  "tizahmi@2tigersllc.com": {
-    "tier": 1,
-    "last_updated": "2025-04-14 02:32 AM"
-  },
-  "readerqueen99@gmail.com": {
-    "tier": 1,
-    "last_updated": "2025-04-14 02:32 AM"
-  }
+  "2tigersllc@gmail.com": { "tier": "tier1" },
+  "testuser@demo.com": { "tier": "tier2" },
+  "another@example.com": { "tier": "tier3" }
 }
