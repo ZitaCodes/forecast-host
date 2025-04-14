@@ -75,6 +75,26 @@ def stripe_webhook():
 
     return "", 200
 
+from flask import request
+
+@app.route("/api/check-subscription", methods=["POST"])
+def check_subscription():
+    try:
+        email = request.json.get("email", "").strip().lower()
+        with open("subscribers.json", "r") as f:
+            subscribers = json.load(f)
+
+        user = subscribers.get(email)
+        if user:
+            tier = user.get("tier")
+            return jsonify({ "access": True, "tier": tier })
+        else:
+            return jsonify({ "access": False, "message": "No subscription found." }), 404
+    except Exception as e:
+        return jsonify({ "access": False, "error": str(e) }), 500
+
+
+
 
 if __name__ == "__main__":
     port = int(os.environ.get("PORT", 5000))
