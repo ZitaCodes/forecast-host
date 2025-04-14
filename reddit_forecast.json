@@ -2,20 +2,54 @@
   "last_updated": "04-13-2025",
   "reddit_forecast": [
     {
+      "title": "Fallout (Amazon Prime)",
+      "trend_type": "Post-Apocalyptic Adventure",
+      "description": "Redditors are obsessed with the wasteland world-building — great for dystopian promos or survivalist romance tie-ins."
+    },
+    {
+      "title": "Shōgun (FX/Hulu)",
+      "trend_type": "Historical Epic",
+      "description": "Gritty power plays, forbidden love, and cultural conflict — excellent crossover for historical romance or samurai tropes."
+    },
+    {
       "title": "Dark Matter (Apple TV)",
       "trend_type": "Sci-Fi Thriller",
-      "description": "Redditors are dissecting every scene of this multiverse story — perfect for fans of time loops and emotional what-ifs."
+      "description": "Multiverse theories and emotional tension — use this for books exploring identity, time loops, or second-chance twists."
     },
     {
-      "title": "Ripley",
+      "title": "Ripley (Netflix)",
       "trend_type": "Psychological Suspense",
-      "description": "Everyone's obsessing over the eerie atmosphere and morally gray anti-heroes — great for dark romance or dual-identity promo tie-ins."
+      "description": "Cold tension and morally gray leads — a goldmine for dark romance or dual-identity tropes."
     },
     {
-      "title": "3 Body Problem",
+      "title": "3 Body Problem (Netflix)",
       "trend_type": "Genre Crossover",
-      "description": "Hard sci-fi meets deep human themes — Redditors are craving alien contact, survival ethics, and world-ending stakes."
+      "description": "Hard sci-fi meets deep human themes — Redditors are craving alien contact, ethics, and world-ending stakes."
+    },
+    {
+      "title": "X-Men ‘97 (Disney+)",
+      "trend_type": "Nostalgia + Superpower Conflict",
+      "description": "Reddit is gushing over emotional depth and epic arcs — great angle for fated lovers, found family, or vigilante tropes."
+    },
+    {
+      "title": "Sugar (Apple TV)",
+      "trend_type": "Neo-Noir Mystery",
+      "description": "Twisty detective meets hidden identity — ideal for authors with thriller romance or bodyguard tropes."
+    },
+    {
+      "title": "The Gentlemen (Netflix)",
+      "trend_type": "Crime Dramedy",
+      "description": "Witty crime lords, posh chaos — excellent promo tie-ins for enemies-to-lovers or mafia adjacent romances."
+    },
+    {
+      "title": "The Regime (Max)",
+      "trend_type": "Political Satire",
+      "description": "Authoritarianism meets absurdity — great fuel for dystopian romance or rise-of-the-underdog themes."
+    },
+    {
+      "title": "Baby Reindeer (Netflix)",
+      "trend_type": "Dark Autobiographical Drama",
+      "description": "Blurring fact and fiction — authors of emotional thrillers, obsession arcs, or stalker romance can ride this wave."
     }
   ]
 }
-
