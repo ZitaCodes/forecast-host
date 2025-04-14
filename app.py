@@ -1,9 +1,10 @@
 # -*- coding: utf-8 -*-
 
-
 from flask import Flask, jsonify
 from flask_cors import CORS
 from datetime import datetime
+import json  # 👈 THIS LINE IS THE FIX
+
 
 app = Flask(__name__)
 CORS(app)
