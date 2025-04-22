@@ -82,6 +82,6 @@ try:
     subprocess.run(["git", "config", "--global", "user.email", "render@bot.com"])
     subprocess.run(["git", "add", "personas_output.json"])
     subprocess.run(["git", "commit", "-m", "Update trending personas via Render worker"])
-    subprocess.run(["git", "push", "origin", "main"])
+   #subprocess.run(["git", "push", "origin", "main"])
 except Exception as e:
     print("Git push failed:", e)
