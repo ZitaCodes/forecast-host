@@ -1,4 +1,4 @@
-// redditForecast.js
+// Media Sync redditForecast.js
 module.exports = function getRedditForecast() {
   return {
     last_updated: "04-13-2025",
