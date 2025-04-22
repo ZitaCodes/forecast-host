@@ -1,4 +1,5 @@
 import subprocess  # ✅ Added
+import os
 import json
 from datetime import datetime
 
@@ -38,7 +39,7 @@ try:
     subprocess.run(["git", "config", "--global", "user.email", "render@bot.com"])
     
     # Force SSH for the remote URL (important!)
-    subprocess.run(["git", "remote", "set-url", "origin", "git@github.com:ZitaCodes/trendtracker-backend.git"])
+    subprocess.run(["git", "remote", "set-url", "origin", "git@github.com:ZitaCodes/forecast-host.git"])
 
     # Stage + commit JSON update
     subprocess.run(["git", "add", "trendtracker_output.json"])
