@@ -1,5 +1,6 @@
 import json
 import subprocess
+import os
 from datetime import datetime
 
 # Step 1: Your scraped (mocked) data
@@ -80,8 +81,9 @@ with open("personas_output.json", "w") as f:
 try:
     subprocess.run(["git", "config", "--global", "user.name", "RenderBot"])
     subprocess.run(["git", "config", "--global", "user.email", "render@bot.com"])
+    subprocess.run(["git", "remote", "add", "origin", "git@github.com:ZitaCodes/forecast-host.git"], check=False)
     subprocess.run(["git", "add", "personas_output.json"])
-    subprocess.run(["git", "commit", "-m", "Update trending personas via Render worker"])
-   #subprocess.run(["git", "push", "origin", "main"])
+    subprocess.run(["git", "commit", "-m", "Auto-update personas_output.json"])
+    subprocess.run(["git", "push", "origin", "main"])
 except Exception as e:
-    print("Git push failed:", e)
+    print("❌ Git push failed:", e)
