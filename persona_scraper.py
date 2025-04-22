@@ -71,19 +71,34 @@ persona_data = {
       "promo_tip": "Target energetic, dramatic hooks. Use dark/light contrast in your visuals. Lead with 'intensity meets intimacy'."
     }
   ]
-}
+}             
 
 # Step 2: Save data to file
 with open("personas_output.json", "w") as f:
     f.write(json.dumps(persona_data, indent=2))
 
-# Step 3: Auto-commit to GitHub
+
 try:
+    # Set Git user
     subprocess.run(["git", "config", "--global", "user.name", "RenderBot"])
     subprocess.run(["git", "config", "--global", "user.email", "render@bot.com"])
-    subprocess.run(["git", "remote", "add", "origin", "git@github.com:ZitaCodes/forecast-host.git"], check=False)
-    subprocess.run(["git", "add", "personas_output.json"])
-    subprocess.run(["git", "commit", "-m", "Auto-update personas_output.json"])
+
+    # Init Git repo if not already
+    if not os.path.exists(".git"):
+        subprocess.run(["git", "init"])
+        subprocess.run([
+            "git", "remote", "add", "origin",
+            "git@github.com:ZitaCodes/forecast-host.git"  # 👈 update per repo
+        ])
+    else:
+        subprocess.run(["git", "remote", "set-url", "origin",
+            "git@github.com:ZitaCodes/forecast-host.git"  # 👈 update per repo
+        ])
+
+    # Add, commit, push
+    subprocess.run(["git", "add", "yourfile.json"])  # 👈 update for personas, reddit, etc.
+    subprocess.run(["git", "commit", "-m", "Auto-update via Render"])
     subprocess.run(["git", "push", "origin", "main"])
+
 except Exception as e:
     print("❌ Git push failed:", e)
