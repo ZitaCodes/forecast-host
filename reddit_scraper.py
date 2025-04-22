@@ -1,3 +1,4 @@
+import subprocess  # ✅ Added
 import json
 from datetime import datetime
 
@@ -28,3 +29,11 @@ if __name__ == "__main__":
     forecast = get_reddit_forecast()
     with open("reddit_forecast.json", "w") as f:
         json.dump(forecast, f, indent=2)
+
+# Local Git commit (optional - no push)
+try:
+    subprocess.run(["git", "add", "trendtracker_output.json"], check=True)
+    subprocess.run(["git", "commit", "-m", "Auto-update trendtracker_output.json"], check=True)
+    print("✅ JSON file committed locally.")
+except subprocess.CalledProcessError as e:
+    print("⚠️ Git commit failed:", e)
