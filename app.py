@@ -51,13 +51,13 @@ def persona_update():
     with open(json_file, 'r') as f:
         return jsonify(json.load(f))
 
-# ===== ROUTE 4: Media Forecast Panel (Media Sync) =====
+# ===== ROUTE 4: Media Forecast Panel JSON Direct Access =====
 @app.route('/media_forecast_output.json')
-def media_forecast_output():
+def serve_media_forecast_json():
     json_file = 'media_forecast_output.json'
     if not os.path.exists(json_file):
         return jsonify({"status": "No media forecast data available."})
-
+    
     with open(json_file, 'r') as f:
         return jsonify(json.load(f))
 
