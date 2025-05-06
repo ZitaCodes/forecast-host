@@ -41,15 +41,14 @@ def reddit_update():
         return jsonify(json.load(f))
 
 # ===== ROUTE 3: Reader Persona Panel =====
-@app.route('/persona-update')
-def persona_update():
-    json_file = 'reader_personas_output.json'
+@app.route('/reader-personas')
+def reader_personas():
+    json_file = 'personas_output.json'
     if not os.path.exists(json_file):
         return jsonify({"status": "No persona data available."})
-
-    push_json_to_github(json_file)
     with open(json_file, 'r') as f:
         return jsonify(json.load(f))
+
 
 # ===== ROUTE 4: Media Forecast Panel JSON Direct Access =====
 @app.route('/media_forecast_output.json')
