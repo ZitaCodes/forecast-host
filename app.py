@@ -8,7 +8,7 @@ from datetime import datetime
 app = Flask(__name__)
 CORS(app, origins=["https://bookmkttool.vercel.app"])
 
-# ===== ROUTE 1: TrendTracker Tropes Panel =====
+# ===== ROUTE 1: TrendTracker Tropes Panels =====
 @app.route('/tropes')
 def get_tropes():
     json_file = 'trendtracker_output.json'
