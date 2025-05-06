@@ -1,0 +1,131 @@
+{
+  "timestamp": "05-06-2025 01:47 AM",
+  "personas": [
+    {
+      "id": "persona-45",
+      "label": "✍️ Memoir Devourer",
+      "traits": [
+        "shares author interviews on social",
+        "follows #MemoirMonday",
+        "loves emotional or transformative storytelling",
+        "reviews indie life stories"
+      ],
+      "hashtags": [
+        "#MemoirReader",
+        "#RealStoriesMatter",
+        "#BookLover"
+      ],
+      "trope_signals": [
+        "resilience arc",
+        "found voice",
+        "overcoming shame"
+      ],
+      "promo_tip": "Emphasize authenticity, emotion, and transformation. Frame your memoir as an intimate journey, not just a timeline."
+    },
+    {
+      "id": "persona-46",
+      "label": "📚 Self-Help Strategist",
+      "traits": [
+        "highlights key takeaways from books",
+        "follows productivity YouTubers",
+        "tracks mindset shifts in journals",
+        "listens to motivational audiobooks"
+      ],
+      "hashtags": [
+        "#LevelUp",
+        "#MindsetMatters",
+        "#BookTokSelfHelp"
+      ],
+      "trope_signals": [
+        "glow-up",
+        "identity reinvention",
+        "mindset transformation"
+      ],
+      "promo_tip": "Use bold, goal-oriented language. Frame your book as a tactical advantage or breakthrough moment."
+    },
+    {
+      "id": "persona-47",
+      "label": "🙏 Spiritual Seeker (Religious/Inspirational)",
+      "traits": [
+        "posts daily affirmations or scripture",
+        "active in book-based devotional groups",
+        "reviews faith-based books",
+        "discusses divine timing and healing"
+      ],
+      "hashtags": [
+        "#FaithReads",
+        "#SpiritLed",
+        "#DevotionalLife"
+      ],
+      "trope_signals": [
+        "redemption arc",
+        "divine intervention",
+        "chosen purpose"
+      ],
+      "promo_tip": "Lead with peace, light, and spiritual value. Avoid over-marketing; authenticity wins here."
+    },
+    {
+      "id": "persona-48",
+      "label": "🧘 Wellness Whisperer (Health & Wellness)",
+      "traits": [
+        "posts meal prep and breathwork",
+        "follows #HolisticHealing and #BookstagramWellness",
+        "shares yoga + nutrition reels",
+        "buys books with a body-mind connection"
+      ],
+      "hashtags": [
+        "#WellnessReads",
+        "#MindBodyBooks",
+        "#HealingJourney"
+      ],
+      "trope_signals": [
+        "healing journey",
+        "renewal arc",
+        "natural wisdom"
+      ],
+      "promo_tip": "Use serene imagery and grounding copy. Emphasize personal growth, sustainable change, and holistic support."
+    },
+    {
+      "id": "persona-49",
+      "label": "🍳 Recipe Archivist (Cookbook Niche)",
+      "traits": [
+        "collects regional or vintage cookbooks",
+        "posts annotated recipes",
+        "follows #CookbookClub",
+        "tags food photos with book inspiration"
+      ],
+      "hashtags": [
+        "#BookishCook",
+        "#CookbookCrush",
+        "#TasteOfTradition"
+      ],
+      "trope_signals": [
+        "cultural heritage",
+        "food as memory",
+        "legacy meals"
+      ],
+      "promo_tip": "Use cozy or sensory-focused visuals. Frame your book as a legacy or flavor journey, not just a recipe dump."
+    },
+    {
+      "id": "persona-50",
+      "label": "🏛️ History Binger",
+      "traits": [
+        "listens to history podcasts",
+        "joins #HistoryNerd book clubs",
+        "posts longform notes from nonfiction reads",
+        "collects biographies or themed timelines"
+      ],
+      "hashtags": [
+        "#HistoryReads",
+        "#FactToFiction",
+        "#LearnWithMe"
+      ],
+      "trope_signals": [
+        "rise and fall",
+        "hidden truths",
+        "unsung heroes"
+      ],
+      "promo_tip": "Highlight unique lenses (e.g., from a woman’s POV). Use themes of revelation, connection, and impact."
+    }
+  ]
+}
