@@ -44,26 +44,21 @@ def reddit_update():
 # ===== ROUTE 3: Reader Personas Panel =====
 @app.route('/reader-personas')
 def reader_personas():
-    import requests
     try:
         url = "https://cloutbooks.com/new_reader_personas.json"
-        response = requests.get(url)
+        headers = {
+            "User-Agent": "Mozilla/5.0 (compatible; CloutBot/1.0)"
+        }
+        response = requests.get(url, headers=headers)
         print("Fetching from URL:", url)
         print("Response code:", response.status_code)
-        print("Response headers:", response.headers)
-        print("Response preview:", response.text[:200])  # Preview first 200 chars
-
         if response.status_code == 200:
-            try:
-                return jsonify(response.json())
-            except Exception as inner:
-                print("JSON decode error:", inner)
-                return jsonify({"status": "JSON decode failed", "details": str(inner)}), 500
+            return jsonify(response.json())
         else:
-            return jsonify({"status": "Fetch failed", "code": response.status_code}), 500
+            return jsonify({"status": "Failed to fetch reader personas.", "code": response.status_code}), 500
     except Exception as e:
-        print("Request error:", e)
-        return jsonify({"status": "Request error", "details": str(e)}), 500
+        return jsonify({"status": "Error occurred", "details": str(e)}), 500
+
 
 
 
