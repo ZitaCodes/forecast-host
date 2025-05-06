@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-05-06 22:56:29",
+  "timestamp": "2025-05-06 23:15:00",
   "personas": [
     {
       "name": "Memoir Devourer",
@@ -7,10 +7,7 @@
       "tropes": "resilience arc, found voice, overcoming shame",
       "hashtags": "#MemoirReader #RealStoriesMatter #BookLover",
       "promo_tip": "Emphasize authenticity, emotion, and transformation. Frame your memoir as an intimate journey, not just a timeline.",
-      "tags": [
-        "Memoir",
-        "Black"
-      ]
+      "tags": ["Memoir", "Black"]
     },
     {
       "name": "Legacy Seeker",
@@ -18,10 +15,7 @@
       "tropes": "multi-timeline, family trauma, rediscovered heritage",
       "hashtags": "#LegacyReads #RootedStories #MemoirMonday",
       "promo_tip": "Highlight generational arcs and emotional resonance. Perfect for stories with flashbacks or family reveals.",
-      "tags": [
-        "Memoir",
-        "Latina"
-      ]
+      "tags": ["Memoir", "Latina"]
     },
     {
       "name": "Self-Help Strategist",
@@ -29,10 +23,7 @@
       "tropes": "glow-up, identity reinvention, mindset transformation",
       "hashtags": "#LevelUp #MindsetMatters #BookTokSelfHelp",
       "promo_tip": "Use bold, goal-oriented language. Frame your book as a tactical advantage or breakthrough moment.",
-      "tags": [
-        "Self-Help",
-        "Neurodivergent"
-      ]
+      "tags": ["Self-Help", "Neurodivergent"]
     },
     {
       "name": "Manifestation Maven",
@@ -40,10 +31,7 @@
       "tropes": "abundance journey, the universe provides, dream big energy",
       "hashtags": "#ManifestationBooks #AbundanceReads #GlowUpGuide",
       "promo_tip": "Use energizing language and future-visualization themes. Tie in success stories or reader testimonials.",
-      "tags": [
-        "Self-Help",
-        "Queer"
-      ]
+      "tags": ["Self-Help", "Queer"]
     },
     {
       "name": "Spiritual Seeker",
@@ -51,10 +39,7 @@
       "tropes": "divine timing, redemption arc, chosen purpose",
       "hashtags": "#FaithReads #SpiritLed #DevotionalLife",
       "promo_tip": "Lead with peace, light, and spiritual value. Avoid over-marketing; authenticity wins here.",
-      "tags": [
-        "Faith",
-        "DisabilityRep"
-      ]
+      "tags": ["Faith", "DisabilityRep"]
     },
     {
       "name": "Wellness Whisperer",
@@ -62,10 +47,7 @@
       "tropes": "renewal arc, healing journey, inner calm",
       "hashtags": "#WellnessReads #MindBodyBooks #HealingJourney",
       "promo_tip": "Use serene imagery and grounding copy. Emphasize personal growth and sustainable change.",
-      "tags": [
-        "Wellness",
-        "Asian"
-      ]
+      "tags": ["Wellness", "Asian"]
     },
     {
       "name": "Spicy Kindle Addict",
@@ -73,10 +55,7 @@
       "tropes": "possessive hero, enemies to lovers, touch her and die",
       "hashtags": "#SpicyRomance #DarkRomanceBooktok #Smuttok",
       "promo_tip": "Lead with trope heat and emotional tension. Dark romance readers love morally gray intensity.",
-      "tags": [
-        "Romance",
-        "Black"
-      ]
+      "tags": ["Romance", "Black"]
     },
     {
       "name": "Fae Court Obsessed",
@@ -84,10 +63,87 @@
       "tropes": "forbidden bond, fae bargains, chosen one",
       "hashtags": "#FaeFantasy #FantasyRomance #CourtPolitics",
       "promo_tip": "Use lush language, tension-filled summaries, and emphasize fantasy tropes.",
-      "tags": [
-        "Fantasy",
-        "Queer"
-      ]
+      "tags": ["Fantasy", "Queer"]
+    },
+    {
+      "name": "True Crime Sleuth",
+      "traits": "binge-listens to murder podcasts, reads cold case books, follows court drama on TikTok",
+      "tropes": "justice served, mysterious narrator, victim redemption",
+      "hashtags": "#TrueCrimeReads #CrimeJunkie #JusticeForVictims",
+      "promo_tip": "Lead with intrigue and real-world relevance. Highlight emotional hooks, especially if based on true events.",
+      "tags": ["Nonfiction", "White"]
+    },
+    {
+      "name": "Romantic Realist",
+      "traits": "enjoys love stories with grounded emotional arcs, reads second-chance romance, avoids fantasy",
+      "tropes": "slow burn, emotional scars, mature love",
+      "hashtags": "#RealRomance #SecondChanceLove #HeartfeltReads",
+      "promo_tip": "Skip the fluff. Showcase emotional intelligence, relatable flaws, and quiet moments of connection.",
+      "tags": ["Romance", "Latina"]
+    },
+    {
+      "name": "Queer Worldbuilder",
+      "traits": "reads indie fantasy with queer leads, critiques worldbuilding depth, active on BookTube",
+      "tropes": "found family, enemies to lovers, elemental magic",
+      "hashtags": "#QueerFantasy #LGBTReads #EpicWorlds",
+      "promo_tip": "Center character-driven journeys and immersive politics. Bonus points for emotional world stakes.",
+      "tags": ["Fantasy", "Queer"]
+    },
+    {
+      "name": "BookTok Trend Hunter",
+      "traits": "buys books from trending TikToks, shares bookshelf reveal videos, prioritizes aesthetics",
+      "tropes": "morally gray hero, fake dating, toxic attraction",
+      "hashtags": "#BookTokMadeMeBuyIt #TrendingReads #AestheticBooks",
+      "promo_tip": "Use dynamic cover design and bold trope hooks. Lean into what’s hot and emotional.",
+      "tags": ["Romance", "White"]
+    },
+    {
+      "name": "Witchy Wellness Reader",
+      "traits": "reads about herbalism, moon cycles, spiritual alignment, collects alt wellness zines",
+      "tropes": "healing magic, shadow work, ancestral rituals",
+      "hashtags": "#WitchyReads #HolisticHealing #MagicAndWellness",
+      "promo_tip": "Lean into spiritual healing language and affirm the sacred feminine or nature-based growth.",
+      "tags": ["Wellness", "Black"]
+    },
+    {
+      "name": "Dark Academia Devotee",
+      "traits": "loves morally ambiguous narratives, annotates books, posts quote aesthetics",
+      "tropes": "intellectual obsession, deadly secret, academic rivalry",
+      "hashtags": "#DarkAcademia #SmartReads #TwistedClassics",
+      "promo_tip": "Use rich prose, gothic tension, and cerebral stakes. Lean into flawed genius characters.",
+      "tags": ["Fiction", "Asian"]
+    },
+    {
+      "name": "History Power Reader",
+      "traits": "reads historical nonfiction, annotates timelines, shares archive finds",
+      "tropes": "reclaimed voices, empire critique, origin tracing",
+      "hashtags": "#HistoryNerd #DecolonizeTheShelf #RealStoriesMatter",
+      "promo_tip": "Focus on lesser-known facts, social relevance, and layered storytelling. Data meets narrative here.",
+      "tags": ["Nonfiction", "Black"]
+    },
+    {
+      "name": "Neurodivergent Daydreamer",
+      "traits": "immerses in fantasy books as emotional rest, posts sensory-friendly reads, avoids overstimulation",
+      "tropes": "gentle magic, chosen comfort, quiet resilience",
+      "hashtags": "#CozyFantasy #NeurodivergentReads #SoftWorlds",
+      "promo_tip": "Prioritize emotional safety and gentle pacing. Highlight sensory calm and stable relationships.",
+      "tags": ["Fantasy", "Neurodivergent"]
+    },
+    {
+      "name": "Faith-Driven Reclaimer",
+      "traits": "reads inclusive faith-based books, critiques rigid theology, seeks representation in religious nonfiction",
+      "tropes": "liberation theology, divine healing, reclaiming sacred space",
+      "hashtags": "#InclusiveFaith #QueerFaithReads #ReclaimingSpirituality",
+      "promo_tip": "Be honest, grounded, and affirming. Acknowledge pain points while offering hope and connection.",
+      "tags": ["Faith", "Queer"]
+    },
+    {
+      "name": "YA Enthusiast (Grown)",
+      "traits": "still reads YA for the nostalgia and angst, collects series hardcovers, reviews on BookTube",
+      "tropes": "identity discovery, found family, courage vs conformity",
+      "hashtags": "#YAForever #TeenFictionLover #YoungAtHeart",
+      "promo_tip": "Don’t talk down to this reader. Embrace emotion, high stakes, and meaningful growth arcs.",
+      "tags": ["YA", "White"]
     }
   ]
 }
