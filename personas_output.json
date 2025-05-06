@@ -45,6 +45,27 @@
     },
     {
       "id": "persona-03",
+      "label": "\ud83d\udc8b Spicy Alien Romance + Skincare Babe",
+      "traits": [
+        "reads alpha male romance on Kindle Unlimited",
+        "regularly reviews fashion trends",
+        "follows #BookTok influencers",
+        "posts fashion content"
+      ],
+      "hashtags": [
+        "#AlphaMale",
+        "#RomanceReader",
+        "#SkincareAddict"
+      ],
+      "trope_signals": [
+        "possessive hero",
+        "fated mates",
+        "enemies to lovers"
+      ],
+      "promo_tip": "Use glam visuals and bold copy. Lead with desire + danger. Mention luxury or indulgent themes."
+    },
+    {
+      "id": "persona-04",
       "label": "\ud83c\udfcb\ud83c\udffe\u200d\u2640\ufe0f Fit & Fierce Dark Romance Fan",
       "traits": [
         "reads during treadmill workouts",
