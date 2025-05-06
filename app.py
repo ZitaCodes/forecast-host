@@ -2,7 +2,6 @@ from flask import Flask, jsonify
 from flask_cors import CORS
 import json
 import os
-import requests
 import subprocess
 from datetime import datetime
 
@@ -44,18 +43,22 @@ def reddit_update():
 # ===== ROUTE 3: Reader Personas Panel =====
 @app.route('/reader-personas')
 def reader_personas():
+    file_path = os.path.join(os.path.dirname(__file__), 'personas_output.json')
+    
+    if not os.path.exists(file_path):
+        return jsonify({
+            "timestamp": None,
+            "personas": [],
+            "insight": {
+                "persona": None,
+                "blurb": "Reader personas data not yet generated. Please run the scraper."
+            }
+        })
+
     try:
-        url = "https://cloutbooks.com/new_reader_personas.json"
-        headers = {
-            "User-Agent": "Mozilla/5.0 (compatible; CloutBot/1.0)"
-        }
-        response = requests.get(url, headers=headers)
-        print("Fetching from URL:", url)
-        print("Response code:", response.status_code)
-        if response.status_code == 200:
-            return jsonify(response.json())
-        else:
-            return jsonify({"status": "Failed to fetch reader personas.", "code": response.status_code}), 500
+        with open(file_path, 'r') as f:
+            data = json.load(f)
+        return jsonify(data)
     except Exception as e:
         return jsonify({"status": "Error occurred", "details": str(e)}), 500
 
