@@ -1,0 +1,93 @@
+{
+  "timestamp": "2025-05-06 22:56:29",
+  "personas": [
+    {
+      "name": "Memoir Devourer",
+      "traits": "shares author interviews on social, loves emotional or transformative storytelling, reviews indie life stories",
+      "tropes": "resilience arc, found voice, overcoming shame",
+      "hashtags": "#MemoirReader #RealStoriesMatter #BookLover",
+      "promo_tip": "Emphasize authenticity, emotion, and transformation. Frame your memoir as an intimate journey, not just a timeline.",
+      "tags": [
+        "Memoir",
+        "Black"
+      ]
+    },
+    {
+      "name": "Legacy Seeker",
+      "traits": "interested in generational stories, reads books about family secrets and historical roots",
+      "tropes": "multi-timeline, family trauma, rediscovered heritage",
+      "hashtags": "#LegacyReads #RootedStories #MemoirMonday",
+      "promo_tip": "Highlight generational arcs and emotional resonance. Perfect for stories with flashbacks or family reveals.",
+      "tags": [
+        "Memoir",
+        "Latina"
+      ]
+    },
+    {
+      "name": "Self-Help Strategist",
+      "traits": "tracks mindset shifts in journals, listens to motivational audiobooks, follows productivity YouTubers",
+      "tropes": "glow-up, identity reinvention, mindset transformation",
+      "hashtags": "#LevelUp #MindsetMatters #BookTokSelfHelp",
+      "promo_tip": "Use bold, goal-oriented language. Frame your book as a tactical advantage or breakthrough moment.",
+      "tags": [
+        "Self-Help",
+        "Neurodivergent"
+      ]
+    },
+    {
+      "name": "Manifestation Maven",
+      "traits": "follows vision board trends, uses affirmations, shares spiritual goal-setting routines",
+      "tropes": "abundance journey, the universe provides, dream big energy",
+      "hashtags": "#ManifestationBooks #AbundanceReads #GlowUpGuide",
+      "promo_tip": "Use energizing language and future-visualization themes. Tie in success stories or reader testimonials.",
+      "tags": [
+        "Self-Help",
+        "Queer"
+      ]
+    },
+    {
+      "name": "Spiritual Seeker",
+      "traits": "shares scripture reflections, reviews devotionals, follows Christian influencers",
+      "tropes": "divine timing, redemption arc, chosen purpose",
+      "hashtags": "#FaithReads #SpiritLed #DevotionalLife",
+      "promo_tip": "Lead with peace, light, and spiritual value. Avoid over-marketing; authenticity wins here.",
+      "tags": [
+        "Faith",
+        "DisabilityRep"
+      ]
+    },
+    {
+      "name": "Wellness Whisperer",
+      "traits": "posts meal prep, yoga reels, shares body-mind connection books",
+      "tropes": "renewal arc, healing journey, inner calm",
+      "hashtags": "#WellnessReads #MindBodyBooks #HealingJourney",
+      "promo_tip": "Use serene imagery and grounding copy. Emphasize personal growth and sustainable change.",
+      "tags": [
+        "Wellness",
+        "Asian"
+      ]
+    },
+    {
+      "name": "Spicy Kindle Addict",
+      "traits": "reads late-night on Kindle Unlimited, follows dark romance authors on TikTok, loves villain love interests",
+      "tropes": "possessive hero, enemies to lovers, touch her and die",
+      "hashtags": "#SpicyRomance #DarkRomanceBooktok #Smuttok",
+      "promo_tip": "Lead with trope heat and emotional tension. Dark romance readers love morally gray intensity.",
+      "tags": [
+        "Romance",
+        "Black"
+      ]
+    },
+    {
+      "name": "Fae Court Obsessed",
+      "traits": "collects special editions, loves court intrigue, ships morally gray magic users",
+      "tropes": "forbidden bond, fae bargains, chosen one",
+      "hashtags": "#FaeFantasy #FantasyRomance #CourtPolitics",
+      "promo_tip": "Use lush language, tension-filled summaries, and emphasize fantasy tropes.",
+      "tags": [
+        "Fantasy",
+        "Queer"
+      ]
+    }
+  ]
+}
