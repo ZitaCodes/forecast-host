@@ -41,6 +41,7 @@ def reddit_update():
     with open(json_file, 'r') as f:
         return jsonify(json.load(f))
 
+# ===== ROUTE 3: Reader Personas Panel =====
 @app.route('/reader-personas')
 def reader_personas():
     import requests
@@ -49,14 +50,20 @@ def reader_personas():
         response = requests.get(url)
         print("Fetching from URL:", url)
         print("Response code:", response.status_code)
-        print("Response content:", response.text[:200])  # Limit to first 200 chars
+        print("Response headers:", response.headers)
+        print("Response preview:", response.text[:200])  # Preview first 200 chars
+
         if response.status_code == 200:
-            return jsonify(response.json())
+            try:
+                return jsonify(response.json())
+            except Exception as inner:
+                print("JSON decode error:", inner)
+                return jsonify({"status": "JSON decode failed", "details": str(inner)}), 500
         else:
-            return jsonify({"status": "Failed to fetch reader personas."}), 500
+            return jsonify({"status": "Fetch failed", "code": response.status_code}), 500
     except Exception as e:
-        print("Error occurred:", e)
-        return jsonify({"status": "Error occurred", "details": str(e)}), 500
+        print("Request error:", e)
+        return jsonify({"status": "Request error", "details": str(e)}), 500
 
 
 
