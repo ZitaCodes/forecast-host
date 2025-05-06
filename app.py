@@ -41,18 +41,23 @@ def reddit_update():
     with open(json_file, 'r') as f:
         return jsonify(json.load(f))
 
-# ===== ROUTE 3: Reader Persona Panel =====
 @app.route('/reader-personas')
 def reader_personas():
     import requests
     try:
-        response = requests.get("https://cloutbooks.com/new_reader_personas.json")
+        url = "https://cloutbooks.com/new_reader_personas.json"
+        response = requests.get(url)
+        print("Fetching from URL:", url)
+        print("Response code:", response.status_code)
+        print("Response content:", response.text[:200])  # Limit to first 200 chars
         if response.status_code == 200:
             return jsonify(response.json())
         else:
             return jsonify({"status": "Failed to fetch reader personas."}), 500
     except Exception as e:
+        print("Error occurred:", e)
         return jsonify({"status": "Error occurred", "details": str(e)}), 500
+
 
 
 # ===== ROUTE 4: Media Forecast Panel JSON Direct Access =====
