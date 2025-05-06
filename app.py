@@ -2,6 +2,7 @@ from flask import Flask, jsonify
 from flask_cors import CORS
 import json
 import os
+import requests
 import subprocess
 from datetime import datetime
 
@@ -43,12 +44,15 @@ def reddit_update():
 # ===== ROUTE 3: Reader Persona Panel =====
 @app.route('/reader-personas')
 def reader_personas():
-    json_file = 'personas_output.json'
-    if not os.path.exists(json_file):
-        return jsonify({"status": "No persona data available."})
-    with open(json_file, 'r') as f:
-        return jsonify(json.load(f))
-
+    import requests
+    try:
+        response = requests.get("https://cloutbooks.com/new_reader_personas.json")
+        if response.status_code == 200:
+            return jsonify(response.json())
+        else:
+            return jsonify({"status": "Failed to fetch reader personas."}), 500
+    except Exception as e:
+        return jsonify({"status": "Error occurred", "details": str(e)}), 500
 
 # ===== ROUTE 4: Media Forecast Panel JSON Direct Access =====
 @app.route('/media_forecast_output.json')
