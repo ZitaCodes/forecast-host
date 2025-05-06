@@ -58,10 +58,11 @@ def reader_personas():
     try:
         with open(file_path, 'r') as f:
             data = json.load(f)
+        
+        data['personas'] = data['personas'][:4]  # limit to 4
         return jsonify(data)
     except Exception as e:
         return jsonify({"status": "Error occurred", "details": str(e)}), 500
-
 
 
 
