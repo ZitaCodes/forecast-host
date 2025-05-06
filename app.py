@@ -99,4 +99,20 @@ def push_json_to_github(filename):
         print("🚫 Git push failed:", e)
 
 if __name__ == '__main__':
-    app.run(host="0.0.0.0", port=10001)
+    import socket
+
+    def find_open_port(start_port, max_tries=10):
+        port = start_port
+        for _ in range(max_tries):
+            with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
+                if s.connect_ex(('localhost', port)) != 0:
+                    return port  # Port is free
+                port += 1
+        raise RuntimeError("No available ports found.")
+
+    try:
+        chosen_port = find_open_port(10000)
+        print(f"✅ Using available port: {chosen_port}")
+        app.run(host="0.0.0.0", port=chosen_port)
+    except Exception as e:
+        print("🚫 Failed to start app:", e)
