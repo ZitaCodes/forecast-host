@@ -54,6 +54,7 @@ def reader_personas():
     except Exception as e:
         return jsonify({"status": "Error occurred", "details": str(e)}), 500
 
+
 # ===== ROUTE 4: Media Forecast Panel JSON Direct Access =====
 @app.route('/media_forecast_output.json')
 def serve_media_forecast_json():
