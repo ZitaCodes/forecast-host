@@ -86,7 +86,7 @@ def reader_personas_filtered():
         # Log input genre
         try:
             with open(log_path, "a") as log:
-                timestamp = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+                timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
                 log.write(f"{timestamp},{genre}\n")
         except Exception as e:
             print("Logging error:", e)
@@ -94,14 +94,14 @@ def reader_personas_filtered():
     if not matched:
         fallback = random.sample(all_personas, min(4, len(all_personas)))
         return jsonify({
-            "timestamp": datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
+            "timestamp": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
             "message": "We didn’t find any personas that perfectly match your book’s genre or tropes this time. But don’t worry — we’re expanding our reader persona pool weekly, so your next pull will likely reveal stronger matches.",
             "personas": fallback
         })
 
     result = random.sample(matched, min(4, len(matched)))
     return jsonify({
-        "timestamp": datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
+        "timestamp": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
         "personas": result
     })
 
