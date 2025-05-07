@@ -4,6 +4,7 @@ import json
 import os
 import subprocess
 from datetime import datetime
+import random   # ← add this!
 
 app = Flask(__name__)
 CORS(app, origins=["https://bookmkttool.vercel.app"])
