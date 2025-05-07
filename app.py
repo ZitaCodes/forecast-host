@@ -64,6 +64,46 @@ def reader_personas():
     except Exception as e:
         return jsonify({"status": "Error occurred", "details": str(e)}), 500
 
+# ===== ROUTE 3a: Reader Personas Panel work around before dedicated API is built=====
+@app.route('/reader-personas-filtered')
+def reader_personas_filtered():
+    genre = request.args.get('genre', None)
+
+    master_path = os.path.join(os.path.dirname(__file__), 'reader_personas_master.json')
+    log_path = os.path.join(os.path.dirname(__file__), 'genre_log.txt')
+
+    if not os.path.exists(master_path):
+        return jsonify({"message": "Master persona file missing."}), 500
+
+    with open(master_path, "r") as f:
+        master_data = json.load(f)
+        all_personas = master_data.get("personas", [])
+
+    matched = []
+    if genre:
+        matched = [p for p in all_personas if genre.lower() in [t.lower() for t in p.get("tags", [])]]
+        # Log input genre
+        try:
+            with open(log_path, "a") as log:
+                timestamp = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+                log.write(f"{timestamp},{genre}\n")
+        except Exception as e:
+            print("Logging error:", e)
+
+    if not matched:
+        fallback = random.sample(all_personas, min(4, len(all_personas)))
+        return jsonify({
+            "timestamp": datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
+            "message": "We didn’t find any personas that perfectly match your book’s genre or tropes this time. But don’t worry — we’re expanding our reader persona pool weekly, so your next pull will likely reveal stronger matches.",
+            "personas": fallback
+        })
+
+    result = random.sample(matched, min(4, len(matched)))
+    return jsonify({
+        "timestamp": datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
+        "personas": result
+    })
+
 
 
 # ===== ROUTE 4: Media Forecast Panel JSON Direct Access =====
