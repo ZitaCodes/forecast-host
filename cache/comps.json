@@ -1,1 +1,70 @@
-
+{
+  "Romance|Enemies to Lovers|Touch Her and Die": [
+    {
+      "title": "Twisted Love",
+      "author": "Ana Huang",
+      "reason": "Sharp enemies-to-lovers banter with a protective alpha lead."
+    },
+    {
+      "title": "Punk 57",
+      "author": "Penelope Douglas",
+      "reason": "Intense emotional conflict and boundary-pushing dark romance."
+    },
+    {
+      "title": "The Fine Print",
+      "author": "Lauren Asher",
+      "reason": "Arrogant boss meets fiery resistance in a steamy enemies-to-lovers setup."
+    }
+  ],
+  "Alien Romance|Fated Mates|Captive Hero": [
+    {
+      "title": "Radiance",
+      "author": "Grace Draven",
+      "reason": "Inter-species romance with mutual respect and deepening love."
+    },
+    {
+      "title": "Stolen by an Alien",
+      "author": "Amanda Milo",
+      "reason": "Captivity meets humor and unexpected devotion in alien-human pairing."
+    },
+    {
+      "title": "Taming Rylee",
+      "author": "S.E. Smith",
+      "reason": "Alien protector finds unexpected love while overcoming mistrust and danger."
+    }
+  ],
+  "Fantasy Romance|Fae Court|Forbidden Love": [
+    {
+      "title": "A Court of Thorns and Roses",
+      "author": "Sarah J. Maas",
+      "reason": "Features fae political intrigue and slow-burning forbidden passion."
+    },
+    {
+      "title": "The Bridge Kingdom",
+      "author": "Danielle L. Jensen",
+      "reason": "Blends court politics with slow-burn enemies-to-lovers tension."
+    },
+    {
+      "title": "An Enchantment of Ravens",
+      "author": "Margaret Rogerson",
+      "reason": "Romantic tension between a mortal and a fae prince, with rich worldbuilding."
+    }
+  ],
+  "Dark Romance|Obsessive Hero|Revenge": [
+    {
+      "title": "Dark Notes",
+      "author": "Pam Godwin",
+      "reason": "Obsessive teacher-student dynamic with emotional darkness."
+    },
+    {
+      "title": "Ruthless People",
+      "author": "J.J. McAvoy",
+      "reason": "Power-couple dynamic wrapped in crime, betrayal, and control."
+    },
+    {
+      "title": "Tears of Tess",
+      "author": "Pepper Winters",
+      "reason": "Kidnapped heroine meets obsessive captor in a dark psychological romance."
+    }
+  ]
+}
