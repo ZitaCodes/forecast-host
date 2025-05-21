@@ -106,8 +106,20 @@ def reader_personas_filtered():
     })
 
 
+# ===== ROUTE 4: Compa Books Panel JSON Fallback Access =====
+@app.route('/comps-cache')
+def get_comps_cache():
+    cache_path = os.path.join(os.path.dirname(__file__), 'comps_cache.json')
+    if not os.path.exists(cache_path):
+        return jsonify({"error": "Cache file not found"}), 404
 
-# ===== ROUTE 4: Media Forecast Panel JSON Direct Access =====
+    with open(cache_path, "r") as f:
+        data = json.load(f)
+    return jsonify(data)
+
+
+
+# ===== ROUTE 5: Media Forecast Panel JSON Direct Access =====
 @app.route('/media_forecast_output.json')
 def serve_media_forecast_json():
     json_file = 'media_forecast_output.json'
