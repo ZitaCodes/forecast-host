@@ -107,15 +107,14 @@ def reader_personas_filtered():
 
 
 # ===== ROUTE 4: Compa Books Panel JSON Fallback Access =====
-@app.route('/comps-cache')
-def get_comps_cache():
-    cache_path = os.path.join(os.path.dirname(__file__), 'comps_cache.json')
-    if not os.path.exists(cache_path):
-        return jsonify({"error": "Cache file not found"}), 404
+@app.route('/cache/comps.json')
+def serve_comps_cache():
+    path = os.path.join(os.path.dirname(__file__), 'cache', 'comps.json')
+    if not os.path.exists(path):
+        return jsonify({"error": "Comps cache not found"}), 404
+    with open(path, 'r') as f:
+        return jsonify(json.load(f))
 
-    with open(cache_path, "r") as f:
-        data = json.load(f)
-    return jsonify(data)
 
 
 
