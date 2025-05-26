@@ -141,10 +141,14 @@ def serve_missing_personas_log():
                         log_data[key]["count"] += 1
                         log_data[key]["last_used"] = timestamp
                 except:
-                    continue  # skip malformed lines
+                    continue  # Skip malformed lines
 
-    with open(log_json_path, 'w') as out:
-        json.dump(list(log_data.values()), out, indent=2)
+        # Write summarized log to JSON
+        with open(log_json_path, 'w') as out:
+            json.dump(list(log_data.values()), out, indent=2)
+
+        # ✅ Truncate original log so next session starts fresh
+        open(log_txt_path, 'w').close()
 
     return jsonify(list(log_data.values()))
 
