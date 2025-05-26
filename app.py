@@ -87,7 +87,7 @@ def reader_personas_filtered():
         try:
             with open(log_path, "a") as log:
                 timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-                log.write(f"{timestamp},{genre}\n")
+                log.write(f"{timestamp},{genre},{themes}\n")
         except Exception as e:
             print("Logging error:", e)
 
@@ -116,9 +116,41 @@ def serve_comps_cache():
         return jsonify(json.load(f))
 
 
+# ===== ROUTE 5: Missing Personas Log JSON Viewer (Genre + Themes) =====
+@app.route('/missing-personas-log.json')
+def serve_missing_personas_log():
+    log_txt_path = os.path.join(os.path.dirname(__file__), 'genre_log.txt')
+    log_json_path = os.path.join(os.path.dirname(__file__), 'missing-personas-log.json')
+
+    log_data = {}
+
+    if os.path.exists(log_txt_path):
+        with open(log_txt_path, 'r') as f:
+            for line in f:
+                try:
+                    timestamp, genre, themes = line.strip().split(',', 2)
+                    key = f"{genre.strip().lower()}|{themes.strip().lower()}"
+                    if key not in log_data:
+                        log_data[key] = {
+                            "genre": genre.strip(),
+                            "themes": themes.strip(),
+                            "count": 1,
+                            "last_used": timestamp
+                        }
+                    else:
+                        log_data[key]["count"] += 1
+                        log_data[key]["last_used"] = timestamp
+                except:
+                    continue  # skip malformed lines
+
+    with open(log_json_path, 'w') as out:
+        json.dump(list(log_data.values()), out, indent=2)
+
+    return jsonify(list(log_data.values()))
 
 
-# ===== ROUTE 5: Media Forecast Panel JSON Direct Access =====
+
+# ===== ROUTE 6: Media Forecast Panel JSON Direct Access =====
 @app.route('/media_forecast_output.json')
 def serve_media_forecast_json():
     json_file = 'media_forecast_output.json'
