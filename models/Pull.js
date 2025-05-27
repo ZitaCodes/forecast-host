@@ -1,4 +1,4 @@
-const mongoose = require("mongoose");
+import mongoose from "mongoose";
 
 const pullSchema = new mongoose.Schema({
   email: { type: String, required: true, unique: true },
@@ -7,4 +7,4 @@ const pullSchema = new mongoose.Schema({
   last_reset: { type: Date, default: () => new Date() }
 });
 
-module.exports = mongoose.model("Pull", pullSchema);
+export default mongoose.models.Pull || mongoose.model("Pull", pullSchema);
