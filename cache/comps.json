@@ -1,70 +1,732 @@
-{
-  "Alien Romance|Fated Mates|Captive Hero": [
-    {
+[
+   {
       "title": "Radiance",
       "author": "Grace Draven",
       "reason": "Inter-species romance with mutual respect and deepening love."
-    },
-    {
+   },
+   {
       "title": "Stolen by an Alien",
       "author": "Amanda Milo",
       "reason": "Captivity meets humor and unexpected devotion in alien-human pairing."
-    },
-    {
+   },
+   {
       "title": "Taming Rylee",
       "author": "S.E. Smith",
       "reason": "Alien protector finds unexpected love while overcoming mistrust and danger."
-    }
-  ],
-  "Dark Romance|Obsessive Hero|Revenge": [
-    {
+   },
+   {
       "title": "Dark Notes",
       "author": "Pam Godwin",
       "reason": "Obsessive teacher–student dynamic with emotional darkness."
-    },
-    {
+   },
+   {
       "title": "Ruthless People",
       "author": "J.J. McAvoy",
       "reason": "Power-couple dynamic wrapped in crime, betrayal, and control."
-    },
-    {
+   },
+   {
       "title": "Tears of Tess",
       "author": "Pepper Winters",
       "reason": "Kidnapped heroine meets obsessive captor in a dark psychological romance."
-    }
-  ],
-  "Fantasy Romance|Fae Court|Forbidden Love": [
-    {
+   },
+   {
       "title": "A Court of Thorns and Roses",
       "author": "Sarah J. Maas",
       "reason": "Features fae political intrigue and slow-burning forbidden passion."
-    },
-    {
+   },
+   {
       "title": "The Bridge Kingdom",
       "author": "Danielle L. Jensen",
       "reason": "Blends court politics with slow-burn enemies-to-lovers tension."
-    },
-    {
+   },
+   {
       "title": "An Enchantment of Ravens",
       "author": "Margaret Rogerson",
       "reason": "Romantic tension between a mortal and a fae prince, with rich worldbuilding."
-    }
-  ],
-  "Romance|Enemies to Lovers|Touch Her and Die": [
-    {
+   },
+   {
       "title": "Twisted Love",
       "author": "Ana Huang",
       "reason": "Sharp enemies-to-lovers banter with a protective alpha lead."
-    },
-    {
+   },
+   {
       "title": "Punk 57",
       "author": "Penelope Douglas",
       "reason": "Intense emotional conflict and boundary-pushing dark romance."
-    },
-    {
+   },
+   {
       "title": "The Fine Print",
       "author": "Lauren Asher",
       "reason": "Arrogant boss meets fiery resistance in a steamy enemies-to-lovers setup."
-    }
-  ]
-}
+   },
+   {
+    "title": "A Hunger Like No Other",
+    "author": "Kresley Cole",
+    "reason": "Classic fated mates paranormal romance with a dominant werewolf and destined female lead."
+  },
+  {
+    "title": "Claimed by a Demon King",
+    "author": "Felicity Heaton",
+    "reason": "Strong fated mate theme with fantasy realms and otherworldly rulers."
+  },
+  {
+    "title": "Born of Night",
+    "author": "Sherrilyn Kenyon",
+    "reason": "Sci-fi/paranormal romance featuring a bond beyond logic or reason."
+  },
+  {
+    "title": "Radiance",
+    "author": "Grace Draven",
+    "reason": "Slow-burn fated bond between two very different species — lyrical and intense."
+  },
+  {
+    "title": "Kai: Venom & Desire",
+    "author": "Tizahmi",
+    "reason": "Snake-shifter prophecy and intense soulmate draw with a fierce female lead."
+  },
+  {
+    "title": "The Wrath and the Dawn",
+    "author": "Renée Ahdieh",
+    "reason": "A deadly king and a girl bent on revenge discover an unexpected love."
+  },
+  {
+    "title": "King of Battle and Blood",
+    "author": "Scarlett St. Clair",
+    "reason": "Enemies forced into marriage in a dark, bloody vampire fantasy."
+  },
+  {
+    "title": "Serpent & Dove",
+    "author": "Shelby Mahurin",
+    "reason": "Witch and witch hunter bound in a reluctant marriage with growing desire."
+  },
+  {
+    "title": "Savage Lands",
+    "author": "Stacey Marie Brown",
+    "reason": "Faes and humans at war, with simmering attraction between enemies."
+  },
+  {
+    "title": "Reckless Rhythms",
+    "author": "Tizahmi",
+    "reason": "Tension between rising music stars explodes into passion under LA’s glow."
+  },
+  {
+    "title": "The Simple Wild",
+    "author": "K.A. Tucker",
+    "reason": "Grumpy bush pilot + city girl in rural Alaska — opposites clash and burn."
+  },
+  {
+    "title": "It Happened One Summer",
+    "author": "Tessa Bailey",
+    "reason": "A bubbly socialite meets a gruff fisherman in a cozy town with big heart."
+  },
+  {
+    "title": "The Hating Game",
+    "author": "Sally Thorne",
+    "reason": "Office enemies, one grump and one sunshine, fall for each other hard."
+  },
+  {
+    "title": "Ice Planet Barbarians",
+    "author": "Ruby Dixon",
+    "reason": "Alien survival romance with a grumpy protective alien and a resilient human woman."
+  },
+  {
+    "title": "Saburo",
+    "author": "Tizahmi",
+    "reason": "Brooding snake-shifter warrior haunted by legacy meets a light-in-the-dark heroine."
+  },
+  {
+    "title": "Birthday Girl",
+    "author": "Penelope Douglas",
+    "reason": "A taboo yet tender age-gap romance between a young woman and her boyfriend’s father."
+  },
+  {
+    "title": "Credence",
+    "author": "Penelope Douglas",
+    "reason": "A twisted, boundary-pushing age-gap setup with multiple older male figures."
+  },
+  {
+    "title": "Still Beating",
+    "author": "Jennifer Hartmann",
+    "reason": "Survival bond leads to a slow-burning, slightly taboo connection with age difference."
+  },
+  {
+    "title": "The Professional",
+    "author": "Kresley Cole",
+    "reason": "Mafia bodyguard and a much younger woman in a dominant/protective age-gap dynamic."
+  },
+  {
+    "title": "Bidding on the Alien",
+    "author": "Tizahmi",
+    "reason": "Age-gap alien/human romance with a younger heroine drawn to a powerful, alien outsider."
+  },
+  {
+    "title": "Ruthless Creatures",
+    "author": "J.T. Geissinger",
+    "reason": "Alpha protector mafia romance with fierce 'touch her and die' energy."
+  },
+  {
+    "title": "Zodiac Academy: The Awakening",
+    "author": "Caroline Peckham & Susanne Valenti",
+    "reason": "Paranormal academy enemies-to-lovers with lethal protectiveness as bonds form."
+  },
+  {
+    "title": "Haunting Adeline",
+    "author": "H.D. Carlton",
+    "reason": "Dark romance where the MMC is terrifyingly protective of the heroine."
+  },
+  {
+    "title": "Twisted Love",
+    "author": "Ana Huang",
+    "reason": "A cold MMC will burn the world down for the sunshine woman next door."
+  },
+  {
+    "title": "Kai: Venom & Desire",
+    "author": "Tizahmi",
+    "reason": "When Nova’s life is threatened, Kai unleashes his full serpent form to destroy anyone in his path."
+  },
+  {
+    "title": "The Spanish Love Deception",
+    "author": "Elena Armas",
+    "reason": "Fake dating + forced travel proximity make sparks fly in this slow burn romance."
+  },
+  {
+    "title": "Behind Closed Doors",
+    "author": "B.A. Paris",
+    "reason": "Dark thriller with deeply unsettling forced proximity — perfect for suspense fans."
+  },
+  {
+    "title": "Shifter Island",
+    "author": "Liza Street",
+    "reason": "Stranded on an island with a sexy stranger who isn’t exactly human."
+  },
+  {
+    "title": "Ice Planet Barbarians",
+    "author": "Ruby Dixon",
+    "reason": "Trapped on a frozen planet in a close-quarters romance between alien and human."
+  },
+  {
+    "title": "Beneath the Miami Moon",
+    "author": "Tizahmi",
+    "reason": "A vampire forced to shelter his prey for a few dangerous nights ends up falling under her spell."
+  },
+  {
+    "title": "Sweet Obsession",
+    "author": "Callie Rose",
+    "reason": "MMC becomes dangerously obsessed with the heroine in this possessive new adult romance."
+  },
+  {
+    "title": "Twisted Games",
+    "author": "Ana Huang",
+    "reason": "Bodyguard romance with a hyper-protective, quietly possessive royal guard MMC."
+  },
+  {
+    "title": "Zaken",
+    "author": "Hattie Jacks",
+    "reason": "Alien protector who’s both gentle and utterly possessive of his human match."
+  },
+  {
+    "title": "Reaper’s Property",
+    "author": "Joanna Wylde",
+    "reason": "MC romance where the alpha male claims and protects his woman, no matter the cost."
+  },
+  {
+    "title": "Claimed in Paris",
+    "author": "Tizahmi",
+    "reason": "A protective werewolf alpha is ready to destroy anyone who threatens his mate in the city of love."
+  },
+  {
+    "title": "The Last Hour of Gann",
+    "author": "R. Lee Smith",
+    "reason": "Alien survival romance with deep secrets and a non-human love interest."
+  },
+  {
+    "title": "Alien Secrets",
+    "author": "Celia Kyle & Erin Tate",
+    "reason": "Hero hides his true identity from the woman he’s destined to protect—and claim."
+  },
+  {
+    "title": "The Cruel Prince",
+    "author": "Holly Black",
+    "reason": "A mortal girl in the fae world, surrounded by secrets, power plays, and royalty."
+  },
+  {
+    "title": "The Selection",
+    "author": "Kiera Cass",
+    "reason": "Secret royal match-ups and hidden agendas in a bachelor-style competition."
+  },
+  {
+    "title": "Bidding on the Geek",
+    "author": "Tizahmi",
+    "reason": "She thinks she’s buying a harmless tech guy—but he’s an elite ninja spy on a covert mission."
+  },
+  {
+    "title": "Zodiac Academy: The Reckoning",
+    "author": "Caroline Peckham & Susanne Valenti",
+    "reason": "Powerful alpha males battling for dominance and affection in a magical academy setting."
+  },
+  {
+    "title": "Ruthless Boys of the Zodiac",
+    "author": "Caroline Peckham & Susanne Valenti",
+    "reason": "A full reverse harem cast of dangerous, dominant men bonded to one fierce heroine."
+  },
+  {
+    "title": "The Maddest Obsession",
+    "author": "Danielle Lori",
+    "reason": "A mafia enforcer obsessed with control meets the one woman who challenges it all."
+  },
+  {
+    "title": "Lords of Pain",
+    "author": "Angel Lawson & Samantha Rue",
+    "reason": "Three alpha men and one woman bound by dark desire and raw dominance."
+  },
+  {
+    "title": "Kai: Venom & Desire",
+    "author": "Tizahmi",
+    "reason": "Kai rules Rio’s underground ring with brutal dominance—and takes what he wants, including her."
+  },
+  {
+    "title": "That Time I Got Drunk and Saved a Demon",
+    "author": "Kimberly Lemming",
+    "reason": "A curvy spice merchant accidentally gets pulled into a demon quest and turns heads the whole way."
+  },
+  {
+    "title": "Sweet Ruin",
+    "author": "Kresley Cole",
+    "reason": "A fierce plus-size heroine with powers and a dark past meets her immortal match."
+  },
+  {
+    "title": "Curvy Girls Can't Date Quarterbacks",
+    "author": "Kelsie Stelting",
+    "reason": "YA/NA romance where body confidence and unexpected love take center stage."
+  },
+  {
+    "title": "Stalked by the Alien Assassin",
+    "author": "Tasha Black",
+    "reason": "Curvy Earth girl gets abducted by a possessive alien assassin who becomes obsessed."
+  },
+  {
+    "title": "Reckless Rhythms",
+    "author": "Tizahmi",
+    "reason": "Luna is a curvy vocalist with raw talent—and the stage chemistry with her rockstar lead is volcanic."
+  },
+  {
+    "title": "The Girl with the Dragon Tattoo",
+    "author": "Stieg Larsson",
+    "reason": "Gripping investigative suspense with a hacker heroine and dark family secrets."
+  },
+  {
+    "title": "Behind Closed Doors",
+    "author": "B.A. Paris",
+    "reason": "Psychological thriller with a chilling portrayal of control, manipulation, and survival."
+  },
+  {
+    "title": "The Silent Patient",
+    "author": "Alex Michaelides",
+    "reason": "Twisty psychological suspense surrounding a mute woman who may have killed her husband."
+  },
+  {
+    "title": "Verity",
+    "author": "Colleen Hoover",
+    "reason": "Domestic thriller with a chilling manuscript and a writer who uncovers disturbing truths."
+  },
+  {
+    "title": "The Chain",
+    "author": "Adrian McKinty",
+    "reason": "A mother is forced to kidnap someone else's child to save her own in a pulse-pounding race."
+  },
+  {
+    "title": "Legends & Lattes",
+    "author": "Travis Baldree",
+    "reason": "An orc lays down her sword to open a coffee shop—gentle fantasy, low stakes, high charm."
+  },
+  {
+    "title": "The Very Secret Society of Irregular Witches",
+    "author": "Sangu Mandanna",
+    "reason": "A warm and magical story about found family, with light fantasy and heart."
+  },
+  {
+    "title": "Emily Wilde’s Encyclopaedia of Faeries",
+    "author": "Heather Fawcett",
+    "reason": "A fae researcher’s dry wit and magical encounters charm readers of cozy academic fantasy."
+  },
+  {
+    "title": "The House in the Cerulean Sea",
+    "author": "TJ Klune",
+    "reason": "Magical children, a gentle hero, and an uplifting tale of acceptance and belonging."
+  },
+  {
+    "title": "Can’t Spell Treason Without Tea",
+    "author": "Rebecca Thorne",
+    "reason": "Two women leave palace life to run a tea shop and get wrapped in whimsical adventures."
+  },
+  {
+    "title": "The Nightingale",
+    "author": "Kristin Hannah",
+    "reason": "WWII-era story of two sisters surviving the Nazi occupation of France in different ways."
+  },
+  {
+    "title": "The Book Thief",
+    "author": "Markus Zusak",
+    "reason": "A poignant, literary narrative from the perspective of Death, following a girl in Nazi Germany."
+  },
+  {
+    "title": "The Seven Husbands of Evelyn Hugo",
+    "author": "Taylor Jenkins Reid",
+    "reason": "A reclusive old Hollywood star recounts her rise, fame, and scandalous truths."
+  },
+  {
+    "title": "Beneath a Scarlet Sky",
+    "author": "Mark Sullivan",
+    "reason": "Based on a true story, a young Italian helps Jews escape during WWII while spying on the Nazis."
+  },
+  {
+    "title": "Hamnet",
+    "author": "Maggie O’Farrell",
+    "reason": "A fictionalized tale about Shakespeare’s family life, filled with grief, love, and rich historical detail."
+  },
+  {
+    "title": "A Deadly Education",
+    "author": "Naomi Novik",
+    "reason": "Magical school + dark mystery = survival tale with snark and danger."
+  },
+  {
+    "title": "The Graveyard Book",
+    "author": "Neil Gaiman",
+    "reason": "A boy raised by ghosts solves eerie mysteries in a haunted graveyard setting."
+  },
+  {
+    "title": "Magic for Liars",
+    "author": "Sarah Gailey",
+    "reason": "A non-magical PI investigates a murder at a magical academy with snark and grit."
+  },
+  {
+    "title": "The Ghost and Mrs. McClure",
+    "author": "Alice Kimberly",
+    "reason": "A cozy bookstore mystery featuring a ghostly PI helping solve crimes from beyond the grave."
+  },
+  {
+    "title": "Midnight Riot (Rivers of London)",
+    "author": "Ben Aaronovitch",
+    "reason": "Urban paranormal mystery with a London cop who stumbles into magical policing."
+  },
+  {
+    "title": "The Power",
+    "author": "Naomi Alderman",
+    "reason": "What if teenage girls suddenly had the power to electrocute others—how would society change?"
+  },
+  {
+    "title": "Station Eleven",
+    "author": "Emily St. John Mandel",
+    "reason": "A haunting post-pandemic tale about survival, memory, and art across timelines."
+  },
+  {
+    "title": "Parable of the Sower",
+    "author": "Octavia E. Butler",
+    "reason": "A prescient dystopian journey led by a young Black visionary with the power of belief."
+  },
+  {
+    "title": "Wool",
+    "author": "Hugh Howey",
+    "reason": "Underground silo society mystery, filled with twists and ethical dilemmas."
+  },
+  {
+    "title": "The Giver",
+    "author": "Lois Lowry",
+    "reason": "Classic dystopian YA about memory, freedom, and the costs of sameness."
+  },
+  {
+    "title": "Children of Blood and Bone",
+    "author": "Tomi Adeyemi",
+    "reason": "West African–inspired magical journey of a girl reclaiming her people’s lost legacy."
+  },
+  {
+    "title": "Percy Jackson and the Olympians: The Lightning Thief",
+    "author": "Rick Riordan",
+    "reason": "A snarky demigod boy navigates gods, monsters, and prophecy in modern-day America."
+  },
+  {
+    "title": "Scythe",
+    "author": "Neal Shusterman",
+    "reason": "Teens trained to cull the population in a world where death has been eradicated."
+  },
+  {
+    "title": "Elatsoe",
+    "author": "Darcie Little Badger",
+    "reason": "Lipan Apache girl with ghost-summoning powers uncovers the mystery of her cousin’s death."
+  },
+  {
+    "title": "The Inheritance Games",
+    "author": "Jennifer Lynn Barnes",
+    "reason": "A rags-to-riches puzzle adventure with secret passages and family intrigue."
+  },
+  {
+    "title": "Project Hail Mary",
+    "author": "Andy Weir",
+    "reason": "A man wakes up alone in space on a mission to save humanity—with no memory of who he is."
+  },
+  {
+    "title": "Recursion",
+    "author": "Blake Crouch",
+    "reason": "A mind-bending thriller about memory manipulation and alternate timelines."
+  },
+  {
+    "title": "Dark Matter",
+    "author": "Blake Crouch",
+    "reason": "A physicist is kidnapped into an alternate version of his life—where choices splinter reality."
+  },
+  {
+    "title": "Upgrade",
+    "author": "Blake Crouch",
+    "reason": "Genetic enhancement meets ethical chaos in a near-future where evolution is engineered."
+  },
+  {
+    "title": "An Absolutely Remarkable Thing",
+    "author": "Hank Green",
+    "reason": "Internet fame, aliens, and philosophical thrill ride through first contact and viral chaos."
+  },
+  {
+    "title": "Mexican Gothic",
+    "author": "Silvia Moreno-Garcia",
+    "reason": "Haunting 1950s gothic horror set in the Mexican countryside with supernatural decay and ancestral rot."
+  },
+  {
+    "title": "The Only Good Indians",
+    "author": "Stephen Graham Jones",
+    "reason": "A brutal blend of Indigenous heritage, revenge, and supernatural terror."
+  },
+  {
+    "title": "The Troop",
+    "author": "Nick Cutter",
+    "reason": "Terrifying survival horror as a scout troop faces something parasitic on a remote island."
+  },
+  {
+    "title": "The Haunting of Hill House",
+    "author": "Shirley Jackson",
+    "reason": "Classic psychological horror rooted in fear, trauma, and haunted architecture."
+  },
+  {
+    "title": "The Fisherman",
+    "author": "John Langan",
+    "reason": "Lyrical cosmic horror about grief and dark waters that conceal monstrous truths."
+  },
+  {
+    "title": "Educated",
+    "author": "Tara Westover",
+    "reason": "Powerful story of a woman who escapes a survivalist upbringing through education."
+  },
+  {
+    "title": "Born a Crime",
+    "author": "Trevor Noah",
+    "reason": "Hilarious and poignant stories from the comedian’s childhood during apartheid South Africa."
+  },
+  {
+    "title": "The Glass Castle",
+    "author": "Jeannette Walls",
+    "reason": "A raw, emotionally rich memoir of poverty, resilience, and family dysfunction."
+  },
+  {
+    "title": "Know My Name",
+    "author": "Chanel Miller",
+    "reason": "A beautifully written reclaiming of voice and power after surviving sexual assault."
+  },
+  {
+    "title": "Heavy",
+    "author": "Kiese Laymon",
+    "reason": "A searing, poetic memoir of Black boyhood, family, weight, and truth-telling."
+  },
+  {
+    "title": "Bossypants",
+    "author": "Tina Fey",
+    "reason": "Witty and self-deprecating look into comedy, womanhood, and showbiz absurdity."
+  },
+  {
+    "title": "We Are Never Meeting in Real Life",
+    "author": "Samantha Irby",
+    "reason": "Hilarious essays on adulthood, depression, and awkwardness with bold voice."
+  },
+  {
+    "title": "Is Everyone Hanging Out Without Me?",
+    "author": "Mindy Kaling",
+    "reason": "Warm, relatable, and sharply funny take on friendship, career, and womanhood."
+  },
+  {
+    "title": "Me Talk Pretty One Day",
+    "author": "David Sedaris",
+    "reason": "Sardonic essays on childhood, language, and the absurdities of human behavior."
+  },
+  {
+    "title": "Sh*t My Dad Says",
+    "author": "Justin Halpern",
+    "reason": "Outrageously blunt life advice from a dad who doesn’t hold back—based on the viral Twitter account."
+  },
+  {
+    "title": "I’ll Be Gone in the Dark",
+    "author": "Michelle McNamara",
+    "reason": "A journalist’s obsessive search for the Golden State Killer—gripping and groundbreaking."
+  },
+  {
+    "title": "In Cold Blood",
+    "author": "Truman Capote",
+    "reason": "Classic narrative nonfiction about the murder of a Kansas family—chilling and literary."
+  },
+  {
+    "title": "Mindhunter",
+    "author": "John E. Douglas & Mark Olshaker",
+    "reason": "Inside the FBI’s elite serial crime unit and the birth of criminal profiling."
+  },
+  {
+    "title": "The Five",
+    "author": "Hallie Rubenhold",
+    "reason": "Reclaims the voices of Jack the Ripper’s victims, giving humanity to the forgotten."
+  },
+  {
+    "title": "If You Tell",
+    "author": "Gregg Olsen",
+    "reason": "Shocking story of survival and abuse in a twisted household—told with unflinching detail."
+  },
+  {
+    "title": "Friday Night Lights",
+    "author": "H.G. Bissinger",
+    "reason": "Explores the pressure and passion of high school football in small-town Texas."
+  },
+  {
+    "title": "Moneyball",
+    "author": "Michael Lewis",
+    "reason": "Revolutionized the way people think about baseball through data and analytics."
+  },
+  {
+    "title": "The Boys in the Boat",
+    "author": "Daniel James Brown",
+    "reason": "The inspiring story of the American rowing team at the 1936 Berlin Olympics."
+  },
+  {
+    "title": "Open",
+    "author": "Andre Agassi",
+    "reason": "Raw and introspective memoir of one of tennis’s most iconic players."
+  },
+  {
+    "title": "Eleven Rings",
+    "author": "Phil Jackson",
+    "reason": "Legendary coach shares the spiritual and strategic mindset behind his NBA success."
+  },
+  {
+    "title": "Kitchen Confidential",
+    "author": "Anthony Bourdain",
+    "reason": "Wild, honest, and gritty insider look at the culinary underworld."
+  },
+  {
+    "title": "Salt, Fat, Acid, Heat",
+    "author": "Samin Nosrat",
+    "reason": "Foundational guide to cooking with sensory storytelling and practical instruction."
+  },
+  {
+    "title": "Eat Pray Love",
+    "author": "Elizabeth Gilbert",
+    "reason": "While not a cookbook, it blends food, self-discovery, and travel in an evocative memoir."
+  },
+  {
+    "title": "A Cook’s Tour",
+    "author": "Anthony Bourdain",
+    "reason": "Travel + culinary fusion that celebrates international food and philosophy."
+  },
+  {
+    "title": "Notes from a Young Black Chef",
+    "author": "Kwame Onwuachi",
+    "reason": "Memoir of identity, ambition, and resilience through the lens of food."
+  },
+  {
+    "title": "Into the Wild",
+    "author": "Jon Krakauer",
+    "reason": "True story of a young man who left everything behind to survive in the Alaskan wilderness."
+  },
+  {
+    "title": "Hatchet",
+    "author": "Gary Paulsen",
+    "reason": "YA survival classic—teen boy must survive alone in the woods with just a hatchet."
+  },
+  {
+    "title": "The Martian",
+    "author": "Andy Weir",
+    "reason": "Sci-fi survival story about a man stranded on Mars—clever, witty, and intensely human."
+  },
+  {
+    "title": "Between a Rock and a Hard Place",
+    "author": "Aron Ralston",
+    "reason": "Memoir of the harrowing real-life canyon survival that inspired *127 Hours*."
+  },
+  {
+    "title": "Alone on the Wall",
+    "author": "Alex Honnold",
+    "reason": "Daring firsthand account of solo free-climbing adventures and mental strength."
+  },
+  {
+    "title": "The Lean Startup",
+    "author": "Eric Ries",
+    "reason": "Modern entrepreneurial bible for iterative business building and sustainable growth."
+  },
+  {
+    "title": "Start with Why",
+    "author": "Simon Sinek",
+    "reason": "Game-changing insight into leadership and motivation from a purpose-first lens."
+  },
+  {
+    "title": "Shoe Dog",
+    "author": "Phil Knight",
+    "reason": "Nike founder’s memoir showing the messy, visionary path to business success."
+  },
+  {
+    "title": "Atomic Habits",
+    "author": "James Clear",
+    "reason": "Science-based method for making small behavioral shifts that lead to massive results."
+  },
+  {
+    "title": "The 4-Hour Workweek",
+    "author": "Tim Ferriss",
+    "reason": "Controversial but trendsetting book about automation, lifestyle design, and business hacking."
+  },
+  {
+    "title": "Red, White & Royal Blue",
+    "author": "Casey McQuiston",
+    "reason": "A charming political rivals-to-lovers romance between the First Son and a British prince."
+  },
+  {
+    "title": "Boyfriend Material",
+    "author": "Alexis Hall",
+    "reason": "A British fake dating rom-com that blossoms into something hilariously and beautifully real."
+  },
+  {
+    "title": "The Song of Achilles",
+    "author": "Madeline Miller",
+    "reason": "A heart-wrenching historical fantasy romance between Achilles and Patroclus, full of poetic longing."
+  },
+  {
+    "title": "In the Company of Shadows",
+    "author": "Santino Hassell & Ais",
+    "reason": "A gritty, dystopian saga with a deeply complex M/M relationship at the core."
+  },
+  {
+    "title": "The House in the Cerulean Sea",
+    "author": "TJ Klune",
+    "reason": "A magical, gentle queer romance between two caretakers in a whimsical, heartwarming world."
+  },
+  {
+    "title": "Captive Prince",
+    "author": "C.S. Pacat",
+    "reason": "A dark, intense enemies-to-lovers court intrigue romance full of tension and power games."
+  },
+  {
+    "title": "Heated Rivalry",
+    "author": "Rachel Reid",
+    "reason": "A deliciously spicy hockey romance between two rival players who can't stay away."
+  },
+  {
+    "title": "Wolfsong",
+    "author": "TJ Klune",
+    "reason": "A rich emotional story of pack, power, and the pull between two men bound by destiny."
+  },
+  {
+    "title": "The Lightning-Struck Heart",
+    "author": "TJ Klune",
+    "reason": "A comedic fantasy M/M romance with dragons, sass, and surprisingly tender moments."
+  }
+]
