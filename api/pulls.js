@@ -5,7 +5,14 @@ import connectDB from "../utils/connectDB.js";
 
 export default async function handler(req, res) {
   const method = req.method;
-  const email = method === "GET" ? req.query.email?.toLowerCase() : (await json(req)).email?.toLowerCase();
+
+  let email = "";
+  if (method === "GET") {
+    email = decodeURIComponent(req.query.email || "").toLowerCase().trim();
+  } else if (method === "POST") {
+    const body = await json(req);
+    email = (body.email || "").toLowerCase().trim();
+  }
 
   if (!email) return send(res, 400, { error: "Email is required" });
 
