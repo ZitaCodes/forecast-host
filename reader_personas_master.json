@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-06-23 18:39:44",
+  "timestamp": "2025-06-23 18:56:10",
   "personas": [
     {
       "name": "Memoir Devourer",
@@ -739,6 +739,116 @@
       "tags": [
         "Rural Romance",
         "Black"
+      ]
+    },
+    {
+      "name": "Burnout Recovery Buff",
+      "traits": "reads about rest, nervous system regulation, and escaping hustle culture",
+      "tropes": "quiet healing, burnout to balance, body-first success",
+      "hashtags": "#RestIsProductive #BurnoutRecovery #WellnessReads",
+      "promo_tip": "Position your book as relief\u2014not another task. Frame ease and recovery as strengths.",
+      "tags": [
+        "Wellness",
+        "Self-Help"
+      ]
+    },
+    {
+      "name": "Boundary Builder",
+      "traits": "reads self-help on saying no, escaping people-pleasing, and reclaiming time",
+      "tropes": "emotional clarity, found voice, relationship detox",
+      "hashtags": "#SelfWorthReads #BoundaryBooks #Empowerment",
+      "promo_tip": "Use confident, affirming tone. Focus on reclaiming peace, not shaming readers.",
+      "tags": [
+        "Self-Help",
+        "Women\u2019s Empowerment"
+      ]
+    },
+    {
+      "name": "Disability Justice Reader",
+      "traits": "reads about systemic accessibility, lived experience, and radical inclusion",
+      "tropes": "own voice, advocacy, redefining independence",
+      "hashtags": "#DisabilityJustice #OwnVoices #AccessMatters",
+      "promo_tip": "Use clear, respectful language. Center lived experience and social insight.",
+      "tags": [
+        "Nonfiction",
+        "DisabilityRep"
+      ]
+    },
+    {
+      "name": "Creative Biz Dreamer",
+      "traits": "reads business books tailored to artists, authors, and solopreneurs",
+      "tropes": "brand clarity, slow success, passion to profit",
+      "hashtags": "#CreativeBusiness #IndieAuthorLife #PurposeProfit",
+      "promo_tip": "Speak to creative spirits. Position your book as a roadmap with warmth, not pressure.",
+      "tags": [
+        "Business",
+        "Creative Entrepreneur"
+      ]
+    },
+    {
+      "name": "Grief-Work Gazer",
+      "traits": "reads memoirs and psychology books about loss, mourning, and emotional healing",
+      "tropes": "grief arc, love after loss, mother wound",
+      "hashtags": "#GriefMemoir #HealingAfterLoss #EmotionalTruth",
+      "promo_tip": "Lead with softness and realness. Readers are processing; be a companion, not a guide.",
+      "tags": [
+        "Memoir",
+        "Mental Health"
+      ]
+    },
+    {
+      "name": "Queer Love Memoirist",
+      "traits": "seeks real-life stories of queer identity, coming out, and chosen love",
+      "tropes": "self-discovery, public vs private, love as liberation",
+      "hashtags": "#QueerMemoir #LoveIsLove #TrueStory",
+      "promo_tip": "Use personal truth as your power. Readers seek resonance over perfection.",
+      "tags": [
+        "Memoir",
+        "Queer"
+      ]
+    },
+    {
+      "name": "Neurodivergent Systems Seeker",
+      "traits": "loves frameworks that reduce chaos\u2014calendar blocking, sensory mapping, executive function hacks",
+      "tropes": "mind-body syncing, ADHD management, peace through structure",
+      "hashtags": "#NDSystems #NeurodivergentTools #BetterBrains",
+      "promo_tip": "Clarity is king. Show, don\u2019t lecture\u2014visually structured books win big here.",
+      "tags": [
+        "Productivity",
+        "Neurodivergent"
+      ]
+    },
+    {
+      "name": "Liberation Theology Seeker",
+      "traits": "reads radical Christian works centered on justice, deconstruction, and spiritual liberation",
+      "tropes": "sacred rage, reclaiming scripture, holy resistance",
+      "hashtags": "#FaithAndJustice #QueerFaith #LiberationReads",
+      "promo_tip": "Lead with empathy and insight. These readers want courage wrapped in grace.",
+      "tags": [
+        "Faith",
+        "Progressive Theology"
+      ]
+    },
+    {
+      "name": "Millennial Midlife Reflector",
+      "traits": "reads about aging, shifting identity, and relationships after 35",
+      "tropes": "career pivot, motherhood reimagined, divorce and rediscovery",
+      "hashtags": "#MillennialMemoir #MidlifeShift #RediscoverMe",
+      "promo_tip": "Position your book as a mirror and map. Readers want to feel seen in flux.",
+      "tags": [
+        "Memoir",
+        "Women Over 35"
+      ]
+    },
+    {
+      "name": "Quiet Power Builder",
+      "traits": "prefers introvert-friendly business guides, slow marketing, and authentic influence",
+      "tropes": "quiet branding, deep work, soft scaling",
+      "hashtags": "#QuietSuccess #IntrovertLeadership #SoulfulBusiness",
+      "promo_tip": "Avoid hustle hype. Speak to sustainable impact and calm confidence.",
+      "tags": [
+        "Business",
+        "Introvert"
       ]
     }
   ]
