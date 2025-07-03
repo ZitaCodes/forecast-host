@@ -1,55 +1,60 @@
 {
-  "last_updated": "04-13-2025",
+  "last_updated": "07-01-2025",
   "reddit_forecast": [
     {
-      "title": "Fallout (Amazon Prime)",
-      "trend_type": "Post-Apocalyptic Adventure",
-      "description": "Redditors are obsessed with the wasteland world-building — great for dystopian promos or survivalist romance tie-ins."
+      "title": "The Naked Gun (New Poster)",
+      "trend_type": "Comedy Reboot",
+      "description": "Redditors exploded over the new poster \u2014 perfect to lean into absurdist humor or quirky detective stories.  \ud83d\udcca Score: 89271"
     },
     {
-      "title": "Shōgun (FX/Hulu)",
-      "trend_type": "Historical Epic",
-      "description": "Gritty power plays, forbidden love, and cultural conflict — excellent crossover for historical romance or samurai tropes."
+      "title": "Project Hail Mary (Ryan Gosling)",
+      "trend_type": "Sci-Fi Hero Drama",
+      "description": "Poster reveal hyped Reddit \u2014 use for lone savior arcs, genius under pressure, or near-death stakes.  \ud83d\udcca Score: 19861"
     },
     {
-      "title": "Dark Matter (Apple TV)",
-      "trend_type": "Sci-Fi Thriller",
-      "description": "Multiverse theories and emotional tension — use this for books exploring identity, time loops, or second-chance twists."
+      "title": "The Odyssey (Christopher Nolan)",
+      "trend_type": "Epic Myth Retelling",
+      "description": "Fans are buzzing over Nolan\u2019s take \u2014 ideal for epic journeys, tortured heroes, or modern mythological twists.  \ud83d\udcca Score: 17870"
     },
     {
-      "title": "Ripley (Netflix)",
-      "trend_type": "Psychological Suspense",
-      "description": "Cold tension and morally gray leads — a goldmine for dark romance or dual-identity tropes."
+      "title": "I'm Glad My Mom Died (Apple TV+)",
+      "trend_type": "Memoir Adaptation",
+      "description": "Aniston's casting has Reddit hooked \u2014 great for trauma recovery arcs or messy mother-daughter dynamics.  \ud83d\udcca Score: 8484"
     },
     {
-      "title": "3 Body Problem (Netflix)",
-      "trend_type": "Genre Crossover",
-      "description": "Hard sci-fi meets deep human themes — Redditors are craving alien contact, ethics, and world-ending stakes."
+      "title": "The Office (Post-Steve Carell)",
+      "trend_type": "Nostalgia + Cast Change Drama",
+      "description": "Waves of Reddit sentiment \u2014 can inspire books about band breakups, leadership shifts, or workplace found family.  \ud83d\udcca Score: 5650"
     },
     {
-      "title": "X-Men ‘97 (Disney+)",
-      "trend_type": "Nostalgia + Superpower Conflict",
-      "description": "Reddit is gushing over emotional depth and epic arcs — great angle for fated lovers, found family, or vigilante tropes."
+      "title": "The Last of Us (Creative Shakeup)",
+      "trend_type": "Fandom Unrest",
+      "description": "Reddit debate is fierce \u2014 tap into betrayal themes, lost vision arcs, or crumbling alliances.  \ud83d\udcca Score: 4387"
     },
     {
-      "title": "Sugar (Apple TV)",
-      "trend_type": "Neo-Noir Mystery",
-      "description": "Twisty detective meets hidden identity — ideal for authors with thriller romance or bodyguard tropes."
+      "title": "Netflix Hidden Gems",
+      "trend_type": "Underwatched Gold",
+      "description": "Reddit wants to amplify sleeper hits \u2014 position your book as 'the one no one knows but everyone should read.'  \ud83d\udcca Score: 1889"
     },
     {
-      "title": "The Gentlemen (Netflix)",
-      "trend_type": "Crime Dramedy",
-      "description": "Witty crime lords, posh chaos — excellent promo tie-ins for enemies-to-lovers or mafia adjacent romances."
+      "title": "Netflix Cancels Everything",
+      "trend_type": "Platform Fatigue",
+      "description": "Frustration is real \u2014 authors can lean into 'limited-time worlds' or emotionally abrupt endings.  \ud83d\udcca Score: 514"
     },
     {
-      "title": "The Regime (Max)",
-      "trend_type": "Political Satire",
-      "description": "Authoritarianism meets absurdity — great fuel for dystopian romance or rise-of-the-underdog themes."
+      "title": "Netflix Games Criticism",
+      "trend_type": "Audience Disconnect",
+      "description": "The pushback on Netflix games is growing \u2014 could fuel plots about corporate overreach or tech fatigue.  \ud83d\udcca Score: 507"
     },
     {
-      "title": "Baby Reindeer (Netflix)",
-      "trend_type": "Dark Autobiographical Drama",
-      "description": "Blurring fact and fiction — authors of emotional thrillers, obsession arcs, or stalker romance can ride this wave."
+      "title": "The Comeback (HBO Revival)",
+      "trend_type": "Second Chance Series",
+      "description": "A beloved show returns \u2014 use for arcs about reinvention, long-lost love, or proving you still got it.  \ud83d\udcca Score: 156"
+    },
+    {
+      "title": "Ranking HBO Hits",
+      "trend_type": "Prestige Reflection",
+      "description": "Reddit's love for HBO\u2019s lineup sparks reflection \u2014 play off 'top-tier stories' or legacy comparisons.  \ud83d\udcca Score: 88"
     }
   ]
 }
