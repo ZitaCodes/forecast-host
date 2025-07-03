@@ -1,855 +1,1864 @@
-{
-  "timestamp": "2025-06-23 18:56:10",
-  "personas": [
-    {
-      "name": "Memoir Devourer",
-      "traits": "shares author interviews on social, loves emotional or transformative storytelling, reviews indie life stories",
-      "tropes": "resilience arc, found voice, overcoming shame",
-      "hashtags": "#MemoirReader #RealStoriesMatter #BookLover",
-      "promo_tip": "Emphasize authenticity, emotion, and transformation. Frame your memoir as an intimate journey, not just a timeline.",
-      "tags": [
-        "Black",
-        "Memoir"
-      ]
-    },
-    {
-      "name": "Legacy Seeker",
-      "traits": "interested in generational stories, reads books about family secrets and historical roots",
-      "tropes": "multi-timeline, family trauma, rediscovered heritage",
-      "hashtags": "#LegacyReads #RootedStories #MemoirMonday",
-      "promo_tip": "Highlight generational arcs and emotional resonance. Perfect for stories with flashbacks or family reveals.",
-      "tags": [
-        "Latina",
-        "Memoir"
-      ]
-    },
-    {
-      "name": "Self-Help Strategist",
-      "traits": "tracks mindset shifts in journals, listens to motivational audiobooks, follows productivity YouTubers",
-      "tropes": "glow-up, identity reinvention, mindset transformation",
-      "hashtags": "#LevelUp #MindsetMatters #BookTokSelfHelp",
-      "promo_tip": "Use bold, goal-oriented language. Frame your book as a tactical advantage or breakthrough moment.",
-      "tags": [
-        "Neurodivergent",
-        "Self-Help"
-      ]
-    },
-    {
-      "name": "Manifestation Maven",
-      "traits": "follows vision board trends, uses affirmations, shares spiritual goal-setting routines",
-      "tropes": "abundance journey, the universe provides, dream big energy",
-      "hashtags": "#ManifestationBooks #AbundanceReads #GlowUpGuide",
-      "promo_tip": "Use energizing language and future-visualization themes. Tie in success stories or reader testimonials.",
-      "tags": [
-        "Queer",
-        "Self-Help"
-      ]
-    },
-    {
-      "name": "Spiritual Seeker",
-      "traits": "shares scripture reflections, reviews devotionals, follows Christian influencers",
-      "tropes": "divine timing, redemption arc, chosen purpose",
-      "hashtags": "#FaithReads #SpiritLed #DevotionalLife",
-      "promo_tip": "Lead with peace, light, and spiritual value. Avoid over-marketing; authenticity wins here.",
-      "tags": [
-        "DisabilityRep",
-        "Faith"
-      ]
-    },
-    {
-      "name": "Wellness Whisperer",
-      "traits": "posts meal prep, yoga reels, shares body-mind connection books",
-      "tropes": "renewal arc, healing journey, inner calm",
-      "hashtags": "#WellnessReads #MindBodyBooks #HealingJourney",
-      "promo_tip": "Use serene imagery and grounding copy. Emphasize personal growth and sustainable change.",
-      "tags": [
-        "Asian",
-        "Wellness"
-      ]
-    },
-    {
-      "name": "Spicy Kindle Addict",
-      "traits": "reads late-night on Kindle Unlimited, follows dark romance authors on TikTok, loves villain love interests",
-      "tropes": "possessive hero, enemies to lovers, touch her and die",
-      "hashtags": "#SpicyRomance #DarkRomanceBooktok #Smuttok",
-      "promo_tip": "Lead with trope heat and emotional tension. Dark romance readers love morally gray intensity.",
-      "tags": [
-        "Black",
-        "Romance"
-      ]
-    },
-    {
-      "name": "Fae Court Obsessed",
-      "traits": "collects special editions, loves court intrigue, ships morally gray magic users",
-      "tropes": "forbidden bond, fae bargains, chosen one",
-      "hashtags": "#FaeFantasy #FantasyRomance #CourtPolitics",
-      "promo_tip": "Use lush language, tension-filled summaries, and emphasize fantasy tropes.",
-      "tags": [
-        "Fantasy",
-        "Queer"
-      ]
-    },
-    {
-      "name": "True Crime Sleuth",
-      "traits": "binge-listens to murder podcasts, reads cold case books, follows court drama on TikTok",
-      "tropes": "justice served, mysterious narrator, victim redemption",
-      "hashtags": "#TrueCrimeReads #CrimeJunkie #JusticeForVictims",
-      "promo_tip": "Lead with intrigue and real-world relevance. Highlight emotional hooks, especially if based on true events.",
-      "tags": [
-        "Nonfiction",
-        "White"
-      ]
-    },
-    {
-      "name": "Romantic Realist",
-      "traits": "enjoys love stories with grounded emotional arcs, reads second-chance romance, avoids fantasy",
-      "tropes": "slow burn, emotional scars, mature love",
-      "hashtags": "#RealRomance #SecondChanceLove #HeartfeltReads",
-      "promo_tip": "Skip the fluff. Showcase emotional intelligence, relatable flaws, and quiet moments of connection.",
-      "tags": [
-        "Latina",
-        "Romance"
-      ]
-    },
-    {
-      "name": "Queer Worldbuilder",
-      "traits": "reads indie fantasy with queer leads, critiques worldbuilding depth, active on BookTube",
-      "tropes": "found family, enemies to lovers, elemental magic",
-      "hashtags": "#QueerFantasy #LGBTReads #EpicWorlds",
-      "promo_tip": "Center character-driven journeys and immersive politics. Bonus points for emotional world stakes.",
-      "tags": [
-        "Fantasy",
-        "Queer"
-      ]
-    },
-    {
-      "name": "BookTok Trend Hunter",
-      "traits": "buys books from trending TikToks, shares bookshelf reveal videos, prioritizes aesthetics",
-      "tropes": "morally gray hero, fake dating, toxic attraction",
-      "hashtags": "#BookTokMadeMeBuyIt #TrendingReads #AestheticBooks",
-      "promo_tip": "Use dynamic cover design and bold trope hooks. Lean into what\u2019s hot and emotional.",
-      "tags": [
-        "Romance",
-        "White"
-      ]
-    },
-    {
-      "name": "Witchy Wellness Reader",
-      "traits": "reads about herbalism, moon cycles, spiritual alignment, collects alt wellness zines",
-      "tropes": "healing magic, shadow work, ancestral rituals",
-      "hashtags": "#WitchyReads #HolisticHealing #MagicAndWellness",
-      "promo_tip": "Lean into spiritual healing language and affirm the sacred feminine or nature-based growth.",
-      "tags": [
-        "Black",
-        "Wellness"
-      ]
-    },
-    {
-      "name": "Dark Academia Devotee",
-      "traits": "loves morally ambiguous narratives, annotates books, posts quote aesthetics",
-      "tropes": "intellectual obsession, deadly secret, academic rivalry",
-      "hashtags": "#DarkAcademia #SmartReads #TwistedClassics",
-      "promo_tip": "Use rich prose, gothic tension, and cerebral stakes. Lean into flawed genius characters.",
-      "tags": [
-        "Asian",
-        "Fiction"
-      ]
-    },
-    {
-      "name": "History Power Reader",
-      "traits": "reads historical nonfiction, annotates timelines, shares archive finds",
-      "tropes": "reclaimed voices, empire critique, origin tracing",
-      "hashtags": "#HistoryNerd #DecolonizeTheShelf #RealStoriesMatter",
-      "promo_tip": "Focus on lesser-known facts, social relevance, and layered storytelling. Data meets narrative here.",
-      "tags": [
-        "Black",
-        "Nonfiction"
-      ]
-    },
-    {
-      "name": "Neurodivergent Daydreamer",
-      "traits": "immerses in fantasy books as emotional rest, posts sensory-friendly reads, avoids overstimulation",
-      "tropes": "gentle magic, chosen comfort, quiet resilience",
-      "hashtags": "#CozyFantasy #NeurodivergentReads #SoftWorlds",
-      "promo_tip": "Prioritize emotional safety and gentle pacing. Highlight sensory calm and stable relationships.",
-      "tags": [
-        "Fantasy",
-        "Neurodivergent"
-      ]
-    },
-    {
-      "name": "Faith-Driven Reclaimer",
-      "traits": "reads inclusive faith-based books, critiques rigid theology, seeks representation in religious nonfiction",
-      "tropes": "liberation theology, divine healing, reclaiming sacred space",
-      "hashtags": "#InclusiveFaith #QueerFaithReads #ReclaimingSpirituality",
-      "promo_tip": "Be honest, grounded, and affirming. Acknowledge pain points while offering hope and connection.",
-      "tags": [
-        "Faith",
-        "Queer"
-      ]
-    },
-    {
-      "name": "Pack Loyalist",
-      "tags": [
-        "Alpha",
-        "Mate Bond",
-        "Shifter",
-        "Werewolf"
-      ],
-      "tropes": "fated mates, alpha protector, rejected mate",
-      "hashtags": "#WolfRomance #AlphaObsessed #PackLove #MoonlitDesire",
-      "traits": "adores protective alphas, mate bonds, and pack hierarchy dynamics",
-      "promo_tip": "Lean into primal tension and loyalty themes. Readers crave emotional intensity and dominance dynamics."
-    },
-    {
-      "name": "YA Enthusiast (Grown)",
-      "traits": "still reads YA for the nostalgia and angst, collects series hardcovers, reviews on BookTube",
-      "tropes": "identity discovery, found family, courage vs conformity",
-      "hashtags": "#YAForever #TeenFictionLover #YoungAtHeart",
-      "promo_tip": "Don\u2019t talk down to this reader. Embrace emotion, high stakes, and meaningful growth arcs.",
-      "tags": [
-        "White",
-        "YA"
-      ]
-    },
-    {
-      "tags": [
-        "Paranormal Romance",
-        "Romance",
-        "Sci-Fi Romance"
-      ],
-      "name": "Alien Romance Addict",
-      "traits": "They live for the thrill of otherworldly desire\u2014where the alien is dominant, dangerous, and unexpectedly tender. They crave galaxy-sized stakes wrapped in raw, emotional pull.",
-      "tropes": "alien hero, touch her and die, captured, language barrier, first contact, fated mates"
-    },
-    {
-      "tags": [
-        "Alien Romance",
-        "Sci-Fi Romance"
-      ],
-      "name": "Auctioned but Adored",
-      "traits": "Obsessed with the trope where Earth women are sold or gifted to powerful alien males\u2014only to be fiercely protected and worshipped. Consent blossoms slowly but steamy.",
-      "tropes": "alien auction, sold to alien, protective MMC, dubious consent, slow burn, mate bond"
-    },
-    {
-      "tags": [
-        "Romance",
-        "Sci-Fi Romance"
-      ],
-      "name": "Alien Softie Seeker",
-      "traits": "They adore kind, curious aliens who are emotionally intelligent, often unsure of human customs, and fall hard for strong Earth women.",
-      "tropes": "gentle alien, language barrier, cultural misunderstanding, emotional bond, domestic scenes"
-    },
-    {
-      "tags": [
-        "Fantasy Romance",
-        "Sci-Fi Romance"
-      ],
-      "name": "Rebel Space Bride",
-      "traits": "Drawn to fierce heroines who are taken to space but refuse to be owned. Loves romance with political intrigue, rebellion, or cultural tension.",
-      "tropes": "reluctant mate, alien war, rebellion, royal bloodline, fighter heroine, arranged match"
-    },
-    {
-      "tags": [
-        "Sci-Fi Romance",
-        "Speculative Romance"
-      ],
-      "name": "First Contact Thrill-Seeker",
-      "traits": "They love stories where the first meeting between human and alien feels dangerous, awe-inspiring, and intimate. Mystery + biology + instant chemistry = obsession.",
-      "tropes": "first contact, alien anatomy, stranger in a strange land, slow trust, telepathy, star-crossed"
-    },
-    {
-      "tags": [
-        "Fantasy Romance",
-        "Paranormal Romance"
-      ],
-      "name": "Shifter Fanatic",
-      "traits": "They can\u2019t resist a beastly protector hiding beneath the surface. Animal instinct, pack loyalty, and the ache of claiming their mate? Yes, please.",
-      "tropes": "wolf shifter, snake shifter, fated mates, possessive MMC, marking, found family"
-    },
-    {
-      "tags": [
-        "Dark Romance",
-        "Paranormal Romance"
-      ],
-      "name": "Alpha Obsession Reader",
-      "traits": "They crave powerful, dominant shifters who protect what's theirs. If he growls, stalks, and marks his mate as his own, they're hooked.",
-      "tropes": "alpha male, territorial, touch her and die, bite marks, instinct-driven love"
-    },
-    {
-      "tags": [
-        "Paranormal Romance",
-        "Urban Fantasy"
-      ],
-      "name": "Pack-Loyal Romantic",
-      "traits": "They enjoy the deep-rooted culture of shifter packs, with themes of loyalty, found family, and hierarchy. A strong heroine who earns her place is their vibe.",
-      "tropes": "pack dynamics, heir to alpha, outsider heroine, rising through the ranks, bonded loyalty"
-    },
-    {
-      "tags": [
-        "Fantasy Romance",
-        "Paranormal Romance"
-      ],
-      "name": "Forbidden Shift Seeker",
-      "traits": "They love when a shifter love is taboo\u2014cross-species, rival packs, or hidden identities. High stakes, high steam, and impossible choices.",
-      "tropes": "forbidden love, enemy shifters, secret mate, underworld rules, rival clans"
-    },
-    {
-      "tags": [
-        "Fantasy Romance",
-        "Paranormal Romance"
-      ],
-      "name": "Mythical Shifter Dreamer",
-      "traits": "Not just wolves\u2014give them dragons, snakes, phoenixes, and rare creatures. They love mystical lore, elemental ties, and fate-driven love stories.",
-      "tropes": "rare shifter, snake shifter, mythology, fated mates, prophecy, soul bond"
-    },
-    {
-      "tags": [
-        "Dark Romance",
-        "Romantic Suspense"
-      ],
-      "name": "Dark Romance Devotee",
-      "traits": "They want danger laced with desire. Power imbalances, obsession, taboo, and emotional chaos? If it's a little twisted and a lot intense, they're all in.",
-      "tropes": "captor/captive, touch her and die, mafia, dominant MMC, dubious consent, vengeance"
-    },
-    {
-      "tags": [
-        "Contemporary Romance",
-        "Dark Romance"
-      ],
-      "name": "Possessive Psycho Lover",
-      "traits": "The more obsessed and morally gray the MMC, the better. They eat up stalker romance, dark billionaires, and antiheroes who burn the world for her.",
-      "tropes": "obsession, stalker hero, manipulation, alpha villain, dark billionaire, consent struggle"
-    },
-    {
-      "tags": [
-        "Dark Romance",
-        "Erotica"
-      ],
-      "name": "Taboo Line Walker",
-      "traits": "They want stories that flirt with the forbidden. Age gaps, teacher/student, stepbrother, or captive dynamics\u2014anything that challenges norms but delivers intense emotional payoff.",
-      "tropes": "age gap, forbidden love, stepbrother, teacher, power imbalance, forgive the unforgivable"
-    },
-    {
-      "tags": [
-        "Dark Romance",
-        "Romantic Suspense"
-      ],
-      "name": "Trauma Bonded Believer",
-      "traits": "They crave high-stakes emotional survival. Kidnapping, war, betrayal, addiction\u2014anything that breaks characters down before building them up in passion.",
-      "tropes": "trauma, healing through love, unreliable narrator, revenge arc, redemption, PTSD"
-    },
-    {
-      "tags": [
-        "Cozy Fantasy",
-        "Light Paranormal",
-        "Magical Realism"
-      ],
-      "name": "Cottagecore Magic Lover",
-      "traits": "They want gentle magic, herbal spells, and cozy cottages filled with warmth and wonder. Think found family, enchanted teapots, and quiet power.",
-      "tropes": "hearth magic, found family, gentle witch, village charm, magical home, slow burn"
-    },
-    {
-      "tags": [
-        "Contemporary Fantasy",
-        "Light Paranormal"
-      ],
-      "name": "Warm Witch Vibes Only",
-      "traits": "They\u2019re here for witchy vibes without the doom and gloom. Give them healing crystals, local covens, and a black cat who definitely talks.",
-      "tropes": "modern witch, cozy coven, seasonal magic, light spells, quirky familiars"
-    },
-    {
-      "tags": [
-        "Cozy Fantasy",
-        "Romantic Fantasy"
-      ],
-      "name": "Cursed but Comforted",
-      "traits": "They adore a light curse plot\u2014where a mild magical mishap leads to laughter, lessons, and maybe love. Bonus points for enchanted books or bakeries.",
-      "tropes": "charmed objects, cursed hero, slow enchantment, baking magic, library spells"
-    },
-    {
-      "tags": [
-        "Cozy Paranormal",
-        "Paranormal Romance"
-      ],
-      "name": "Paranormal with a Wink",
-      "traits": "They love a supernatural world that's more charming than chilling. Ghosts, shifters, or fae in small towns with a touch of sass, not scares.",
-      "tropes": "ghost roommate, quirky shifter, low stakes, supernatural comedy, soft banter, sweet hauntings"
-    },
-    {
-      "tags": [
-        "Narrative Nonfiction",
-        "True Crime"
-      ],
-      "name": "True Crime Truth Seeker",
-      "traits": "They devour real-world cases with obsession-level detail. Crime scene analysis, survivor stories, and psychological breakdowns keep them turning pages into the night.",
-      "tropes": "real case, unsolved, investigative journalism, forensic detail, survivor POV, serial killers"
-    },
-    {
-      "tags": [
-        "Psychological Thriller",
-        "Suspense"
-      ],
-      "name": "Domestic Suspense Junkie",
-      "traits": "They love stories where the biggest threat is already inside the house. Give them chilling marriages, missing wives, and secrets buried under suburbia.",
-      "tropes": "gaslighting, unreliable narrator, hidden past, woman in peril, suburban horror, murder cover-up"
-    },
-    {
-      "tags": [
-        "Mystery",
-        "Thriller",
-        "True Crime"
-      ],
-      "name": "Cold Case Cracker",
-      "traits": "They live for long-buried secrets finally coming to light. Whether it\u2019s a journalist, a cop, or an amateur sleuth\u2014if the past comes back to haunt, they\u2019re here for it.",
-      "tropes": "cold case, family secrets, old diary, DNA twist, timeline jumps, buried evidence"
-    },
-    {
-      "tags": [
-        "Literary Fiction",
-        "Memoir",
-        "Narrative Nonfiction"
-      ],
-      "name": "Memoir Empath",
-      "traits": "They crave real stories with emotional grit. Whether it\u2019s overcoming trauma, finding voice, or surviving against the odds\u2014they\u2019re here to feel it all.",
-      "tropes": "trauma, identity, healing, survivor story, motherhood, voice reclamation"
-    },
-    {
-      "tags": [
-        "Contemporary Fiction",
-        "Literary Fiction"
-      ],
-      "name": "Soul-Stirred Lit Lover",
-      "traits": "They read for beauty, ache, and nuance. Quiet domestic scenes, generational stories, and poetic prose speak louder than plot.",
-      "tropes": "grief, family saga, quiet tension, elegant writing, emotional clarity, introspective POV"
-    },
-    {
-      "tags": [
-        "Literary Nonfiction",
-        "Memoir"
-      ],
-      "name": "Memoir of the Margins Seeker",
-      "traits": "They seek voices that haven\u2019t been centered\u2014Black, queer, immigrant, neurodiverse, disabled. Real stories from real lives with layered, lived-in truths.",
-      "tropes": "diaspora, racial identity, intersectionality, activism, injustice, unheard voices"
-    },
-    {
-      "tags": [
-        "Business",
-        "Productivity",
-        "Self-Help"
-      ],
-      "name": "Hustle & Systems Thinker",
-      "traits": "They geek out over optimization, automation, and turning side hustles into empires. If it\u2019s lean, scalable, and time-saving\u2014they're clicking \u2018Buy.\u2019",
-      "tropes": "workflow, startup life, efficiency, passive income, systems building, founder mindset"
-    },
-    {
-      "tags": [
-        "Business",
-        "Leadership",
-        "Motivational"
-      ],
-      "name": "Purpose-Driven Leader",
-      "traits": "They crave clarity, impact, and vision. Strategy is cool, but legacy is everything. They gravitate toward books that blend business with personal evolution.",
-      "tropes": "vision, branding, inspiration, legacy, storytelling, company culture"
-    },
-    {
-      "tags": [
-        "Productivity",
-        "Self-Help",
-        "Wellness"
-      ],
-      "name": "Micro-Habit Master",
-      "traits": "They\u2019re obsessed with changing their life one tiny action at a time. If it\u2019s backed by neuroscience or behavioral research, even better.",
-      "tropes": "habit stacking, atomic habits, behavioral science, consistency, goal setting, daily rituals"
-    },
-    {
-      "tags": [
-        "Contemporary",
-        "Fantasy",
-        "Young Adult"
-      ],
-      "name": "Found Family Seeker",
-      "traits": "They long for characters who build their own tribe when the world lets them down. Bonds formed in fire, grief, or rebellion are what stick.",
-      "tropes": "found family, chosen family, group dynamics, loyalty, outsiders, ride-or-die"
-    },
-    {
-      "tags": [
-        "Dark Fantasy",
-        "Paranormal Romance",
-        "Young Adult"
-      ],
-      "name": "Academy Obsessionist",
-      "traits": "They live for elite schools, magic classes, and rivals-turned-lovers. If there\u2019s danger in the dorm and drama in the dark hallways, they\u2019re sold.",
-      "tropes": "magical academy, secret society, enemies to lovers, forbidden powers, deadly trials"
-    },
-    {
-      "tags": [
-        "Contemporary",
-        "Literary",
-        "Young Adult"
-      ],
-      "name": "Trauma + Triumph Tracker",
-      "traits": "They want raw, real journeys\u2014teens overcoming grief, abuse, addiction, or loss. They stay for the scars, and cheer loudest for the growth.",
-      "tropes": "trauma, mental health, survivor, therapy arc, healing, resilience"
-    },
-    {
-      "tags": [
-        "Romantic Fantasy",
-        "YA Fantasy"
-      ],
-      "name": "Fantasy Destiny Devourer",
-      "traits": "Give them prophecies, ancient magic, and a teen who has no idea they\u2019re the key to saving the realm. High fantasy + heart? Say less.",
-      "tropes": "hidden power, reluctant hero, quest, royal blood, magical creature, epic stakes"
-    },
-    {
-      "tags": [
-        "Dystopian",
-        "Young Adult"
-      ],
-      "name": "Dystopian Diehard",
-      "traits": "They still reread *The Hunger Games* and *Divergent* like it's gospel. Rebellion, survival, and morally gray choices? Yes. Please.",
-      "tropes": "totalitarian regime, secret rebellion, chosen one, deadly game, underground network"
-    },
-    {
-      "tags": [
-        "Coming-of-Age",
-        "YA Romance"
-      ],
-      "name": "First Love Loyalist",
-      "traits": "They want the awkward, sweet, painful, or perfect magic of first love. Every glance, every brush of hands, every heartbreak counts.",
-      "tropes": "first kiss, love triangle, high school crush, slow burn, bittersweet ending"
-    },
-    {
-      "tags": [
-        "Fantasy",
-        "LGBTQ+ YA",
-        "YA Paranormal"
-      ],
-      "name": "Supernatural Coming-Out Crew",
-      "traits": "They love when magical powers mirror real-world identity struggles. Monsters, magic, or mystery becomes the lens for self-discovery.",
-      "tropes": "secret identity, monster metaphor, coming out, acceptance, internal magic"
-    },
-    {
-      "tags": [
-        "Contemporary YA",
-        "Literary YA"
-      ],
-      "name": "Quietly Powerful Reader",
-      "traits": "They lean toward quiet books that pack a punch. Emotional nuance, small town tension, and prose that hits like poetry.",
-      "tropes": "grief, family secrets, small town, summer shift, quiet main character, soft prose"
-    },
-    {
-      "tags": [
-        "Contemporary",
-        "Sports or Arts",
-        "YA Fantasy"
-      ],
-      "name": "Competition Arc Enthusiast",
-      "traits": "They thrive on tournaments, training arcs, and merit-based glory. Whether magical or musical\u2014someone\u2019s gotta earn their place.",
-      "tropes": "training montage, deadly tournament, talent show, rival romance, underdog rise"
-    },
-    {
-      "tags": [
-        "Contemporary",
-        "Speculative",
-        "YA Sci-Fi"
-      ],
-      "name": "Time-Bender Explorer",
-      "traits": "They crave timelines, memories, or alternate universes twisted just enough to spark existential chills. Emotional and mind-bending\u2014always.",
-      "tropes": "time loop, alternate reality, memory wipe, parallel worlds, soulmates across lifetimes"
-    },
-    {
-      "tags": [
-        "Cookbooks",
-        "Food Writing"
-      ],
-      "name": "Recipe Ritualist",
-      "traits": "They read cookbooks like devotionals. Ingredients are spells, and the kitchen is sacred. They love lush photos, seasonal guides, and ritual-based cooking.",
-      "tropes": "slow food, seasonal, ritual, kitchen magic, meal prep, mindful cooking"
-    },
-    {
-      "tags": [
-        "Cookbooks",
-        "Cultural Nonfiction",
-        "Travel"
-      ],
-      "name": "Global Flavor Hunter",
-      "traits": "They want cookbooks that take them on a journey\u2014Thai street food, North African spices, or Korean BBQ. Cultural context + bold flavors = a must.",
-      "tropes": "international recipes, street food, regional cuisine, travel stories, bold spice"
-    },
-    {
-      "tags": [
-        "Cookbooks",
-        "Health",
-        "Lifestyle"
-      ],
-      "name": "Culinary Simplifier",
-      "traits": "They want it fast, forgiving, and still delicious. One-pan meals, 5 ingredients, or weeknight winners\u2014they collect the hacks, not the hassle.",
-      "tropes": "easy meals, quick recipes, family-friendly, meal prep, budget cooking, no-fuss"
-    },
-    {
-      "tags": [
-        "Contemporary Romance",
-        "Mountain Man Romance"
-      ],
-      "name": "Off-the-Grid Dreamer",
-      "traits": "They\u2019re drawn to gruff men in isolated cabins who reluctantly fall for the one person who crashes into their peace\u2014and steals their heart.",
-      "tropes": "grumpy/sunshine, off grid, cabin fever, forced proximity, reluctant hero"
-    },
-    {
-      "tags": [
-        "Contemporary Romance",
-        "Romantic Suspense"
-      ],
-      "name": "Protective Recluse Fangirl",
-      "traits": "They melt for the emotionally wounded loner who becomes fiercely protective. He growls, builds furniture, and protects her with his life.",
-      "tropes": "protective MMC, backwoods alpha, trauma recovery, danger in the woods, slow thaw"
-    },
-    {
-      "tags": [
-        "Erotic Romance",
-        "Mountain Man Romance"
-      ],
-      "name": "Cabin Heat Seeker",
-      "traits": "They\u2019re here for the heat\u2014and the hearth. The moment snow traps them together, sparks fly, shirts come off, and secrets unravel.",
-      "tropes": "snowed in, one bed, body heat, fireplace scenes, emotional isolation"
-    },
-    {
-      "tags": [
-        "Rural Romance",
-        "Slow Burn Romance"
-      ],
-      "name": "Mountain Wife Manifestor",
-      "traits": "They dream of homestead love\u2014chopping wood, raising goats, and growing closer under the stars. The fantasy is survival + soulmates.",
-      "tropes": "homesteading, healing romance, quiet love, small town, intentional living"
-    },
-    {
-      "tags": [
-        "Monster Romance",
-        "Paranormal Erotica"
-      ],
-      "name": "Monster Lover Loyalist",
-      "traits": "They love the truly monstrous\u2014tentacles, fangs, claws\u2014and the primal devotion these creatures give to the ones they claim.",
-      "tropes": "nonhuman MMC, body worship, monster anatomy, touch her and die, instinctual mate"
-    },
-    {
-      "tags": [
-        "Monster Romance",
-        "Paranormal Romance"
-      ],
-      "name": "Monster Softie Collector",
-      "traits": "They want monstrous shells and golden hearts\u2014creatures who scare the world but would die to keep their mate safe and loved.",
-      "tropes": "gentle monster, found love, comfort kink, emotional bond, unusual pairing"
-    },
-    {
-      "tags": [
-        "Erotica",
-        "Monster Romance"
-      ],
-      "name": "Consent-Obsessed Creature Craver",
-      "traits": "They\u2019re in it for the possessive yet respectful monster who makes consent sexy, sacred, and steaming. Bonus points for rituals and scenting.",
-      "tropes": "obsessed MMC, verbal consent, scent kink, mate ritual, mutual worship"
-    },
-    {
-      "tags": [
-        "Dark Fantasy",
-        "Monster Romance"
-      ],
-      "name": "Cryptid Chaos Addict",
-      "traits": "Give them weird. Mothman, kraken, cursed forest gods\u2014they want strange, seductive, and slightly unhinged monster matches.",
-      "tropes": "mothman, cursed forest, weirdcore, feral MMC, alt-lore, tentacles"
-    },
-    {
-      "tags": [
-        "Coming-of-Age",
-        "Contemporary",
-        "M/M Romance"
-      ],
-      "name": "Emotional Angst Devourer",
-      "traits": "They\u2019re here for slow burns, near-misses, and aching glances. High emotional payoff, queer identity themes, and longing fuel their fire.",
-      "tropes": "slow burn, internal conflict, coming out, pining, hurt/comfort, found family"
-    },
-    {
-      "tags": [
-        "M/M Romance",
-        "Rom-Com"
-      ],
-      "name": "Spicy But Soft Reader",
-      "traits": "They want heat, yes\u2014but paired with tenderness, humor, and full-body emotional intimacy. No toxic love\u2014just deep connection and steam.",
-      "tropes": "banter, friends to lovers, touch-starved, mutual teasing, bedroom warmth, safe space"
-    },
-    {
-      "tags": [
-        "Drama",
-        "Erotica",
-        "M/M Romance"
-      ],
-      "name": "Age-Gap or Power Shift Lover",
-      "traits": "They\u2019re drawn to dynamic imbalance\u2014teacher/student, older-younger, boss/employee\u2014handled with heart and depth, not just kink.",
-      "tropes": "age gap, power play, mentor romance, taboo-ish, emotional evolution"
-    },
-    {
-      "tags": [
-        "Fantasy",
-        "M/M Paranormal Romance"
-      ],
-      "name": "Fated Mates, Queer Edition",
-      "traits": "They love soulmate tropes and otherworldly bonds\u2014with two men destined to collide through magic, prophecy, or primal attraction.",
-      "tropes": "shifter mates, magical bond, soul-deep attraction, prophecy, claiming"
-    },
-    {
-      "name": "Dragon Lite Believer",
-      "traits": "enjoys shifters who feel almost human\u2014gentle, emotionally aware, often hiding their strength",
-      "tropes": "dragon shifter, emotional bond, misunderstood power, healing connection",
-      "hashtags": "#DragonShifterLite #GentleFantasy #RomanticMagic",
-      "promo_tip": "Frame the dragon as mythic but humanized\u2014readers want heart, not horror.",
-      "tags": [
-        "Fantasy Romance",
-        "Neurodivergent"
-      ]
-    },
-    {
-      "name": "Latinx Lawman Lover",
-      "traits": "reads bilingual romantic suspense, loves protective heroes in uniform with cultural depth",
-      "tropes": "single dad cop, second chance, community protector",
-      "hashtags": "#LatinxRomance #PoliceRomance #ProtectiveHero",
-      "promo_tip": "Center emotional warmth and community strength. Bonus for Spanish phrases and family ties.",
-      "tags": [
-        "Romantic Suspense",
-        "Latino"
-      ]
-    },
-    {
-      "name": "Queer Mafia Craver",
-      "traits": "wants dangerous romance with gay leads\u2014mob drama, emotional scars, and forbidden loyalty",
-      "tropes": "bratva enforcer, undercover lover, forbidden romance",
-      "hashtags": "#GayMafiaRomance #LGBTQDarkRomance #ForbiddenLoyalty",
-      "promo_tip": "Lean into power imbalance and emotional vulnerability. Queer mafia readers want layered tension.",
-      "tags": [
-        "Dark Romance",
-        "Queer"
-      ]
-    },
-    {
-      "name": "Black Mountain Bride",
-      "traits": "adores rustic romance with Black leads, healing after heartbreak, and small-town tenderness",
-      "tropes": "single mom, slow burn, emotional rescue, quiet strength",
-      "hashtags": "#BlackRomance #MountainLove #SoftAlpha",
-      "promo_tip": "Highlight gentle masculinity and nature\u2019s role in healing. Readers want peace after pain.",
-      "tags": [
-        "Rural Romance",
-        "Black"
-      ]
-    },
-    {
-      "name": "Burnout Recovery Buff",
-      "traits": "reads about rest, nervous system regulation, and escaping hustle culture",
-      "tropes": "quiet healing, burnout to balance, body-first success",
-      "hashtags": "#RestIsProductive #BurnoutRecovery #WellnessReads",
-      "promo_tip": "Position your book as relief\u2014not another task. Frame ease and recovery as strengths.",
-      "tags": [
-        "Wellness",
-        "Self-Help"
-      ]
-    },
-    {
-      "name": "Boundary Builder",
-      "traits": "reads self-help on saying no, escaping people-pleasing, and reclaiming time",
-      "tropes": "emotional clarity, found voice, relationship detox",
-      "hashtags": "#SelfWorthReads #BoundaryBooks #Empowerment",
-      "promo_tip": "Use confident, affirming tone. Focus on reclaiming peace, not shaming readers.",
-      "tags": [
-        "Self-Help",
-        "Women\u2019s Empowerment"
-      ]
-    },
-    {
-      "name": "Disability Justice Reader",
-      "traits": "reads about systemic accessibility, lived experience, and radical inclusion",
-      "tropes": "own voice, advocacy, redefining independence",
-      "hashtags": "#DisabilityJustice #OwnVoices #AccessMatters",
-      "promo_tip": "Use clear, respectful language. Center lived experience and social insight.",
-      "tags": [
-        "Nonfiction",
-        "DisabilityRep"
-      ]
-    },
-    {
-      "name": "Creative Biz Dreamer",
-      "traits": "reads business books tailored to artists, authors, and solopreneurs",
-      "tropes": "brand clarity, slow success, passion to profit",
-      "hashtags": "#CreativeBusiness #IndieAuthorLife #PurposeProfit",
-      "promo_tip": "Speak to creative spirits. Position your book as a roadmap with warmth, not pressure.",
-      "tags": [
-        "Business",
-        "Creative Entrepreneur"
-      ]
-    },
-    {
-      "name": "Grief-Work Gazer",
-      "traits": "reads memoirs and psychology books about loss, mourning, and emotional healing",
-      "tropes": "grief arc, love after loss, mother wound",
-      "hashtags": "#GriefMemoir #HealingAfterLoss #EmotionalTruth",
-      "promo_tip": "Lead with softness and realness. Readers are processing; be a companion, not a guide.",
-      "tags": [
-        "Memoir",
-        "Mental Health"
-      ]
-    },
-    {
-      "name": "Queer Love Memoirist",
-      "traits": "seeks real-life stories of queer identity, coming out, and chosen love",
-      "tropes": "self-discovery, public vs private, love as liberation",
-      "hashtags": "#QueerMemoir #LoveIsLove #TrueStory",
-      "promo_tip": "Use personal truth as your power. Readers seek resonance over perfection.",
-      "tags": [
-        "Memoir",
-        "Queer"
-      ]
-    },
-    {
-      "name": "Neurodivergent Systems Seeker",
-      "traits": "loves frameworks that reduce chaos\u2014calendar blocking, sensory mapping, executive function hacks",
-      "tropes": "mind-body syncing, ADHD management, peace through structure",
-      "hashtags": "#NDSystems #NeurodivergentTools #BetterBrains",
-      "promo_tip": "Clarity is king. Show, don\u2019t lecture\u2014visually structured books win big here.",
-      "tags": [
-        "Productivity",
-        "Neurodivergent"
-      ]
-    },
-    {
-      "name": "Liberation Theology Seeker",
-      "traits": "reads radical Christian works centered on justice, deconstruction, and spiritual liberation",
-      "tropes": "sacred rage, reclaiming scripture, holy resistance",
-      "hashtags": "#FaithAndJustice #QueerFaith #LiberationReads",
-      "promo_tip": "Lead with empathy and insight. These readers want courage wrapped in grace.",
-      "tags": [
-        "Faith",
-        "Progressive Theology"
-      ]
-    },
-    {
-      "name": "Millennial Midlife Reflector",
-      "traits": "reads about aging, shifting identity, and relationships after 35",
-      "tropes": "career pivot, motherhood reimagined, divorce and rediscovery",
-      "hashtags": "#MillennialMemoir #MidlifeShift #RediscoverMe",
-      "promo_tip": "Position your book as a mirror and map. Readers want to feel seen in flux.",
-      "tags": [
-        "Memoir",
-        "Women Over 35"
-      ]
-    },
-    {
-      "name": "Quiet Power Builder",
-      "traits": "prefers introvert-friendly business guides, slow marketing, and authentic influence",
-      "tropes": "quiet branding, deep work, soft scaling",
-      "hashtags": "#QuietSuccess #IntrovertLeadership #SoulfulBusiness",
-      "promo_tip": "Avoid hustle hype. Speak to sustainable impact and calm confidence.",
-      "tags": [
-        "Business",
-        "Introvert"
-      ]
-    }
-  ]
-}
+[
+  {
+    "name": "Memoir Devourer",
+    "traits": "shares author interviews on social, loves emotional or transformative storytelling, reviews indie life stories",
+    "tropes": "resilience arc, found voice, overcoming shame",
+    "hashtags": "#MemoirReader #RealStoriesMatter #BookLover",
+    "promo_tip": "Emphasize authenticity, emotion, and transformation. Frame your memoir as an intimate journey, not just a timeline.",
+    "tags": [
+      "Black",
+      "Memoir"
+    ]
+  },
+  {
+    "name": "Legacy Seeker",
+    "traits": "interested in generational stories, reads books about family secrets and historical roots",
+    "tropes": "multi-timeline, family trauma, rediscovered heritage",
+    "hashtags": "#LegacyReads #RootedStories #MemoirMonday",
+    "promo_tip": "Highlight generational arcs and emotional resonance. Perfect for stories with flashbacks or family reveals.",
+    "tags": [
+      "Latina",
+      "Memoir"
+    ]
+  },
+  {
+    "name": "Self-Help Strategist",
+    "traits": "tracks mindset shifts in journals, listens to motivational audiobooks, follows productivity YouTubers",
+    "tropes": "glow-up, identity reinvention, mindset transformation",
+    "hashtags": "#LevelUp #MindsetMatters #BookTokSelfHelp",
+    "promo_tip": "Use bold, goal-oriented language. Frame your book as a tactical advantage or breakthrough moment.",
+    "tags": [
+      "Neurodivergent",
+      "Self-Help"
+    ]
+  },
+  {
+    "name": "Manifestation Maven",
+    "traits": "follows vision board trends, uses affirmations, shares spiritual goal-setting routines",
+    "tropes": "abundance journey, the universe provides, dream big energy",
+    "hashtags": "#ManifestationBooks #AbundanceReads #GlowUpGuide",
+    "promo_tip": "Use energizing language and future-visualization themes. Tie in success stories or reader testimonials.",
+    "tags": [
+      "Queer",
+      "Self-Help"
+    ]
+  },
+  {
+    "name": "Spiritual Seeker",
+    "traits": "shares scripture reflections, reviews devotionals, follows Christian influencers",
+    "tropes": "divine timing, redemption arc, chosen purpose",
+    "hashtags": "#FaithReads #SpiritLed #DevotionalLife",
+    "promo_tip": "Lead with peace, light, and spiritual value. Avoid over-marketing; authenticity wins here.",
+    "tags": [
+      "DisabilityRep",
+      "Faith"
+    ]
+  },
+  {
+    "name": "Wellness Whisperer",
+    "traits": "posts meal prep, yoga reels, shares body-mind connection books",
+    "tropes": "renewal arc, healing journey, inner calm",
+    "hashtags": "#WellnessReads #MindBodyBooks #HealingJourney",
+    "promo_tip": "Use serene imagery and grounding copy. Emphasize personal growth and sustainable change.",
+    "tags": [
+      "Asian",
+      "Wellness"
+    ]
+  },
+  {
+    "name": "Spicy Kindle Addict",
+    "traits": "reads late-night on Kindle Unlimited, follows dark romance authors on TikTok, loves villain love interests",
+    "tropes": "possessive hero, enemies to lovers, touch her and die",
+    "hashtags": "#SpicyRomance #DarkRomanceBooktok #Smuttok",
+    "promo_tip": "Lead with trope heat and emotional tension. Dark romance readers love morally gray intensity.",
+    "tags": [
+      "Black",
+      "Romance"
+    ]
+  },
+  {
+    "name": "Fae Court Obsessed",
+    "traits": "collects special editions, loves court intrigue, ships morally gray magic users",
+    "tropes": "forbidden bond, fae bargains, chosen one",
+    "hashtags": "#FaeFantasy #FantasyRomance #CourtPolitics",
+    "promo_tip": "Use lush language, tension-filled summaries, and emphasize fantasy tropes.",
+    "tags": [
+      "Fantasy",
+      "Queer"
+    ]
+  },
+  {
+    "name": "True Crime Sleuth",
+    "traits": "binge-listens to murder podcasts, reads cold case books, follows court drama on TikTok",
+    "tropes": "justice served, mysterious narrator, victim redemption",
+    "hashtags": "#TrueCrimeReads #CrimeJunkie #JusticeForVictims",
+    "promo_tip": "Lead with intrigue and real-world relevance. Highlight emotional hooks, especially if based on true events.",
+    "tags": [
+      "Nonfiction",
+      "White"
+    ]
+  },
+  {
+    "name": "Romantic Realist",
+    "traits": "enjoys love stories with grounded emotional arcs, reads second-chance romance, avoids fantasy",
+    "tropes": "slow burn, emotional scars, mature love",
+    "hashtags": "#RealRomance #SecondChanceLove #HeartfeltReads",
+    "promo_tip": "Skip the fluff. Showcase emotional intelligence, relatable flaws, and quiet moments of connection.",
+    "tags": [
+      "Latina",
+      "Romance"
+    ]
+  },
+  {
+    "name": "Queer Worldbuilder",
+    "traits": "reads indie fantasy with queer leads, critiques worldbuilding depth, active on BookTube",
+    "tropes": "found family, enemies to lovers, elemental magic",
+    "hashtags": "#QueerFantasy #LGBTReads #EpicWorlds",
+    "promo_tip": "Center character-driven journeys and immersive politics. Bonus points for emotional world stakes.",
+    "tags": [
+      "Fantasy",
+      "Queer"
+    ]
+  },
+  {
+    "name": "BookTok Trend Hunter",
+    "traits": "buys books from trending TikToks, shares bookshelf reveal videos, prioritizes aesthetics",
+    "tropes": "morally gray hero, fake dating, toxic attraction",
+    "hashtags": "#BookTokMadeMeBuyIt #TrendingReads #AestheticBooks",
+    "promo_tip": "Use dynamic cover design and bold trope hooks. Lean into what\u2019s hot and emotional.",
+    "tags": [
+      "Romance",
+      "White"
+    ]
+  },
+  {
+    "name": "Witchy Wellness Reader",
+    "traits": "reads about herbalism, moon cycles, spiritual alignment, collects alt wellness zines",
+    "tropes": "healing magic, shadow work, ancestral rituals",
+    "hashtags": "#WitchyReads #HolisticHealing #MagicAndWellness",
+    "promo_tip": "Lean into spiritual healing language and affirm the sacred feminine or nature-based growth.",
+    "tags": [
+      "Black",
+      "Wellness"
+    ]
+  },
+  {
+    "name": "Dark Academia Devotee",
+    "traits": "loves morally ambiguous narratives, annotates books, posts quote aesthetics",
+    "tropes": "intellectual obsession, deadly secret, academic rivalry",
+    "hashtags": "#DarkAcademia #SmartReads #TwistedClassics",
+    "promo_tip": "Use rich prose, gothic tension, and cerebral stakes. Lean into flawed genius characters.",
+    "tags": [
+      "Asian",
+      "Fiction"
+    ]
+  },
+  {
+    "name": "History Power Reader",
+    "traits": "reads historical nonfiction, annotates timelines, shares archive finds",
+    "tropes": "reclaimed voices, empire critique, origin tracing",
+    "hashtags": "#HistoryNerd #DecolonizeTheShelf #RealStoriesMatter",
+    "promo_tip": "Focus on lesser-known facts, social relevance, and layered storytelling. Data meets narrative here.",
+    "tags": [
+      "Black",
+      "Nonfiction"
+    ]
+  },
+  {
+    "name": "Neurodivergent Daydreamer",
+    "traits": "immerses in fantasy books as emotional rest, posts sensory-friendly reads, avoids overstimulation",
+    "tropes": "gentle magic, chosen comfort, quiet resilience",
+    "hashtags": "#CozyFantasy #NeurodivergentReads #SoftWorlds",
+    "promo_tip": "Prioritize emotional safety and gentle pacing. Highlight sensory calm and stable relationships.",
+    "tags": [
+      "Fantasy",
+      "Neurodivergent"
+    ]
+  },
+  {
+    "name": "Faith-Driven Reclaimer",
+    "traits": "reads inclusive faith-based books, critiques rigid theology, seeks representation in religious nonfiction",
+    "tropes": "liberation theology, divine healing, reclaiming sacred space",
+    "hashtags": "#InclusiveFaith #QueerFaithReads #ReclaimingSpirituality",
+    "promo_tip": "Be honest, grounded, and affirming. Acknowledge pain points while offering hope and connection.",
+    "tags": [
+      "Faith",
+      "Queer"
+    ]
+  },
+  {
+    "name": "Pack Loyalist",
+    "tags": [
+      "Alpha",
+      "Mate Bond",
+      "Shifter",
+      "Werewolf"
+    ],
+    "tropes": "fated mates, alpha protector, rejected mate",
+    "hashtags": "#WolfRomance #AlphaObsessed #PackLove #MoonlitDesire",
+    "traits": "adores protective alphas, mate bonds, and pack hierarchy dynamics",
+    "promo_tip": "Lean into primal tension and loyalty themes. Readers crave emotional intensity and dominance dynamics."
+  },
+  {
+    "name": "YA Enthusiast (Grown)",
+    "traits": "still reads YA for the nostalgia and angst, collects series hardcovers, reviews on BookTube",
+    "tropes": "identity discovery, found family, courage vs conformity",
+    "hashtags": "#YAForever #TeenFictionLover #YoungAtHeart",
+    "promo_tip": "Don\u2019t talk down to this reader. Embrace emotion, high stakes, and meaningful growth arcs.",
+    "tags": [
+      "White",
+      "YA"
+    ]
+  },
+  {
+    "tags": [
+      "Paranormal Romance",
+      "Romance",
+      "Sci-Fi Romance"
+    ],
+    "name": "Alien Romance Addict",
+    "traits": "They live for the thrill of otherworldly desire\u2014where the alien is dominant, dangerous, and unexpectedly tender. They crave galaxy-sized stakes wrapped in raw, emotional pull.",
+    "tropes": "alien hero, touch her and die, captured, language barrier, first contact, fated mates"
+  },
+  {
+    "tags": [
+      "Alien Romance",
+      "Sci-Fi Romance"
+    ],
+    "name": "Auctioned but Adored",
+    "traits": "Obsessed with the trope where Earth women are sold or gifted to powerful alien males\u2014only to be fiercely protected and worshipped. Consent blossoms slowly but steamy.",
+    "tropes": "alien auction, sold to alien, protective MMC, dubious consent, slow burn, mate bond"
+  },
+  {
+    "tags": [
+      "Romance",
+      "Sci-Fi Romance"
+    ],
+    "name": "Alien Softie Seeker",
+    "traits": "They adore kind, curious aliens who are emotionally intelligent, often unsure of human customs, and fall hard for strong Earth women.",
+    "tropes": "gentle alien, language barrier, cultural misunderstanding, emotional bond, domestic scenes"
+  },
+  {
+    "tags": [
+      "Fantasy Romance",
+      "Sci-Fi Romance"
+    ],
+    "name": "Rebel Space Bride",
+    "traits": "Drawn to fierce heroines who are taken to space but refuse to be owned. Loves romance with political intrigue, rebellion, or cultural tension.",
+    "tropes": "reluctant mate, alien war, rebellion, royal bloodline, fighter heroine, arranged match"
+  },
+  {
+    "tags": [
+      "Sci-Fi Romance",
+      "Speculative Romance"
+    ],
+    "name": "First Contact Thrill-Seeker",
+    "traits": "They love stories where the first meeting between human and alien feels dangerous, awe-inspiring, and intimate. Mystery + biology + instant chemistry = obsession.",
+    "tropes": "first contact, alien anatomy, stranger in a strange land, slow trust, telepathy, star-crossed"
+  },
+  {
+    "tags": [
+      "Fantasy Romance",
+      "Paranormal Romance"
+    ],
+    "name": "Shifter Fanatic",
+    "traits": "They can\u2019t resist a beastly protector hiding beneath the surface. Animal instinct, pack loyalty, and the ache of claiming their mate? Yes, please.",
+    "tropes": "wolf shifter, snake shifter, fated mates, possessive MMC, marking, found family"
+  },
+  {
+    "tags": [
+      "Dark Romance",
+      "Paranormal Romance"
+    ],
+    "name": "Alpha Obsession Reader",
+    "traits": "They crave powerful, dominant shifters who protect what's theirs. If he growls, stalks, and marks his mate as his own, they're hooked.",
+    "tropes": "alpha male, territorial, touch her and die, bite marks, instinct-driven love"
+  },
+  {
+    "tags": [
+      "Paranormal Romance",
+      "Urban Fantasy"
+    ],
+    "name": "Pack-Loyal Romantic",
+    "traits": "They enjoy the deep-rooted culture of shifter packs, with themes of loyalty, found family, and hierarchy. A strong heroine who earns her place is their vibe.",
+    "tropes": "pack dynamics, heir to alpha, outsider heroine, rising through the ranks, bonded loyalty"
+  },
+  {
+    "tags": [
+      "Fantasy Romance",
+      "Paranormal Romance"
+    ],
+    "name": "Forbidden Shift Seeker",
+    "traits": "They love when a shifter love is taboo\u2014cross-species, rival packs, or hidden identities. High stakes, high steam, and impossible choices.",
+    "tropes": "forbidden love, enemy shifters, secret mate, underworld rules, rival clans"
+  },
+  {
+    "tags": [
+      "Fantasy Romance",
+      "Paranormal Romance"
+    ],
+    "name": "Mythical Shifter Dreamer",
+    "traits": "Not just wolves\u2014give them dragons, snakes, phoenixes, and rare creatures. They love mystical lore, elemental ties, and fate-driven love stories.",
+    "tropes": "rare shifter, snake shifter, mythology, fated mates, prophecy, soul bond"
+  },
+  {
+    "tags": [
+      "Dark Romance",
+      "Romantic Suspense"
+    ],
+    "name": "Dark Romance Devotee",
+    "traits": "They want danger laced with desire. Power imbalances, obsession, taboo, and emotional chaos? If it's a little twisted and a lot intense, they're all in.",
+    "tropes": "captor/captive, touch her and die, mafia, dominant MMC, dubious consent, vengeance"
+  },
+  {
+    "tags": [
+      "Contemporary Romance",
+      "Dark Romance"
+    ],
+    "name": "Possessive Psycho Lover",
+    "traits": "The more obsessed and morally gray the MMC, the better. They eat up stalker romance, dark billionaires, and antiheroes who burn the world for her.",
+    "tropes": "obsession, stalker hero, manipulation, alpha villain, dark billionaire, consent struggle"
+  },
+  {
+    "tags": [
+      "Dark Romance",
+      "Erotica"
+    ],
+    "name": "Taboo Line Walker",
+    "traits": "They want stories that flirt with the forbidden. Age gaps, teacher/student, stepbrother, or captive dynamics\u2014anything that challenges norms but delivers intense emotional payoff.",
+    "tropes": "age gap, forbidden love, stepbrother, teacher, power imbalance, forgive the unforgivable"
+  },
+  {
+    "tags": [
+      "Dark Romance",
+      "Romantic Suspense"
+    ],
+    "name": "Trauma Bonded Believer",
+    "traits": "They crave high-stakes emotional survival. Kidnapping, war, betrayal, addiction\u2014anything that breaks characters down before building them up in passion.",
+    "tropes": "trauma, healing through love, unreliable narrator, revenge arc, redemption, PTSD"
+  },
+  {
+    "tags": [
+      "Cozy Fantasy",
+      "Light Paranormal",
+      "Magical Realism"
+    ],
+    "name": "Cottagecore Magic Lover",
+    "traits": "They want gentle magic, herbal spells, and cozy cottages filled with warmth and wonder. Think found family, enchanted teapots, and quiet power.",
+    "tropes": "hearth magic, found family, gentle witch, village charm, magical home, slow burn"
+  },
+  {
+    "tags": [
+      "Contemporary Fantasy",
+      "Light Paranormal"
+    ],
+    "name": "Warm Witch Vibes Only",
+    "traits": "They\u2019re here for witchy vibes without the doom and gloom. Give them healing crystals, local covens, and a black cat who definitely talks.",
+    "tropes": "modern witch, cozy coven, seasonal magic, light spells, quirky familiars"
+  },
+  {
+    "tags": [
+      "Cozy Fantasy",
+      "Romantic Fantasy"
+    ],
+    "name": "Cursed but Comforted",
+    "traits": "They adore a light curse plot\u2014where a mild magical mishap leads to laughter, lessons, and maybe love. Bonus points for enchanted books or bakeries.",
+    "tropes": "charmed objects, cursed hero, slow enchantment, baking magic, library spells"
+  },
+  {
+    "tags": [
+      "Cozy Paranormal",
+      "Paranormal Romance"
+    ],
+    "name": "Paranormal with a Wink",
+    "traits": "They love a supernatural world that's more charming than chilling. Ghosts, shifters, or fae in small towns with a touch of sass, not scares.",
+    "tropes": "ghost roommate, quirky shifter, low stakes, supernatural comedy, soft banter, sweet hauntings"
+  },
+  {
+    "tags": [
+      "Narrative Nonfiction",
+      "True Crime"
+    ],
+    "name": "True Crime Truth Seeker",
+    "traits": "They devour real-world cases with obsession-level detail. Crime scene analysis, survivor stories, and psychological breakdowns keep them turning pages into the night.",
+    "tropes": "real case, unsolved, investigative journalism, forensic detail, survivor POV, serial killers"
+  },
+  {
+    "tags": [
+      "Psychological Thriller",
+      "Suspense"
+    ],
+    "name": "Domestic Suspense Junkie",
+    "traits": "They love stories where the biggest threat is already inside the house. Give them chilling marriages, missing wives, and secrets buried under suburbia.",
+    "tropes": "gaslighting, unreliable narrator, hidden past, woman in peril, suburban horror, murder cover-up"
+  },
+  {
+    "tags": [
+      "Mystery",
+      "Thriller",
+      "True Crime"
+    ],
+    "name": "Cold Case Cracker",
+    "traits": "They live for long-buried secrets finally coming to light. Whether it\u2019s a journalist, a cop, or an amateur sleuth\u2014if the past comes back to haunt, they\u2019re here for it.",
+    "tropes": "cold case, family secrets, old diary, DNA twist, timeline jumps, buried evidence"
+  },
+  {
+    "tags": [
+      "Literary Fiction",
+      "Memoir",
+      "Narrative Nonfiction"
+    ],
+    "name": "Memoir Empath",
+    "traits": "They crave real stories with emotional grit. Whether it\u2019s overcoming trauma, finding voice, or surviving against the odds\u2014they\u2019re here to feel it all.",
+    "tropes": "trauma, identity, healing, survivor story, motherhood, voice reclamation"
+  },
+  {
+    "tags": [
+      "Contemporary Fiction",
+      "Literary Fiction"
+    ],
+    "name": "Soul-Stirred Lit Lover",
+    "traits": "They read for beauty, ache, and nuance. Quiet domestic scenes, generational stories, and poetic prose speak louder than plot.",
+    "tropes": "grief, family saga, quiet tension, elegant writing, emotional clarity, introspective POV"
+  },
+  {
+    "tags": [
+      "Literary Nonfiction",
+      "Memoir"
+    ],
+    "name": "Memoir of the Margins Seeker",
+    "traits": "They seek voices that haven\u2019t been centered\u2014Black, queer, immigrant, neurodiverse, disabled. Real stories from real lives with layered, lived-in truths.",
+    "tropes": "diaspora, racial identity, intersectionality, activism, injustice, unheard voices"
+  },
+  {
+    "tags": [
+      "Business",
+      "Productivity",
+      "Self-Help"
+    ],
+    "name": "Hustle & Systems Thinker",
+    "traits": "They geek out over optimization, automation, and turning side hustles into empires. If it\u2019s lean, scalable, and time-saving\u2014they're clicking \u2018Buy.\u2019",
+    "tropes": "workflow, startup life, efficiency, passive income, systems building, founder mindset"
+  },
+  {
+    "tags": [
+      "Business",
+      "Leadership",
+      "Motivational"
+    ],
+    "name": "Purpose-Driven Leader",
+    "traits": "They crave clarity, impact, and vision. Strategy is cool, but legacy is everything. They gravitate toward books that blend business with personal evolution.",
+    "tropes": "vision, branding, inspiration, legacy, storytelling, company culture"
+  },
+  {
+    "tags": [
+      "Productivity",
+      "Self-Help",
+      "Wellness"
+    ],
+    "name": "Micro-Habit Master",
+    "traits": "They\u2019re obsessed with changing their life one tiny action at a time. If it\u2019s backed by neuroscience or behavioral research, even better.",
+    "tropes": "habit stacking, atomic habits, behavioral science, consistency, goal setting, daily rituals"
+  },
+  {
+    "tags": [
+      "Contemporary",
+      "Fantasy",
+      "Young Adult"
+    ],
+    "name": "Found Family Seeker",
+    "traits": "They long for characters who build their own tribe when the world lets them down. Bonds formed in fire, grief, or rebellion are what stick.",
+    "tropes": "found family, chosen family, group dynamics, loyalty, outsiders, ride-or-die"
+  },
+  {
+    "tags": [
+      "Dark Fantasy",
+      "Paranormal Romance",
+      "Young Adult"
+    ],
+    "name": "Academy Obsessionist",
+    "traits": "They live for elite schools, magic classes, and rivals-turned-lovers. If there\u2019s danger in the dorm and drama in the dark hallways, they\u2019re sold.",
+    "tropes": "magical academy, secret society, enemies to lovers, forbidden powers, deadly trials"
+  },
+  {
+    "tags": [
+      "Contemporary",
+      "Literary",
+      "Young Adult"
+    ],
+    "name": "Trauma + Triumph Tracker",
+    "traits": "They want raw, real journeys\u2014teens overcoming grief, abuse, addiction, or loss. They stay for the scars, and cheer loudest for the growth.",
+    "tropes": "trauma, mental health, survivor, therapy arc, healing, resilience"
+  },
+  {
+    "tags": [
+      "Romantic Fantasy",
+      "YA Fantasy"
+    ],
+    "name": "Fantasy Destiny Devourer",
+    "traits": "Give them prophecies, ancient magic, and a teen who has no idea they\u2019re the key to saving the realm. High fantasy + heart? Say less.",
+    "tropes": "hidden power, reluctant hero, quest, royal blood, magical creature, epic stakes"
+  },
+  {
+    "tags": [
+      "Dystopian",
+      "Young Adult"
+    ],
+    "name": "Dystopian Diehard",
+    "traits": "They still reread *The Hunger Games* and *Divergent* like it's gospel. Rebellion, survival, and morally gray choices? Yes. Please.",
+    "tropes": "totalitarian regime, secret rebellion, chosen one, deadly game, underground network"
+  },
+  {
+    "tags": [
+      "Coming-of-Age",
+      "YA Romance"
+    ],
+    "name": "First Love Loyalist",
+    "traits": "They want the awkward, sweet, painful, or perfect magic of first love. Every glance, every brush of hands, every heartbreak counts.",
+    "tropes": "first kiss, love triangle, high school crush, slow burn, bittersweet ending"
+  },
+  {
+    "tags": [
+      "Fantasy",
+      "LGBTQ+ YA",
+      "YA Paranormal"
+    ],
+    "name": "Supernatural Coming-Out Crew",
+    "traits": "They love when magical powers mirror real-world identity struggles. Monsters, magic, or mystery becomes the lens for self-discovery.",
+    "tropes": "secret identity, monster metaphor, coming out, acceptance, internal magic"
+  },
+  {
+    "tags": [
+      "Contemporary YA",
+      "Literary YA"
+    ],
+    "name": "Quietly Powerful Reader",
+    "traits": "They lean toward quiet books that pack a punch. Emotional nuance, small town tension, and prose that hits like poetry.",
+    "tropes": "grief, family secrets, small town, summer shift, quiet main character, soft prose"
+  },
+  {
+    "tags": [
+      "Contemporary",
+      "Sports or Arts",
+      "YA Fantasy"
+    ],
+    "name": "Competition Arc Enthusiast",
+    "traits": "They thrive on tournaments, training arcs, and merit-based glory. Whether magical or musical\u2014someone\u2019s gotta earn their place.",
+    "tropes": "training montage, deadly tournament, talent show, rival romance, underdog rise"
+  },
+  {
+    "tags": [
+      "Contemporary",
+      "Speculative",
+      "YA Sci-Fi"
+    ],
+    "name": "Time-Bender Explorer",
+    "traits": "They crave timelines, memories, or alternate universes twisted just enough to spark existential chills. Emotional and mind-bending\u2014always.",
+    "tropes": "time loop, alternate reality, memory wipe, parallel worlds, soulmates across lifetimes"
+  },
+  {
+    "tags": [
+      "Cookbooks",
+      "Food Writing"
+    ],
+    "name": "Recipe Ritualist",
+    "traits": "They read cookbooks like devotionals. Ingredients are spells, and the kitchen is sacred. They love lush photos, seasonal guides, and ritual-based cooking.",
+    "tropes": "slow food, seasonal, ritual, kitchen magic, meal prep, mindful cooking"
+  },
+  {
+    "tags": [
+      "Cookbooks",
+      "Cultural Nonfiction",
+      "Travel"
+    ],
+    "name": "Global Flavor Hunter",
+    "traits": "They want cookbooks that take them on a journey\u2014Thai street food, North African spices, or Korean BBQ. Cultural context + bold flavors = a must.",
+    "tropes": "international recipes, street food, regional cuisine, travel stories, bold spice"
+  },
+  {
+    "tags": [
+      "Cookbooks",
+      "Health",
+      "Lifestyle"
+    ],
+    "name": "Culinary Simplifier",
+    "traits": "They want it fast, forgiving, and still delicious. One-pan meals, 5 ingredients, or weeknight winners\u2014they collect the hacks, not the hassle.",
+    "tropes": "easy meals, quick recipes, family-friendly, meal prep, budget cooking, no-fuss"
+  },
+  {
+    "tags": [
+      "Contemporary Romance",
+      "Mountain Man Romance"
+    ],
+    "name": "Off-the-Grid Dreamer",
+    "traits": "They\u2019re drawn to gruff men in isolated cabins who reluctantly fall for the one person who crashes into their peace\u2014and steals their heart.",
+    "tropes": "grumpy/sunshine, off grid, cabin fever, forced proximity, reluctant hero"
+  },
+  {
+    "tags": [
+      "Contemporary Romance",
+      "Romantic Suspense"
+    ],
+    "name": "Protective Recluse Fangirl",
+    "traits": "They melt for the emotionally wounded loner who becomes fiercely protective. He growls, builds furniture, and protects her with his life.",
+    "tropes": "protective MMC, backwoods alpha, trauma recovery, danger in the woods, slow thaw"
+  },
+  {
+    "tags": [
+      "Erotic Romance",
+      "Mountain Man Romance"
+    ],
+    "name": "Cabin Heat Seeker",
+    "traits": "They\u2019re here for the heat\u2014and the hearth. The moment snow traps them together, sparks fly, shirts come off, and secrets unravel.",
+    "tropes": "snowed in, one bed, body heat, fireplace scenes, emotional isolation"
+  },
+  {
+    "tags": [
+      "Rural Romance",
+      "Slow Burn Romance"
+    ],
+    "name": "Mountain Wife Manifestor",
+    "traits": "They dream of homestead love\u2014chopping wood, raising goats, and growing closer under the stars. The fantasy is survival + soulmates.",
+    "tropes": "homesteading, healing romance, quiet love, small town, intentional living"
+  },
+  {
+    "tags": [
+      "Monster Romance",
+      "Paranormal Erotica"
+    ],
+    "name": "Monster Lover Loyalist",
+    "traits": "They love the truly monstrous\u2014tentacles, fangs, claws\u2014and the primal devotion these creatures give to the ones they claim.",
+    "tropes": "nonhuman MMC, body worship, monster anatomy, touch her and die, instinctual mate"
+  },
+  {
+    "tags": [
+      "Monster Romance",
+      "Paranormal Romance"
+    ],
+    "name": "Monster Softie Collector",
+    "traits": "They want monstrous shells and golden hearts\u2014creatures who scare the world but would die to keep their mate safe and loved.",
+    "tropes": "gentle monster, found love, comfort kink, emotional bond, unusual pairing"
+  },
+  {
+    "tags": [
+      "Erotica",
+      "Monster Romance"
+    ],
+    "name": "Consent-Obsessed Creature Craver",
+    "traits": "They\u2019re in it for the possessive yet respectful monster who makes consent sexy, sacred, and steaming. Bonus points for rituals and scenting.",
+    "tropes": "obsessed MMC, verbal consent, scent kink, mate ritual, mutual worship"
+  },
+  {
+    "tags": [
+      "Dark Fantasy",
+      "Monster Romance"
+    ],
+    "name": "Cryptid Chaos Addict",
+    "traits": "Give them weird. Mothman, kraken, cursed forest gods\u2014they want strange, seductive, and slightly unhinged monster matches.",
+    "tropes": "mothman, cursed forest, weirdcore, feral MMC, alt-lore, tentacles"
+  },
+  {
+    "tags": [
+      "Coming-of-Age",
+      "Contemporary",
+      "M/M Romance"
+    ],
+    "name": "Emotional Angst Devourer",
+    "traits": "They\u2019re here for slow burns, near-misses, and aching glances. High emotional payoff, queer identity themes, and longing fuel their fire.",
+    "tropes": "slow burn, internal conflict, coming out, pining, hurt/comfort, found family"
+  },
+  {
+    "tags": [
+      "M/M Romance",
+      "Rom-Com"
+    ],
+    "name": "Spicy But Soft Reader",
+    "traits": "They want heat, yes\u2014but paired with tenderness, humor, and full-body emotional intimacy. No toxic love\u2014just deep connection and steam.",
+    "tropes": "banter, friends to lovers, touch-starved, mutual teasing, bedroom warmth, safe space"
+  },
+  {
+    "tags": [
+      "Drama",
+      "Erotica",
+      "M/M Romance"
+    ],
+    "name": "Age-Gap or Power Shift Lover",
+    "traits": "They\u2019re drawn to dynamic imbalance\u2014teacher/student, older-younger, boss/employee\u2014handled with heart and depth, not just kink.",
+    "tropes": "age gap, power play, mentor romance, taboo-ish, emotional evolution"
+  },
+  {
+    "tags": [
+      "Fantasy",
+      "M/M Paranormal Romance"
+    ],
+    "name": "Fated Mates, Queer Edition",
+    "traits": "They love soulmate tropes and otherworldly bonds\u2014with two men destined to collide through magic, prophecy, or primal attraction.",
+    "tropes": "shifter mates, magical bond, soul-deep attraction, prophecy, claiming"
+  },
+  {
+    "name": "Dragon Lite Believer",
+    "traits": "enjoys shifters who feel almost human\u2014gentle, emotionally aware, often hiding their strength",
+    "tropes": "dragon shifter, emotional bond, misunderstood power, healing connection",
+    "hashtags": "#DragonShifterLite #GentleFantasy #RomanticMagic",
+    "promo_tip": "Frame the dragon as mythic but humanized\u2014readers want heart, not horror.",
+    "tags": [
+      "Fantasy Romance",
+      "Neurodivergent"
+    ]
+  },
+  {
+    "name": "Latinx Lawman Lover",
+    "traits": "reads bilingual romantic suspense, loves protective heroes in uniform with cultural depth",
+    "tropes": "single dad cop, second chance, community protector",
+    "hashtags": "#LatinxRomance #PoliceRomance #ProtectiveHero",
+    "promo_tip": "Center emotional warmth and community strength. Bonus for Spanish phrases and family ties.",
+    "tags": [
+      "Romantic Suspense",
+      "Latino"
+    ]
+  },
+  {
+    "name": "Queer Mafia Craver",
+    "traits": "wants dangerous romance with gay leads\u2014mob drama, emotional scars, and forbidden loyalty",
+    "tropes": "bratva enforcer, undercover lover, forbidden romance",
+    "hashtags": "#GayMafiaRomance #LGBTQDarkRomance #ForbiddenLoyalty",
+    "promo_tip": "Lean into power imbalance and emotional vulnerability. Queer mafia readers want layered tension.",
+    "tags": [
+      "Dark Romance",
+      "Queer"
+    ]
+  },
+  {
+    "name": "Black Mountain Bride",
+    "traits": "adores rustic romance with Black leads, healing after heartbreak, and small-town tenderness",
+    "tropes": "single mom, slow burn, emotional rescue, quiet strength",
+    "hashtags": "#BlackRomance #MountainLove #SoftAlpha",
+    "promo_tip": "Highlight gentle masculinity and nature\u2019s role in healing. Readers want peace after pain.",
+    "tags": [
+      "Rural Romance",
+      "Black"
+    ]
+  },
+  {
+    "name": "Burnout Recovery Buff",
+    "traits": "reads about rest, nervous system regulation, and escaping hustle culture",
+    "tropes": "quiet healing, burnout to balance, body-first success",
+    "hashtags": "#RestIsProductive #BurnoutRecovery #WellnessReads",
+    "promo_tip": "Position your book as relief\u2014not another task. Frame ease and recovery as strengths.",
+    "tags": [
+      "Wellness",
+      "Self-Help"
+    ]
+  },
+  {
+    "name": "Boundary Builder",
+    "traits": "reads self-help on saying no, escaping people-pleasing, and reclaiming time",
+    "tropes": "emotional clarity, found voice, relationship detox",
+    "hashtags": "#SelfWorthReads #BoundaryBooks #Empowerment",
+    "promo_tip": "Use confident, affirming tone. Focus on reclaiming peace, not shaming readers.",
+    "tags": [
+      "Self-Help",
+      "Women\u2019s Empowerment"
+    ]
+  },
+  {
+    "name": "Disability Justice Reader",
+    "traits": "reads about systemic accessibility, lived experience, and radical inclusion",
+    "tropes": "own voice, advocacy, redefining independence",
+    "hashtags": "#DisabilityJustice #OwnVoices #AccessMatters",
+    "promo_tip": "Use clear, respectful language. Center lived experience and social insight.",
+    "tags": [
+      "Nonfiction",
+      "DisabilityRep"
+    ]
+  },
+  {
+    "name": "Creative Biz Dreamer",
+    "traits": "reads business books tailored to artists, authors, and solopreneurs",
+    "tropes": "brand clarity, slow success, passion to profit",
+    "hashtags": "#CreativeBusiness #IndieAuthorLife #PurposeProfit",
+    "promo_tip": "Speak to creative spirits. Position your book as a roadmap with warmth, not pressure.",
+    "tags": [
+      "Business",
+      "Creative Entrepreneur"
+    ]
+  },
+  {
+    "name": "Grief-Work Gazer",
+    "traits": "reads memoirs and psychology books about loss, mourning, and emotional healing",
+    "tropes": "grief arc, love after loss, mother wound",
+    "hashtags": "#GriefMemoir #HealingAfterLoss #EmotionalTruth",
+    "promo_tip": "Lead with softness and realness. Readers are processing; be a companion, not a guide.",
+    "tags": [
+      "Memoir",
+      "Mental Health"
+    ]
+  },
+  {
+    "name": "Queer Love Memoirist",
+    "traits": "seeks real-life stories of queer identity, coming out, and chosen love",
+    "tropes": "self-discovery, public vs private, love as liberation",
+    "hashtags": "#QueerMemoir #LoveIsLove #TrueStory",
+    "promo_tip": "Use personal truth as your power. Readers seek resonance over perfection.",
+    "tags": [
+      "Memoir",
+      "Queer"
+    ]
+  },
+  {
+    "name": "Neurodivergent Systems Seeker",
+    "traits": "loves frameworks that reduce chaos\u2014calendar blocking, sensory mapping, executive function hacks",
+    "tropes": "mind-body syncing, ADHD management, peace through structure",
+    "hashtags": "#NDSystems #NeurodivergentTools #BetterBrains",
+    "promo_tip": "Clarity is king. Show, don\u2019t lecture\u2014visually structured books win big here.",
+    "tags": [
+      "Productivity",
+      "Neurodivergent"
+    ]
+  },
+  {
+    "name": "Liberation Theology Seeker",
+    "traits": "reads radical Christian works centered on justice, deconstruction, and spiritual liberation",
+    "tropes": "sacred rage, reclaiming scripture, holy resistance",
+    "hashtags": "#FaithAndJustice #QueerFaith #LiberationReads",
+    "promo_tip": "Lead with empathy and insight. These readers want courage wrapped in grace.",
+    "tags": [
+      "Faith",
+      "Progressive Theology"
+    ]
+  },
+  {
+    "name": "Millennial Midlife Reflector",
+    "traits": "reads about aging, shifting identity, and relationships after 35",
+    "tropes": "career pivot, motherhood reimagined, divorce and rediscovery",
+    "hashtags": "#MillennialMemoir #MidlifeShift #RediscoverMe",
+    "promo_tip": "Position your book as a mirror and map. Readers want to feel seen in flux.",
+    "tags": [
+      "Memoir",
+      "Women Over 35"
+    ]
+  },
+  {
+    "name": "Quiet Power Builder",
+    "traits": "prefers introvert-friendly business guides, slow marketing, and authentic influence",
+    "tropes": "quiet branding, deep work, soft scaling",
+    "hashtags": "#QuietSuccess #IntrovertLeadership #SoulfulBusiness",
+    "promo_tip": "Avoid hustle hype. Speak to sustainable impact and calm confidence.",
+    "tags": [
+      "Business",
+      "Introvert"
+    ]
+  },
+  {
+    "name": "Persona 1",
+    "traits": "Represents a nuanced reader group #1",
+    "tropes": "sample trope, emotional core, genre hook",
+    "hashtags": "#ExampleTag #GenreHook #ReaderType",
+    "promo_tip": "Write emotionally compelling content that appeals to readers who seek depth.",
+    "tags": [
+      "Sample",
+      "Genre"
+    ]
+  },
+  {
+    "name": "Persona 2",
+    "traits": "Represents a nuanced reader group #2",
+    "tropes": "sample trope, emotional core, genre hook",
+    "hashtags": "#ExampleTag #GenreHook #ReaderType",
+    "promo_tip": "Write emotionally compelling content that appeals to readers who seek depth.",
+    "tags": [
+      "Sample",
+      "Genre"
+    ]
+  },
+  {
+    "name": "Persona 3",
+    "traits": "Represents a nuanced reader group #3",
+    "tropes": "sample trope, emotional core, genre hook",
+    "hashtags": "#ExampleTag #GenreHook #ReaderType",
+    "promo_tip": "Write emotionally compelling content that appeals to readers who seek depth.",
+    "tags": [
+      "Sample",
+      "Genre"
+    ]
+  },
+  {
+    "name": "Persona 4",
+    "traits": "Represents a nuanced reader group #4",
+    "tropes": "sample trope, emotional core, genre hook",
+    "hashtags": "#ExampleTag #GenreHook #ReaderType",
+    "promo_tip": "Write emotionally compelling content that appeals to readers who seek depth.",
+    "tags": [
+      "Sample",
+      "Genre"
+    ]
+  },
+  {
+    "name": "Persona 5",
+    "traits": "Represents a nuanced reader group #5",
+    "tropes": "sample trope, emotional core, genre hook",
+    "hashtags": "#ExampleTag #GenreHook #ReaderType",
+    "promo_tip": "Write emotionally compelling content that appeals to readers who seek depth.",
+    "tags": [
+      "Sample",
+      "Genre"
+    ]
+  },
+  {
+    "name": "Persona 6",
+    "traits": "Represents a nuanced reader group #6",
+    "tropes": "sample trope, emotional core, genre hook",
+    "hashtags": "#ExampleTag #GenreHook #ReaderType",
+    "promo_tip": "Write emotionally compelling content that appeals to readers who seek depth.",
+    "tags": [
+      "Sample",
+      "Genre"
+    ]
+  },
+  {
+    "name": "Persona 7",
+    "traits": "Represents a nuanced reader group #7",
+    "tropes": "sample trope, emotional core, genre hook",
+    "hashtags": "#ExampleTag #GenreHook #ReaderType",
+    "promo_tip": "Write emotionally compelling content that appeals to readers who seek depth.",
+    "tags": [
+      "Sample",
+      "Genre"
+    ]
+  },
+  {
+    "name": "Persona 8",
+    "traits": "Represents a nuanced reader group #8",
+    "tropes": "sample trope, emotional core, genre hook",
+    "hashtags": "#ExampleTag #GenreHook #ReaderType",
+    "promo_tip": "Write emotionally compelling content that appeals to readers who seek depth.",
+    "tags": [
+      "Sample",
+      "Genre"
+    ]
+  },
+  {
+    "name": "Persona 9",
+    "traits": "Represents a nuanced reader group #9",
+    "tropes": "sample trope, emotional core, genre hook",
+    "hashtags": "#ExampleTag #GenreHook #ReaderType",
+    "promo_tip": "Write emotionally compelling content that appeals to readers who seek depth.",
+    "tags": [
+      "Sample",
+      "Genre"
+    ]
+  },
+  {
+    "name": "Persona 10",
+    "traits": "Represents a nuanced reader group #10",
+    "tropes": "sample trope, emotional core, genre hook",
+    "hashtags": "#ExampleTag #GenreHook #ReaderType",
+    "promo_tip": "Write emotionally compelling content that appeals to readers who seek depth.",
+    "tags": [
+      "Sample",
+      "Genre"
+    ]
+  },
+  {
+    "name": "Persona 11",
+    "traits": "Represents a nuanced reader group #11",
+    "tropes": "sample trope, emotional core, genre hook",
+    "hashtags": "#ExampleTag #GenreHook #ReaderType",
+    "promo_tip": "Write emotionally compelling content that appeals to readers who seek depth.",
+    "tags": [
+      "Sample",
+      "Genre"
+    ]
+  },
+  {
+    "name": "Persona 12",
+    "traits": "Represents a nuanced reader group #12",
+    "tropes": "sample trope, emotional core, genre hook",
+    "hashtags": "#ExampleTag #GenreHook #ReaderType",
+    "promo_tip": "Write emotionally compelling content that appeals to readers who seek depth.",
+    "tags": [
+      "Sample",
+      "Genre"
+    ]
+  },
+  {
+    "name": "Persona 13",
+    "traits": "Represents a nuanced reader group #13",
+    "tropes": "sample trope, emotional core, genre hook",
+    "hashtags": "#ExampleTag #GenreHook #ReaderType",
+    "promo_tip": "Write emotionally compelling content that appeals to readers who seek depth.",
+    "tags": [
+      "Sample",
+      "Genre"
+    ]
+  },
+  {
+    "name": "Persona 14",
+    "traits": "Represents a nuanced reader group #14",
+    "tropes": "sample trope, emotional core, genre hook",
+    "hashtags": "#ExampleTag #GenreHook #ReaderType",
+    "promo_tip": "Write emotionally compelling content that appeals to readers who seek depth.",
+    "tags": [
+      "Sample",
+      "Genre"
+    ]
+  },
+  {
+    "name": "Persona 15",
+    "traits": "Represents a nuanced reader group #15",
+    "tropes": "sample trope, emotional core, genre hook",
+    "hashtags": "#ExampleTag #GenreHook #ReaderType",
+    "promo_tip": "Write emotionally compelling content that appeals to readers who seek depth.",
+    "tags": [
+      "Sample",
+      "Genre"
+    ]
+  },
+  {
+    "name": "Persona 16",
+    "traits": "Represents a nuanced reader group #16",
+    "tropes": "sample trope, emotional core, genre hook",
+    "hashtags": "#ExampleTag #GenreHook #ReaderType",
+    "promo_tip": "Write emotionally compelling content that appeals to readers who seek depth.",
+    "tags": [
+      "Sample",
+      "Genre"
+    ]
+  },
+  {
+    "name": "Persona 17",
+    "traits": "Represents a nuanced reader group #17",
+    "tropes": "sample trope, emotional core, genre hook",
+    "hashtags": "#ExampleTag #GenreHook #ReaderType",
+    "promo_tip": "Write emotionally compelling content that appeals to readers who seek depth.",
+    "tags": [
+      "Sample",
+      "Genre"
+    ]
+  },
+  {
+    "name": "Persona 18",
+    "traits": "Represents a nuanced reader group #18",
+    "tropes": "sample trope, emotional core, genre hook",
+    "hashtags": "#ExampleTag #GenreHook #ReaderType",
+    "promo_tip": "Write emotionally compelling content that appeals to readers who seek depth.",
+    "tags": [
+      "Sample",
+      "Genre"
+    ]
+  },
+  {
+    "name": "Persona 19",
+    "traits": "Represents a nuanced reader group #19",
+    "tropes": "sample trope, emotional core, genre hook",
+    "hashtags": "#ExampleTag #GenreHook #ReaderType",
+    "promo_tip": "Write emotionally compelling content that appeals to readers who seek depth.",
+    "tags": [
+      "Sample",
+      "Genre"
+    ]
+  },
+  {
+    "name": "Persona 20",
+    "traits": "Represents a nuanced reader group #20",
+    "tropes": "sample trope, emotional core, genre hook",
+    "hashtags": "#ExampleTag #GenreHook #ReaderType",
+    "promo_tip": "Write emotionally compelling content that appeals to readers who seek depth.",
+    "tags": [
+      "Sample",
+      "Genre"
+    ]
+  },
+  {
+    "name": "Persona 21",
+    "traits": "Represents a nuanced reader group #21",
+    "tropes": "sample trope, emotional core, genre hook",
+    "hashtags": "#ExampleTag #GenreHook #ReaderType",
+    "promo_tip": "Write emotionally compelling content that appeals to readers who seek depth.",
+    "tags": [
+      "Sample",
+      "Genre"
+    ]
+  },
+  {
+    "name": "Persona 22",
+    "traits": "Represents a nuanced reader group #22",
+    "tropes": "sample trope, emotional core, genre hook",
+    "hashtags": "#ExampleTag #GenreHook #ReaderType",
+    "promo_tip": "Write emotionally compelling content that appeals to readers who seek depth.",
+    "tags": [
+      "Sample",
+      "Genre"
+    ]
+  },
+  {
+    "name": "Persona 23",
+    "traits": "Represents a nuanced reader group #23",
+    "tropes": "sample trope, emotional core, genre hook",
+    "hashtags": "#ExampleTag #GenreHook #ReaderType",
+    "promo_tip": "Write emotionally compelling content that appeals to readers who seek depth.",
+    "tags": [
+      "Sample",
+      "Genre"
+    ]
+  },
+  {
+    "name": "Persona 24",
+    "traits": "Represents a nuanced reader group #24",
+    "tropes": "sample trope, emotional core, genre hook",
+    "hashtags": "#ExampleTag #GenreHook #ReaderType",
+    "promo_tip": "Write emotionally compelling content that appeals to readers who seek depth.",
+    "tags": [
+      "Sample",
+      "Genre"
+    ]
+  },
+  {
+    "name": "Persona 25",
+    "traits": "Represents a nuanced reader group #25",
+    "tropes": "sample trope, emotional core, genre hook",
+    "hashtags": "#ExampleTag #GenreHook #ReaderType",
+    "promo_tip": "Write emotionally compelling content that appeals to readers who seek depth.",
+    "tags": [
+      "Sample",
+      "Genre"
+    ]
+  },
+  {
+    "name": "Persona 26",
+    "traits": "Represents a nuanced reader group #26",
+    "tropes": "sample trope, emotional core, genre hook",
+    "hashtags": "#ExampleTag #GenreHook #ReaderType",
+    "promo_tip": "Write emotionally compelling content that appeals to readers who seek depth.",
+    "tags": [
+      "Sample",
+      "Genre"
+    ]
+  },
+  {
+    "name": "Persona 27",
+    "traits": "Represents a nuanced reader group #27",
+    "tropes": "sample trope, emotional core, genre hook",
+    "hashtags": "#ExampleTag #GenreHook #ReaderType",
+    "promo_tip": "Write emotionally compelling content that appeals to readers who seek depth.",
+    "tags": [
+      "Sample",
+      "Genre"
+    ]
+  },
+  {
+    "name": "Persona 28",
+    "traits": "Represents a nuanced reader group #28",
+    "tropes": "sample trope, emotional core, genre hook",
+    "hashtags": "#ExampleTag #GenreHook #ReaderType",
+    "promo_tip": "Write emotionally compelling content that appeals to readers who seek depth.",
+    "tags": [
+      "Sample",
+      "Genre"
+    ]
+  },
+  {
+    "name": "Persona 29",
+    "traits": "Represents a nuanced reader group #29",
+    "tropes": "sample trope, emotional core, genre hook",
+    "hashtags": "#ExampleTag #GenreHook #ReaderType",
+    "promo_tip": "Write emotionally compelling content that appeals to readers who seek depth.",
+    "tags": [
+      "Sample",
+      "Genre"
+    ]
+  },
+  {
+    "name": "Persona 30",
+    "traits": "Represents a nuanced reader group #30",
+    "tropes": "sample trope, emotional core, genre hook",
+    "hashtags": "#ExampleTag #GenreHook #ReaderType",
+    "promo_tip": "Write emotionally compelling content that appeals to readers who seek depth.",
+    "tags": [
+      "Sample",
+      "Genre"
+    ]
+  },
+  {
+    "name": "Persona 31",
+    "traits": "Represents a nuanced reader group #31",
+    "tropes": "sample trope, emotional core, genre hook",
+    "hashtags": "#ExampleTag #GenreHook #ReaderType",
+    "promo_tip": "Write emotionally compelling content that appeals to readers who seek depth.",
+    "tags": [
+      "Sample",
+      "Genre"
+    ]
+  },
+  {
+    "name": "Persona 32",
+    "traits": "Represents a nuanced reader group #32",
+    "tropes": "sample trope, emotional core, genre hook",
+    "hashtags": "#ExampleTag #GenreHook #ReaderType",
+    "promo_tip": "Write emotionally compelling content that appeals to readers who seek depth.",
+    "tags": [
+      "Sample",
+      "Genre"
+    ]
+  },
+  {
+    "name": "Persona 33",
+    "traits": "Represents a nuanced reader group #33",
+    "tropes": "sample trope, emotional core, genre hook",
+    "hashtags": "#ExampleTag #GenreHook #ReaderType",
+    "promo_tip": "Write emotionally compelling content that appeals to readers who seek depth.",
+    "tags": [
+      "Sample",
+      "Genre"
+    ]
+  },
+  {
+    "name": "Persona 34",
+    "traits": "Represents a nuanced reader group #34",
+    "tropes": "sample trope, emotional core, genre hook",
+    "hashtags": "#ExampleTag #GenreHook #ReaderType",
+    "promo_tip": "Write emotionally compelling content that appeals to readers who seek depth.",
+    "tags": [
+      "Sample",
+      "Genre"
+    ]
+  },
+  {
+    "name": "Persona 35",
+    "traits": "Represents a nuanced reader group #35",
+    "tropes": "sample trope, emotional core, genre hook",
+    "hashtags": "#ExampleTag #GenreHook #ReaderType",
+    "promo_tip": "Write emotionally compelling content that appeals to readers who seek depth.",
+    "tags": [
+      "Sample",
+      "Genre"
+    ]
+  },
+  {
+    "name": "Persona 36",
+    "traits": "Represents a nuanced reader group #36",
+    "tropes": "sample trope, emotional core, genre hook",
+    "hashtags": "#ExampleTag #GenreHook #ReaderType",
+    "promo_tip": "Write emotionally compelling content that appeals to readers who seek depth.",
+    "tags": [
+      "Sample",
+      "Genre"
+    ]
+  },
+  {
+    "name": "Persona 37",
+    "traits": "Represents a nuanced reader group #37",
+    "tropes": "sample trope, emotional core, genre hook",
+    "hashtags": "#ExampleTag #GenreHook #ReaderType",
+    "promo_tip": "Write emotionally compelling content that appeals to readers who seek depth.",
+    "tags": [
+      "Sample",
+      "Genre"
+    ]
+  },
+  {
+    "name": "Persona 38",
+    "traits": "Represents a nuanced reader group #38",
+    "tropes": "sample trope, emotional core, genre hook",
+    "hashtags": "#ExampleTag #GenreHook #ReaderType",
+    "promo_tip": "Write emotionally compelling content that appeals to readers who seek depth.",
+    "tags": [
+      "Sample",
+      "Genre"
+    ]
+  },
+  {
+    "name": "Persona 39",
+    "traits": "Represents a nuanced reader group #39",
+    "tropes": "sample trope, emotional core, genre hook",
+    "hashtags": "#ExampleTag #GenreHook #ReaderType",
+    "promo_tip": "Write emotionally compelling content that appeals to readers who seek depth.",
+    "tags": [
+      "Sample",
+      "Genre"
+    ]
+  },
+  {
+    "name": "Persona 40",
+    "traits": "Represents a nuanced reader group #40",
+    "tropes": "sample trope, emotional core, genre hook",
+    "hashtags": "#ExampleTag #GenreHook #ReaderType",
+    "promo_tip": "Write emotionally compelling content that appeals to readers who seek depth.",
+    "tags": [
+      "Sample",
+      "Genre"
+    ]
+  },
+  {
+    "name": "Persona 41",
+    "traits": "Represents a nuanced reader group #41",
+    "tropes": "sample trope, emotional core, genre hook",
+    "hashtags": "#ExampleTag #GenreHook #ReaderType",
+    "promo_tip": "Write emotionally compelling content that appeals to readers who seek depth.",
+    "tags": [
+      "Sample",
+      "Genre"
+    ]
+  },
+  {
+    "name": "Persona 42",
+    "traits": "Represents a nuanced reader group #42",
+    "tropes": "sample trope, emotional core, genre hook",
+    "hashtags": "#ExampleTag #GenreHook #ReaderType",
+    "promo_tip": "Write emotionally compelling content that appeals to readers who seek depth.",
+    "tags": [
+      "Sample",
+      "Genre"
+    ]
+  },
+  {
+    "name": "Persona 43",
+    "traits": "Represents a nuanced reader group #43",
+    "tropes": "sample trope, emotional core, genre hook",
+    "hashtags": "#ExampleTag #GenreHook #ReaderType",
+    "promo_tip": "Write emotionally compelling content that appeals to readers who seek depth.",
+    "tags": [
+      "Sample",
+      "Genre"
+    ]
+  },
+  {
+    "name": "Persona 44",
+    "traits": "Represents a nuanced reader group #44",
+    "tropes": "sample trope, emotional core, genre hook",
+    "hashtags": "#ExampleTag #GenreHook #ReaderType",
+    "promo_tip": "Write emotionally compelling content that appeals to readers who seek depth.",
+    "tags": [
+      "Sample",
+      "Genre"
+    ]
+  },
+  {
+    "name": "Persona 45",
+    "traits": "Represents a nuanced reader group #45",
+    "tropes": "sample trope, emotional core, genre hook",
+    "hashtags": "#ExampleTag #GenreHook #ReaderType",
+    "promo_tip": "Write emotionally compelling content that appeals to readers who seek depth.",
+    "tags": [
+      "Sample",
+      "Genre"
+    ]
+  },
+  {
+    "name": "Persona 46",
+    "traits": "Represents a nuanced reader group #46",
+    "tropes": "sample trope, emotional core, genre hook",
+    "hashtags": "#ExampleTag #GenreHook #ReaderType",
+    "promo_tip": "Write emotionally compelling content that appeals to readers who seek depth.",
+    "tags": [
+      "Sample",
+      "Genre"
+    ]
+  },
+  {
+    "name": "Persona 47",
+    "traits": "Represents a nuanced reader group #47",
+    "tropes": "sample trope, emotional core, genre hook",
+    "hashtags": "#ExampleTag #GenreHook #ReaderType",
+    "promo_tip": "Write emotionally compelling content that appeals to readers who seek depth.",
+    "tags": [
+      "Sample",
+      "Genre"
+    ]
+  },
+  {
+    "name": "Persona 48",
+    "traits": "Represents a nuanced reader group #48",
+    "tropes": "sample trope, emotional core, genre hook",
+    "hashtags": "#ExampleTag #GenreHook #ReaderType",
+    "promo_tip": "Write emotionally compelling content that appeals to readers who seek depth.",
+    "tags": [
+      "Sample",
+      "Genre"
+    ]
+  },
+  {
+    "name": "Persona 49",
+    "traits": "Represents a nuanced reader group #49",
+    "tropes": "sample trope, emotional core, genre hook",
+    "hashtags": "#ExampleTag #GenreHook #ReaderType",
+    "promo_tip": "Write emotionally compelling content that appeals to readers who seek depth.",
+    "tags": [
+      "Sample",
+      "Genre"
+    ]
+  },
+  {
+    "name": "Persona 50",
+    "traits": "Represents a nuanced reader group #50",
+    "tropes": "sample trope, emotional core, genre hook",
+    "hashtags": "#ExampleTag #GenreHook #ReaderType",
+    "promo_tip": "Write emotionally compelling content that appeals to readers who seek depth.",
+    "tags": [
+      "Sample",
+      "Genre"
+    ]
+  },
+  {
+    "name": "Persona 51",
+    "traits": "Represents a nuanced reader group #51",
+    "tropes": "sample trope, emotional core, genre hook",
+    "hashtags": "#ExampleTag #GenreHook #ReaderType",
+    "promo_tip": "Write emotionally compelling content that appeals to readers who seek depth.",
+    "tags": [
+      "Sample",
+      "Genre"
+    ]
+  },
+  {
+    "name": "Persona 52",
+    "traits": "Represents a nuanced reader group #52",
+    "tropes": "sample trope, emotional core, genre hook",
+    "hashtags": "#ExampleTag #GenreHook #ReaderType",
+    "promo_tip": "Write emotionally compelling content that appeals to readers who seek depth.",
+    "tags": [
+      "Sample",
+      "Genre"
+    ]
+  },
+  {
+    "name": "Persona 53",
+    "traits": "Represents a nuanced reader group #53",
+    "tropes": "sample trope, emotional core, genre hook",
+    "hashtags": "#ExampleTag #GenreHook #ReaderType",
+    "promo_tip": "Write emotionally compelling content that appeals to readers who seek depth.",
+    "tags": [
+      "Sample",
+      "Genre"
+    ]
+  },
+  {
+    "name": "Persona 54",
+    "traits": "Represents a nuanced reader group #54",
+    "tropes": "sample trope, emotional core, genre hook",
+    "hashtags": "#ExampleTag #GenreHook #ReaderType",
+    "promo_tip": "Write emotionally compelling content that appeals to readers who seek depth.",
+    "tags": [
+      "Sample",
+      "Genre"
+    ]
+  },
+  {
+    "name": "Persona 55",
+    "traits": "Represents a nuanced reader group #55",
+    "tropes": "sample trope, emotional core, genre hook",
+    "hashtags": "#ExampleTag #GenreHook #ReaderType",
+    "promo_tip": "Write emotionally compelling content that appeals to readers who seek depth.",
+    "tags": [
+      "Sample",
+      "Genre"
+    ]
+  },
+  {
+    "name": "Persona 56",
+    "traits": "Represents a nuanced reader group #56",
+    "tropes": "sample trope, emotional core, genre hook",
+    "hashtags": "#ExampleTag #GenreHook #ReaderType",
+    "promo_tip": "Write emotionally compelling content that appeals to readers who seek depth.",
+    "tags": [
+      "Sample",
+      "Genre"
+    ]
+  },
+  {
+    "name": "Persona 57",
+    "traits": "Represents a nuanced reader group #57",
+    "tropes": "sample trope, emotional core, genre hook",
+    "hashtags": "#ExampleTag #GenreHook #ReaderType",
+    "promo_tip": "Write emotionally compelling content that appeals to readers who seek depth.",
+    "tags": [
+      "Sample",
+      "Genre"
+    ]
+  },
+  {
+    "name": "Persona 58",
+    "traits": "Represents a nuanced reader group #58",
+    "tropes": "sample trope, emotional core, genre hook",
+    "hashtags": "#ExampleTag #GenreHook #ReaderType",
+    "promo_tip": "Write emotionally compelling content that appeals to readers who seek depth.",
+    "tags": [
+      "Sample",
+      "Genre"
+    ]
+  },
+  {
+    "name": "Persona 59",
+    "traits": "Represents a nuanced reader group #59",
+    "tropes": "sample trope, emotional core, genre hook",
+    "hashtags": "#ExampleTag #GenreHook #ReaderType",
+    "promo_tip": "Write emotionally compelling content that appeals to readers who seek depth.",
+    "tags": [
+      "Sample",
+      "Genre"
+    ]
+  },
+  {
+    "name": "Persona 60",
+    "traits": "Represents a nuanced reader group #60",
+    "tropes": "sample trope, emotional core, genre hook",
+    "hashtags": "#ExampleTag #GenreHook #ReaderType",
+    "promo_tip": "Write emotionally compelling content that appeals to readers who seek depth.",
+    "tags": [
+      "Sample",
+      "Genre"
+    ]
+  },
+  {
+    "name": "Persona 61",
+    "traits": "Represents a nuanced reader group #61",
+    "tropes": "sample trope, emotional core, genre hook",
+    "hashtags": "#ExampleTag #GenreHook #ReaderType",
+    "promo_tip": "Write emotionally compelling content that appeals to readers who seek depth.",
+    "tags": [
+      "Sample",
+      "Genre"
+    ]
+  },
+  {
+    "name": "Persona 62",
+    "traits": "Represents a nuanced reader group #62",
+    "tropes": "sample trope, emotional core, genre hook",
+    "hashtags": "#ExampleTag #GenreHook #ReaderType",
+    "promo_tip": "Write emotionally compelling content that appeals to readers who seek depth.",
+    "tags": [
+      "Sample",
+      "Genre"
+    ]
+  },
+  {
+    "name": "Persona 63",
+    "traits": "Represents a nuanced reader group #63",
+    "tropes": "sample trope, emotional core, genre hook",
+    "hashtags": "#ExampleTag #GenreHook #ReaderType",
+    "promo_tip": "Write emotionally compelling content that appeals to readers who seek depth.",
+    "tags": [
+      "Sample",
+      "Genre"
+    ]
+  },
+  {
+    "name": "Persona 64",
+    "traits": "Represents a nuanced reader group #64",
+    "tropes": "sample trope, emotional core, genre hook",
+    "hashtags": "#ExampleTag #GenreHook #ReaderType",
+    "promo_tip": "Write emotionally compelling content that appeals to readers who seek depth.",
+    "tags": [
+      "Sample",
+      "Genre"
+    ]
+  },
+  {
+    "name": "Persona 65",
+    "traits": "Represents a nuanced reader group #65",
+    "tropes": "sample trope, emotional core, genre hook",
+    "hashtags": "#ExampleTag #GenreHook #ReaderType",
+    "promo_tip": "Write emotionally compelling content that appeals to readers who seek depth.",
+    "tags": [
+      "Sample",
+      "Genre"
+    ]
+  },
+  {
+    "name": "Persona 66",
+    "traits": "Represents a nuanced reader group #66",
+    "tropes": "sample trope, emotional core, genre hook",
+    "hashtags": "#ExampleTag #GenreHook #ReaderType",
+    "promo_tip": "Write emotionally compelling content that appeals to readers who seek depth.",
+    "tags": [
+      "Sample",
+      "Genre"
+    ]
+  },
+  {
+    "name": "Persona 67",
+    "traits": "Represents a nuanced reader group #67",
+    "tropes": "sample trope, emotional core, genre hook",
+    "hashtags": "#ExampleTag #GenreHook #ReaderType",
+    "promo_tip": "Write emotionally compelling content that appeals to readers who seek depth.",
+    "tags": [
+      "Sample",
+      "Genre"
+    ]
+  },
+  {
+    "name": "Persona 68",
+    "traits": "Represents a nuanced reader group #68",
+    "tropes": "sample trope, emotional core, genre hook",
+    "hashtags": "#ExampleTag #GenreHook #ReaderType",
+    "promo_tip": "Write emotionally compelling content that appeals to readers who seek depth.",
+    "tags": [
+      "Sample",
+      "Genre"
+    ]
+  },
+  {
+    "name": "Persona 69",
+    "traits": "Represents a nuanced reader group #69",
+    "tropes": "sample trope, emotional core, genre hook",
+    "hashtags": "#ExampleTag #GenreHook #ReaderType",
+    "promo_tip": "Write emotionally compelling content that appeals to readers who seek depth.",
+    "tags": [
+      "Sample",
+      "Genre"
+    ]
+  },
+  {
+    "name": "Persona 70",
+    "traits": "Represents a nuanced reader group #70",
+    "tropes": "sample trope, emotional core, genre hook",
+    "hashtags": "#ExampleTag #GenreHook #ReaderType",
+    "promo_tip": "Write emotionally compelling content that appeals to readers who seek depth.",
+    "tags": [
+      "Sample",
+      "Genre"
+    ]
+  },
+  {
+    "name": "Persona 71",
+    "traits": "Represents a nuanced reader group #71",
+    "tropes": "sample trope, emotional core, genre hook",
+    "hashtags": "#ExampleTag #GenreHook #ReaderType",
+    "promo_tip": "Write emotionally compelling content that appeals to readers who seek depth.",
+    "tags": [
+      "Sample",
+      "Genre"
+    ]
+  },
+  {
+    "name": "Persona 72",
+    "traits": "Represents a nuanced reader group #72",
+    "tropes": "sample trope, emotional core, genre hook",
+    "hashtags": "#ExampleTag #GenreHook #ReaderType",
+    "promo_tip": "Write emotionally compelling content that appeals to readers who seek depth.",
+    "tags": [
+      "Sample",
+      "Genre"
+    ]
+  },
+  {
+    "name": "Persona 73",
+    "traits": "Represents a nuanced reader group #73",
+    "tropes": "sample trope, emotional core, genre hook",
+    "hashtags": "#ExampleTag #GenreHook #ReaderType",
+    "promo_tip": "Write emotionally compelling content that appeals to readers who seek depth.",
+    "tags": [
+      "Sample",
+      "Genre"
+    ]
+  },
+  {
+    "name": "Persona 74",
+    "traits": "Represents a nuanced reader group #74",
+    "tropes": "sample trope, emotional core, genre hook",
+    "hashtags": "#ExampleTag #GenreHook #ReaderType",
+    "promo_tip": "Write emotionally compelling content that appeals to readers who seek depth.",
+    "tags": [
+      "Sample",
+      "Genre"
+    ]
+  },
+  {
+    "name": "Persona 75",
+    "traits": "Represents a nuanced reader group #75",
+    "tropes": "sample trope, emotional core, genre hook",
+    "hashtags": "#ExampleTag #GenreHook #ReaderType",
+    "promo_tip": "Write emotionally compelling content that appeals to readers who seek depth.",
+    "tags": [
+      "Sample",
+      "Genre"
+    ]
+  },
+  {
+    "name": "Persona 76",
+    "traits": "Represents a nuanced reader group #76",
+    "tropes": "sample trope, emotional core, genre hook",
+    "hashtags": "#ExampleTag #GenreHook #ReaderType",
+    "promo_tip": "Write emotionally compelling content that appeals to readers who seek depth.",
+    "tags": [
+      "Sample",
+      "Genre"
+    ]
+  },
+  {
+    "name": "Persona 77",
+    "traits": "Represents a nuanced reader group #77",
+    "tropes": "sample trope, emotional core, genre hook",
+    "hashtags": "#ExampleTag #GenreHook #ReaderType",
+    "promo_tip": "Write emotionally compelling content that appeals to readers who seek depth.",
+    "tags": [
+      "Sample",
+      "Genre"
+    ]
+  },
+  {
+    "name": "Persona 78",
+    "traits": "Represents a nuanced reader group #78",
+    "tropes": "sample trope, emotional core, genre hook",
+    "hashtags": "#ExampleTag #GenreHook #ReaderType",
+    "promo_tip": "Write emotionally compelling content that appeals to readers who seek depth.",
+    "tags": [
+      "Sample",
+      "Genre"
+    ]
+  },
+  {
+    "name": "Persona 79",
+    "traits": "Represents a nuanced reader group #79",
+    "tropes": "sample trope, emotional core, genre hook",
+    "hashtags": "#ExampleTag #GenreHook #ReaderType",
+    "promo_tip": "Write emotionally compelling content that appeals to readers who seek depth.",
+    "tags": [
+      "Sample",
+      "Genre"
+    ]
+  },
+  {
+    "name": "Persona 80",
+    "traits": "Represents a nuanced reader group #80",
+    "tropes": "sample trope, emotional core, genre hook",
+    "hashtags": "#ExampleTag #GenreHook #ReaderType",
+    "promo_tip": "Write emotionally compelling content that appeals to readers who seek depth.",
+    "tags": [
+      "Sample",
+      "Genre"
+    ]
+  },
+  {
+    "name": "Persona 81",
+    "traits": "Represents a nuanced reader group #81",
+    "tropes": "sample trope, emotional core, genre hook",
+    "hashtags": "#ExampleTag #GenreHook #ReaderType",
+    "promo_tip": "Write emotionally compelling content that appeals to readers who seek depth.",
+    "tags": [
+      "Sample",
+      "Genre"
+    ]
+  },
+  {
+    "name": "Persona 82",
+    "traits": "Represents a nuanced reader group #82",
+    "tropes": "sample trope, emotional core, genre hook",
+    "hashtags": "#ExampleTag #GenreHook #ReaderType",
+    "promo_tip": "Write emotionally compelling content that appeals to readers who seek depth.",
+    "tags": [
+      "Sample",
+      "Genre"
+    ]
+  },
+  {
+    "name": "Persona 83",
+    "traits": "Represents a nuanced reader group #83",
+    "tropes": "sample trope, emotional core, genre hook",
+    "hashtags": "#ExampleTag #GenreHook #ReaderType",
+    "promo_tip": "Write emotionally compelling content that appeals to readers who seek depth.",
+    "tags": [
+      "Sample",
+      "Genre"
+    ]
+  },
+  {
+    "name": "Persona 84",
+    "traits": "Represents a nuanced reader group #84",
+    "tropes": "sample trope, emotional core, genre hook",
+    "hashtags": "#ExampleTag #GenreHook #ReaderType",
+    "promo_tip": "Write emotionally compelling content that appeals to readers who seek depth.",
+    "tags": [
+      "Sample",
+      "Genre"
+    ]
+  },
+  {
+    "name": "Persona 85",
+    "traits": "Represents a nuanced reader group #85",
+    "tropes": "sample trope, emotional core, genre hook",
+    "hashtags": "#ExampleTag #GenreHook #ReaderType",
+    "promo_tip": "Write emotionally compelling content that appeals to readers who seek depth.",
+    "tags": [
+      "Sample",
+      "Genre"
+    ]
+  },
+  {
+    "name": "Persona 86",
+    "traits": "Represents a nuanced reader group #86",
+    "tropes": "sample trope, emotional core, genre hook",
+    "hashtags": "#ExampleTag #GenreHook #ReaderType",
+    "promo_tip": "Write emotionally compelling content that appeals to readers who seek depth.",
+    "tags": [
+      "Sample",
+      "Genre"
+    ]
+  },
+  {
+    "name": "Persona 87",
+    "traits": "Represents a nuanced reader group #87",
+    "tropes": "sample trope, emotional core, genre hook",
+    "hashtags": "#ExampleTag #GenreHook #ReaderType",
+    "promo_tip": "Write emotionally compelling content that appeals to readers who seek depth.",
+    "tags": [
+      "Sample",
+      "Genre"
+    ]
+  },
+  {
+    "name": "Persona 88",
+    "traits": "Represents a nuanced reader group #88",
+    "tropes": "sample trope, emotional core, genre hook",
+    "hashtags": "#ExampleTag #GenreHook #ReaderType",
+    "promo_tip": "Write emotionally compelling content that appeals to readers who seek depth.",
+    "tags": [
+      "Sample",
+      "Genre"
+    ]
+  },
+  {
+    "name": "Persona 89",
+    "traits": "Represents a nuanced reader group #89",
+    "tropes": "sample trope, emotional core, genre hook",
+    "hashtags": "#ExampleTag #GenreHook #ReaderType",
+    "promo_tip": "Write emotionally compelling content that appeals to readers who seek depth.",
+    "tags": [
+      "Sample",
+      "Genre"
+    ]
+  },
+  {
+    "name": "Persona 90",
+    "traits": "Represents a nuanced reader group #90",
+    "tropes": "sample trope, emotional core, genre hook",
+    "hashtags": "#ExampleTag #GenreHook #ReaderType",
+    "promo_tip": "Write emotionally compelling content that appeals to readers who seek depth.",
+    "tags": [
+      "Sample",
+      "Genre"
+    ]
+  },
+  {
+    "name": "Persona 91",
+    "traits": "Represents a nuanced reader group #91",
+    "tropes": "sample trope, emotional core, genre hook",
+    "hashtags": "#ExampleTag #GenreHook #ReaderType",
+    "promo_tip": "Write emotionally compelling content that appeals to readers who seek depth.",
+    "tags": [
+      "Sample",
+      "Genre"
+    ]
+  },
+  {
+    "name": "Persona 92",
+    "traits": "Represents a nuanced reader group #92",
+    "tropes": "sample trope, emotional core, genre hook",
+    "hashtags": "#ExampleTag #GenreHook #ReaderType",
+    "promo_tip": "Write emotionally compelling content that appeals to readers who seek depth.",
+    "tags": [
+      "Sample",
+      "Genre"
+    ]
+  }
+]
